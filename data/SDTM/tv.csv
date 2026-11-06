@@ -1,0 +1,27 @@
+STUDYID,DOMAIN,VISITNUM,VISIT,VISITDY,ARMCD,TVSTRL
+ADBM-101,TV,1,SCREENING,-21,,Up to 28 days before first dose
+ADBM-101,TV,2,DAY 1,1,,Study day 1 +/- 14 days
+ADBM-101,TV,2.1,DAY 4 (PK),4,,"PK sample only, study day 4 +/- 1 day"
+ADBM-101,TV,2.2,DAY 8 (PK),8,,"PK sample only, study day 8 +/- 1 day"
+ADBM-101,TV,3,WEEK 2,15,,Study day 15 +/- 14 days
+ADBM-101,TV,4,WEEK 4,29,,Study day 29 +/- 14 days
+ADBM-101,TV,4.1,DAY 57 (PK),57,,"PK sample only, study day 57 +/- 1 day"
+ADBM-101,TV,5,WEEK 12,85,,Study day 85 +/- 14 days
+ADBM-201,TV,1,SCREENING,-28,,Up to 28 days before first dose
+ADBM-201,TV,2,BASELINE,1,,Study day 1 +/- 14 days
+ADBM-201,TV,3,WEEK 13,92,,Study day 92 +/- 14 days
+ADBM-201,TV,4,WEEK 26,183,,Study day 183 +/- 14 days
+ADBM-201,TV,5,WEEK 39,274,,Study day 274 +/- 14 days
+ADBM-201,TV,6,WEEK 52,365,,Study day 365 +/- 14 days
+ADBM-301,TV,1,SCREENING,-28,,Up to 28 days before first dose
+ADBM-301,TV,2,BASELINE,1,,Study day 1 +/- 14 days
+ADBM-301,TV,3,WEEK 13,92,,Study day 92 +/- 14 days
+ADBM-301,TV,4,WEEK 26,183,,Study day 183 +/- 14 days
+ADBM-301,TV,5,WEEK 39,274,,Study day 274 +/- 14 days
+ADBM-301,TV,6,WEEK 52,365,,Study day 365 +/- 14 days
+ADBM-301,TV,7,WEEK 65,456,,Study day 456 +/- 14 days
+ADBM-301,TV,8,WEEK 78,547,,Study day 547 +/- 14 days
+ADBM-401,TV,1,SCREENING,-28,,Up to 28 days before first dose
+ADBM-401,TV,2,BASELINE,1,,Study day 1 +/- 14 days
+ADBM-401,TV,3,WEEK 26,183,,Study day 183 +/- 14 days
+ADBM-401,TV,4,WEEK 52,365,,Study day 365 +/- 14 days

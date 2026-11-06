@@ -1,0 +1,57 @@
+STUDYID,DOMAIN,TSSEQ,TSPARMCD,TSPARM,TSVAL
+ADBM-101,TS,1,TITLE,Trial Title,"A SAD/MAD, placebo-controlled, dose-ranging study of ABX-001 in early Alzheimer's disease (ADBM-101)"
+ADBM-101,TS,1,TPHASE,Trial Phase Classification,PHASE I TRIAL
+ADBM-101,TS,1,STYPE,Study Type,INTERVENTIONAL
+ADBM-101,TS,1,INDIC,Trial Disease/Condition Indication,Alzheimer's Disease
+ADBM-101,TS,1,TRT,Investigational Therapy or Treatment,ABX-001
+ADBM-101,TS,1,RANDOM,Trial is Randomized,Y
+ADBM-101,TS,1,TBLIND,Trial Blinding Schema,DOUBLE BLIND
+ADBM-101,TS,1,PLANSUB,Planned Number of Subjects,48
+ADBM-101,TS,1,AGEMIN,Planned Minimum Age of Subjects,P55Y
+ADBM-101,TS,1,AGEMAX,Planned Maximum Age of Subjects,P89Y
+ADBM-101,TS,1,SEXPOP,Sex of Participants,BOTH
+ADBM-101,TS,1,TDIGRP,Diagnosis Group,Early Alzheimer's disease (MCI due to AD or mild AD dementia)
+ADBM-101,TS,1,SDTIGVER,SDTM IG Version,3.4
+ADBM-101,TS,1,ADDON,Added on to Existing Treatments,Y
+ADBM-201,TS,1,TITLE,Trial Title,"A Randomized, placebo-controlled, 2 doses study of ABX-001 in early Alzheimer's disease (ADBM-201)"
+ADBM-201,TS,1,TPHASE,Trial Phase Classification,PHASE II TRIAL
+ADBM-201,TS,1,STYPE,Study Type,INTERVENTIONAL
+ADBM-201,TS,1,INDIC,Trial Disease/Condition Indication,Alzheimer's Disease
+ADBM-201,TS,1,TRT,Investigational Therapy or Treatment,ABX-001
+ADBM-201,TS,1,RANDOM,Trial is Randomized,Y
+ADBM-201,TS,1,TBLIND,Trial Blinding Schema,DOUBLE BLIND
+ADBM-201,TS,1,PLANSUB,Planned Number of Subjects,180
+ADBM-201,TS,1,AGEMIN,Planned Minimum Age of Subjects,P60Y
+ADBM-201,TS,1,AGEMAX,Planned Maximum Age of Subjects,P89Y
+ADBM-201,TS,1,SEXPOP,Sex of Participants,BOTH
+ADBM-201,TS,1,TDIGRP,Diagnosis Group,Early Alzheimer's disease (MCI due to AD or mild AD dementia)
+ADBM-201,TS,1,SDTIGVER,SDTM IG Version,3.4
+ADBM-201,TS,1,ADDON,Added on to Existing Treatments,Y
+ADBM-301,TS,1,TITLE,Trial Title,"A Randomized, placebo-controlled, pivotal study of ABX-001 in early Alzheimer's disease (ADBM-301)"
+ADBM-301,TS,1,TPHASE,Trial Phase Classification,PHASE III TRIAL
+ADBM-301,TS,1,STYPE,Study Type,INTERVENTIONAL
+ADBM-301,TS,1,INDIC,Trial Disease/Condition Indication,Alzheimer's Disease
+ADBM-301,TS,1,TRT,Investigational Therapy or Treatment,ABX-001
+ADBM-301,TS,1,RANDOM,Trial is Randomized,Y
+ADBM-301,TS,1,TBLIND,Trial Blinding Schema,DOUBLE BLIND
+ADBM-301,TS,1,PLANSUB,Planned Number of Subjects,600
+ADBM-301,TS,1,AGEMIN,Planned Minimum Age of Subjects,P60Y
+ADBM-301,TS,1,AGEMAX,Planned Maximum Age of Subjects,P89Y
+ADBM-301,TS,1,SEXPOP,Sex of Participants,BOTH
+ADBM-301,TS,1,TDIGRP,Diagnosis Group,Early Alzheimer's disease (MCI due to AD or mild AD dementia)
+ADBM-301,TS,1,SDTIGVER,SDTM IG Version,3.4
+ADBM-301,TS,1,ADDON,Added on to Existing Treatments,Y
+ADBM-401,TS,1,TITLE,Trial Title,"A Open-label, real-world post-marketing study of ABX-001 in early Alzheimer's disease (ADBM-401)"
+ADBM-401,TS,1,TPHASE,Trial Phase Classification,PHASE IV TRIAL
+ADBM-401,TS,1,STYPE,Study Type,INTERVENTIONAL
+ADBM-401,TS,1,INDIC,Trial Disease/Condition Indication,Alzheimer's Disease
+ADBM-401,TS,1,TRT,Investigational Therapy or Treatment,ABX-001
+ADBM-401,TS,1,RANDOM,Trial is Randomized,N
+ADBM-401,TS,1,TBLIND,Trial Blinding Schema,OPEN LABEL
+ADBM-401,TS,1,PLANSUB,Planned Number of Subjects,300
+ADBM-401,TS,1,AGEMIN,Planned Minimum Age of Subjects,P60Y
+ADBM-401,TS,1,AGEMAX,Planned Maximum Age of Subjects,P89Y
+ADBM-401,TS,1,SEXPOP,Sex of Participants,BOTH
+ADBM-401,TS,1,TDIGRP,Diagnosis Group,Early Alzheimer's disease (MCI due to AD or mild AD dementia)
+ADBM-401,TS,1,SDTIGVER,SDTM IG Version,3.4
+ADBM-401,TS,1,ADDON,Added on to Existing Treatments,Y
