@@ -1,0 +1,58 @@
+{
+  "phase1": {
+    "cmax_slope": 1.01,
+    "cmax_ci90": [0.94, 1.09],
+    "auc_slope": 1,
+    "thalf_days_median": 28.3
+  },
+  "phase2": {
+    "ptau_pct_vs_pbo_high": -42.3,
+    "ptau_pct_vs_pbo_low": -22.4,
+    "p_high": "<0.001"
+  },
+  "phase3": {
+    "cdrsb_diff_wk78": -0.5,
+    "cdrsb_ci95": [-0.73, -0.27],
+    "cdrsb_p": "<0.001",
+    "cdrsb_pct_slowing": 28.5,
+    "adas13_diff_wk78": -1.99,
+    "adas13_p": "<0.001",
+    "n_efficacy": 583
+  },
+  "pet": {
+    "ph3_active_cl_change": -49.1,
+    "ph3_active_amyneg_pct": 49.3
+  },
+  "aria": {
+    "active_e4hom_pct": 18.9,
+    "active_noncarrier_pct": 6.8,
+    "placebo_pct": 1.7,
+    "hr_active": 6.6
+  },
+  "phase4": {
+    "auc_ptau217": 0.927,
+    "auc_ci": [0.898, 0.955],
+    "auc_ab4240": 0.904,
+    "youden_cut": 0.298,
+    "sens": 0.772,
+    "spec": 0.917,
+    "intermediate_pct": 29.5,
+    "accuracy_outside": 93.3,
+    "n": 298,
+    "rho_all": 0.8
+  },
+  "surrogacy": {
+    "r": 0.24,
+    "pte_pct": 45
+  },
+  "safety": {
+    "hys_law_n": 1,
+    "hys_law_ids": "ADBM-301-3009-004"
+  },
+  "program": {
+    "n_subjects": 1128,
+    "n_studies": 4,
+    "sdtm_domains": 17,
+    "adam_datasets": 9
+  }
+}

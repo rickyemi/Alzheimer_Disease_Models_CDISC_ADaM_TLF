@@ -1,0 +1,49 @@
+CHECK_ID,DATASET,DESCRIPTION,N_ISSUES,STATUS
+AD0001,ADSL,One record per USUBJID,0,PASS
+AD0002,ADAE,Every USUBJID exists in ADSL,0,PASS
+AD0002,ADLB,Every USUBJID exists in ADSL,0,PASS
+AD0002,ADBM,Every USUBJID exists in ADSL,0,PASS
+AD0002,ADQS,Every USUBJID exists in ADSL,0,PASS
+AD0002,ADNV,Every USUBJID exists in ADSL,0,PASS
+AD0002,ADTTE,Every USUBJID exists in ADSL,0,PASS
+AD0002,ADPC,Every USUBJID exists in ADSL,0,PASS
+AD0002,ADPP,Every USUBJID exists in ADSL,0,PASS
+AD0003,ADSL,ADSL subjects == SDTM DM subjects,0,PASS
+AD0007,ADLB,PARAM <-> PARAMCD is one-to-one,0,PASS
+AD0007,ADBM,PARAM <-> PARAMCD is one-to-one,0,PASS
+AD0007,ADQS,PARAM <-> PARAMCD is one-to-one,0,PASS
+AD0007,ADNV,PARAM <-> PARAMCD is one-to-one,0,PASS
+AD0007,ADTTE,PARAM <-> PARAMCD is one-to-one,0,PASS
+AD0007,ADPC,PARAM <-> PARAMCD is one-to-one,0,PASS
+AD0007,ADPP,PARAM <-> PARAMCD is one-to-one,0,PASS
+AD0004,ADLB,At most one ABLFL='Y' per USUBJID x PARAMCD,0,PASS
+AD0005,ADLB,CHG equals AVAL - BASE,0,PASS
+AD0006,ADLB,BASE constant within USUBJID x PARAMCD,0,PASS
+AD0004,ADBM,At most one ABLFL='Y' per USUBJID x PARAMCD,0,PASS
+AD0005,ADBM,CHG equals AVAL - BASE,0,PASS
+AD0006,ADBM,BASE constant within USUBJID x PARAMCD,0,PASS
+AD0004,ADQS,At most one ABLFL='Y' per USUBJID x PARAMCD,0,PASS
+AD0005,ADQS,CHG equals AVAL - BASE,0,PASS
+AD0006,ADQS,BASE constant within USUBJID x PARAMCD,0,PASS
+AD0004,ADNV,At most one ABLFL='Y' per USUBJID x PARAMCD,0,PASS
+AD0005,ADNV,CHG equals AVAL - BASE,0,PASS
+AD0006,ADNV,BASE constant within USUBJID x PARAMCD,0,PASS
+AD0008,ADSL,EFFFL='Y' implies SAFFL='Y' implies ITTFL='Y',0,PASS
+AD0014,ADSL,Subject counts by STUDYID x ARM reconcile with DM,0,PASS
+AD0009,ADAE,TRTEMFL matches independent re-derivation,0,PASS
+AD0010,ADLB,AVAL traces to LB.LBSTRESN via SRCSEQ,0,PASS
+AD0010,ADBM,AVAL traces to LB.LBSTRESN via SRCSEQ,0,PASS
+AD0010,ADQS,AVAL traces to QS.QSSTRESN via SRCSEQ,0,PASS
+AD0010,ADNV,AVAL traces to NV.NVSTRESN via SRCSEQ,0,PASS
+AD0010,ADPC,AVAL traces to PC.PCSTRESN via SRCSEQ,0,PASS
+AD0011,ADTTE,"CNSR in {0,1} and AVAL >= 1",0,PASS
+AD0013,ADSL,Variable names <= 8 and labels <= 40 characters,0,PASS
+AD0013,ADAE,Variable names <= 8 and labels <= 40 characters,0,PASS
+AD0013,ADLB,Variable names <= 8 and labels <= 40 characters,0,PASS
+AD0013,ADBM,Variable names <= 8 and labels <= 40 characters,0,PASS
+AD0013,ADQS,Variable names <= 8 and labels <= 40 characters,0,PASS
+AD0013,ADNV,Variable names <= 8 and labels <= 40 characters,0,PASS
+AD0013,ADTTE,Variable names <= 8 and labels <= 40 characters,0,PASS
+AD0013,ADPC,Variable names <= 8 and labels <= 40 characters,0,PASS
+AD0013,ADPP,Variable names <= 8 and labels <= 40 characters,0,PASS
+AD0012,ADQS,Double programming: CDR-SB CHG from RAW EDC equals production ADQS,0,PASS

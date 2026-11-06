@@ -1,0 +1,306 @@
+DATASET,VARIABLE,LABEL,TYPE,FORMAT,DERIVATION,ORIGIN
+ADSL,STUDYID,Study Identifier,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,USUBJID,Unique Subject Identifier,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,SUBJID,Subject Identifier for the Study,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,SITEID,Study Site Identifier,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,COUNTRY,,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,PHASE,Trial Phase,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,REGION1,Geographic Region 1,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,AGE,Age,Num,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,AGEU,,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,AGEGR1,Pooled Age Group 1,Char,,"<65, 65-74, >=75 from DM.AGE",Derived
+ADSL,AGEGR1N,Pooled Age Group 1 (N),Num,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,SEX,Sex,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,RACE,Race,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,ETHNIC,,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,ARM,,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,ARMCD,,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,ACTARM,,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,ACTARMCD,,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,TRT01P,Planned Treatment for Period 01,Char,,DM.ARM,Derived
+ADSL,TRT01PN,Planned Treatment for Period 01 (N),Num,,Planned dose in mg (0 = placebo); ordering code,Derived
+ADSL,TRT01A,Actual Treatment for Period 01,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,TRT01AN,Actual Treatment for Period 01 (N),Num,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,TRT01PG1,Planned Pooled Treatment 1 for Period 01,Char,,Short pooled label of DM.ARMCD for displays,Derived
+ADSL,RANDDT,Date of Randomization,Num,DATE9.,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,TRTSDT,Date of First Exposure to Treatment,Num,DATE9.,Date part of min(EX.EXSTDTC),Derived
+ADSL,TRTEDT,Date of Last Exposure to Treatment,Num,DATE9.,Date part of max(EX.EXSTDTC),Derived
+ADSL,TRTDURD,Total Treatment Duration (Days),Num,,TRTEDT - TRTSDT + 1,Derived
+ADSL,NINFUS,Number of Infusions Received,Num,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,CUMDOSE,Cumulative Dose (mg),Num,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,EOSDT,End of Study Date,Num,DATE9.,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,EOSSTT,End of Study Status,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,DCSREAS,Reason for Discontinuation from Study,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,STRAT1R,Stratification Factor 1 (Randomized),Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,APOEGT,APOE Genotype,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,APOE4N,Number of APOE e4 Alleles,Num,,Count of 'e4' in GF.GFSTRESC where GFGENSR='APOE',Derived
+ADSL,APOE4FL,APOE e4 Carrier Flag,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,DTHFL,Subject Death Flag,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,DTHDT,Date of Death,Num,DATE9.,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,ITTFL,Intent-To-Treat Population Flag,Char,,'Y' if randomized/enrolled (DS.DSDECOD='RANDOMIZED'),Derived
+ADSL,SAFFL,Safety Population Flag,Char,,'Y' if TRTSDT not missing (>= 1 dose),Derived
+ADSL,COMPLFL,Completers Population Flag,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,BLAMYCL,Baseline Amyloid PET Centiloid,Num,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,BPTAU217,Baseline Plasma p-tau217 (pg/mL),Num,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,BAB4240,Baseline Plasma Abeta42/40 Ratio,Num,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,BCDRSB,Baseline CDR Sum of Boxes,Num,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,BMMSE,Baseline MMSE,Num,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,AMYPOSFL,Baseline Amyloid PET Positive Flag,Char,,'Y' if baseline Centiloid >= 24,Derived
+ADSL,BMMSEGR,Baseline MMSE Group,Char,,Copied from SDTM DM / ADSL merge,Predecessor
+ADSL,EFFFL,Efficacy Population Flag,Char,,'Y' if SAFFL='Y' and baseline CDR-SB and >= 1 post-baseline CDR-SB,Derived
+ADSL,BBMFL,Biomarker Population Flag,Char,,'Y' if SAFFL='Y' and baseline and >= 1 post-baseline plasma p-tau217,Derived
+ADSL,PKFL,PK Population Flag,Char,,'Y' if active treatment and >= 1 quantifiable post-dose PC result,Derived
+ADAE,STUDYID,Study Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,USUBJID,Unique Subject Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,PHASE,Trial Phase,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,SITEID,Study Site Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,TRT01P,Planned Treatment for Period 01,Char,,DM.ARM,Derived
+ADAE,TRT01PN,Planned Treatment for Period 01 (N),Num,,Planned dose in mg (0 = placebo); ordering code,Derived
+ADAE,TRT01PG1,Planned Pooled Treatment 1 for Period 01,Char,,Short pooled label of DM.ARMCD for displays,Derived
+ADAE,TRT01A,Actual Treatment for Period 01,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,TRT01AN,Actual Treatment for Period 01 (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,SAFFL,Safety Population Flag,Char,,'Y' if TRTSDT not missing (>= 1 dose),Derived
+ADAE,APOE4FL,APOE e4 Carrier Flag,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,APOE4N,Number of APOE e4 Alleles,Num,,Count of 'e4' in GF.GFSTRESC where GFGENSR='APOE',Derived
+ADAE,AGE,Age,Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,SEX,Sex,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,TRTSDT,Date of First Exposure to Treatment,Num,DATE9.,Date part of min(EX.EXSTDTC),Derived
+ADAE,TRTEDT,Date of Last Exposure to Treatment,Num,DATE9.,Date part of max(EX.EXSTDTC),Derived
+ADAE,AESEQ,,Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AETERM,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AELLT,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AEDECOD,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AEBODSYS,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AESER,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AESEV,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,ASEV,Analysis Severity/Intensity,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,ASEVN,Analysis Severity/Intensity (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AEREL,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AREL,Analysis Causality,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,ARELN,Analysis Causality (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AEACN,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AEOUT,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AESDTH,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AESTDTC,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AEENDTC,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,ASTDT,Analysis Start Date,Num,DATE9.,AESTDTC imputed: YYYY-MM -> 1st of month (or TRTSDT if same month); YYYY -> Jan 1 (or TRTSDT if same year),Derived
+ADAE,ASTDTF,Analysis Start Date Imputation Flag,Char,,"'D' if day imputed, 'M' if month and day imputed",Derived
+ADAE,AENDT,Analysis End Date,Num,DATE9.,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,ASTDY,Analysis Start Relative Day,Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AENDY,Analysis End Relative Day,Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,ADURN,Analysis Duration (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,ADURU,Analysis Duration Units,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,TRTEMFL,Treatment Emergent Analysis Flag,Char,,'Y' if TRTSDT <= ASTDT <= TRTEDT + 30,Derived
+ADAE,AOCCFL,1st Occurrence within Subject Flag,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AOCCSFL,1st Occurrence of SOC Flag,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADAE,AOCCPFL,1st Occurrence of Preferred Term Flag,Char,,"First TEAE per USUBJID x AEDECOD sorted by ASTDT, AESEQ",Derived
+ADAE,CQ01NAM,Customized Query 01 Name,Char,,'ARIA-E' if AEDECOD = MedDRA PT ARIA-oedema/effusion,Derived
+ADAE,CQ02NAM,Customized Query 02 Name,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,STUDYID,Study Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,USUBJID,Unique Subject Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,PHASE,Trial Phase,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,SITEID,Study Site Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,TRT01P,Planned Treatment for Period 01,Char,,DM.ARM,Derived
+ADLB,TRT01PN,Planned Treatment for Period 01 (N),Num,,Planned dose in mg (0 = placebo); ordering code,Derived
+ADLB,TRT01PG1,Planned Pooled Treatment 1 for Period 01,Char,,Short pooled label of DM.ARMCD for displays,Derived
+ADLB,TRT01A,Actual Treatment for Period 01,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,TRT01AN,Actual Treatment for Period 01 (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,SAFFL,Safety Population Flag,Char,,'Y' if TRTSDT not missing (>= 1 dose),Derived
+ADLB,TRTSDT,Date of First Exposure to Treatment,Num,DATE9.,Date part of min(EX.EXSTDTC),Derived
+ADLB,PARAMCD,Parameter Code,Char,,ADQS CDRSB = sum of the 6 CDR boxes (all 6 required); ADBM AB4240 = AB42/AB40 same draw,Derived
+ADLB,PARAM,Parameter,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,PARCAT1,Parameter Category 1,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,AVAL,Analysis Value,Num,,"Numeric source --STRESN; '<x' results: ADLB = x, ADBM = LBLLOQ/2 (BLQFL='Y')",Derived
+ADLB,AVALC,Analysis Value (C),Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,BLQFL,Below Limit of Quantitation Flag,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,BASE,Baseline Value,Num,,AVAL of the ABLFL='Y' record,Derived
+ADLB,CHG,Change from Baseline,Num,,AVAL - BASE (post-baseline records only),Derived
+ADLB,PCHG,Percent Change from Baseline,Num,,"100 x (AVAL - BASE) / BASE (post-baseline, BASE != 0)",Derived
+ADLB,ABLFL,Baseline Record Flag,Char,,"Last record with non-missing AVAL and ADT <= TRTSDT, per USUBJID x PARAMCD",Derived
+ADLB,ANL01FL,Analysis Flag 01,Char,,'Y' for baseline and scheduled post-baseline records used in by-visit analyses,Derived
+ADLB,ONTRTFL,On Treatment Record Flag,Char,,'Y' if TRTSDT < ADT <= TRTEDT + 30,Derived
+ADLB,ANRLO,Analysis Normal Range Lower Limit,Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,ANRHI,Analysis Normal Range Upper Limit,Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,ANRIND,Analysis Reference Range Indicator,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,BNRIND,Baseline Reference Range Indicator,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,R2ANRHI,Ratio to Analysis Range Upper Limit,Num,,AVAL / ANRHI (multiple of ULN),Derived
+ADLB,AVISIT,Analysis Visit,Char,,'BASELINE' for ABLFL='Y'; otherwise SDTM VISIT,Derived
+ADLB,AVISITN,Analysis Visit (N),Num,,"Planned week number (BASELINE = 0, SCREENING = -1)",Derived
+ADLB,VISIT,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,VISITNUM,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,ADT,Analysis Date,Num,DATE9.,Date part of --DTC (complete dates only),Derived
+ADLB,ADY,Analysis Relative Day,Num,,ADT - TRTSDT + 1 if ADT >= TRTSDT else ADT - TRTSDT,Derived
+ADLB,SRCDOM,Source Data,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,SRCVAR,Source Variable,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADLB,SRCSEQ,Source Sequence Number,Num,,--SEQ of the SDTM record the value came from (traceability),Derived
+ADBM,STUDYID,Study Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,USUBJID,Unique Subject Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,PHASE,Trial Phase,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,SITEID,Study Site Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,TRT01P,Planned Treatment for Period 01,Char,,DM.ARM,Derived
+ADBM,TRT01PN,Planned Treatment for Period 01 (N),Num,,Planned dose in mg (0 = placebo); ordering code,Derived
+ADBM,TRT01PG1,Planned Pooled Treatment 1 for Period 01,Char,,Short pooled label of DM.ARMCD for displays,Derived
+ADBM,TRT01A,Actual Treatment for Period 01,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,TRT01AN,Actual Treatment for Period 01 (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,SAFFL,Safety Population Flag,Char,,'Y' if TRTSDT not missing (>= 1 dose),Derived
+ADBM,APOE4FL,APOE e4 Carrier Flag,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,TRTSDT,Date of First Exposure to Treatment,Num,DATE9.,Date part of min(EX.EXSTDTC),Derived
+ADBM,PARAMCD,Parameter Code,Char,,ADQS CDRSB = sum of the 6 CDR boxes (all 6 required); ADBM AB4240 = AB42/AB40 same draw,Derived
+ADBM,PARAM,Parameter,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,PARAMTYP,Parameter Type,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,PARCAT1,Parameter Category 1,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,AVAL,Analysis Value,Num,,"Numeric source --STRESN; '<x' results: ADLB = x, ADBM = LBLLOQ/2 (BLQFL='Y')",Derived
+ADBM,AVALC,Analysis Value (C),Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,BLQFL,Below Limit of Quantitation Flag,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,BASE,Baseline Value,Num,,AVAL of the ABLFL='Y' record,Derived
+ADBM,CHG,Change from Baseline,Num,,AVAL - BASE (post-baseline records only),Derived
+ADBM,PCHG,Percent Change from Baseline,Num,,"100 x (AVAL - BASE) / BASE (post-baseline, BASE != 0)",Derived
+ADBM,ABLFL,Baseline Record Flag,Char,,"Last record with non-missing AVAL and ADT <= TRTSDT, per USUBJID x PARAMCD",Derived
+ADBM,ANL01FL,Analysis Flag 01,Char,,'Y' for baseline and scheduled post-baseline records used in by-visit analyses,Derived
+ADBM,AVISIT,Analysis Visit,Char,,'BASELINE' for ABLFL='Y'; otherwise SDTM VISIT,Derived
+ADBM,AVISITN,Analysis Visit (N),Num,,"Planned week number (BASELINE = 0, SCREENING = -1)",Derived
+ADBM,VISIT,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,VISITNUM,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,ADT,Analysis Date,Num,DATE9.,Date part of --DTC (complete dates only),Derived
+ADBM,ADY,Analysis Relative Day,Num,,ADT - TRTSDT + 1 if ADT >= TRTSDT else ADT - TRTSDT,Derived
+ADBM,SRCDOM,Source Data,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,SRCVAR,Source Variable,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADBM,SRCSEQ,Source Sequence Number,Num,,--SEQ of the SDTM record the value came from (traceability),Derived
+ADBM,BBMFL,Biomarker Population Flag,Char,,'Y' if SAFFL='Y' and baseline and >= 1 post-baseline plasma p-tau217,Derived
+ADBM,AMYPOSFL,Baseline Amyloid PET Positive Flag,Char,,'Y' if baseline Centiloid >= 24,Derived
+ADQS,STUDYID,Study Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,USUBJID,Unique Subject Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,PHASE,Trial Phase,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,SITEID,Study Site Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,TRT01P,Planned Treatment for Period 01,Char,,DM.ARM,Derived
+ADQS,TRT01PN,Planned Treatment for Period 01 (N),Num,,Planned dose in mg (0 = placebo); ordering code,Derived
+ADQS,TRT01PG1,Planned Pooled Treatment 1 for Period 01,Char,,Short pooled label of DM.ARMCD for displays,Derived
+ADQS,TRT01A,Actual Treatment for Period 01,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,TRT01AN,Actual Treatment for Period 01 (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,SAFFL,Safety Population Flag,Char,,'Y' if TRTSDT not missing (>= 1 dose),Derived
+ADQS,APOE4FL,APOE e4 Carrier Flag,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,TRTSDT,Date of First Exposure to Treatment,Num,DATE9.,Date part of min(EX.EXSTDTC),Derived
+ADQS,PARAMCD,Parameter Code,Char,,ADQS CDRSB = sum of the 6 CDR boxes (all 6 required); ADBM AB4240 = AB42/AB40 same draw,Derived
+ADQS,PARAM,Parameter,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,PARAMTYP,Parameter Type,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,PARCAT1,Parameter Category 1,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,AVAL,Analysis Value,Num,,"Numeric source --STRESN; '<x' results: ADLB = x, ADBM = LBLLOQ/2 (BLQFL='Y')",Derived
+ADQS,AVALC,Analysis Value (C),Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,BASE,Baseline Value,Num,,AVAL of the ABLFL='Y' record,Derived
+ADQS,CHG,Change from Baseline,Num,,AVAL - BASE (post-baseline records only),Derived
+ADQS,PCHG,Percent Change from Baseline,Num,,"100 x (AVAL - BASE) / BASE (post-baseline, BASE != 0)",Derived
+ADQS,ABLFL,Baseline Record Flag,Char,,"Last record with non-missing AVAL and ADT <= TRTSDT, per USUBJID x PARAMCD",Derived
+ADQS,ANL01FL,Analysis Flag 01,Char,,'Y' for baseline and scheduled post-baseline records used in by-visit analyses,Derived
+ADQS,AVISIT,Analysis Visit,Char,,'BASELINE' for ABLFL='Y'; otherwise SDTM VISIT,Derived
+ADQS,AVISITN,Analysis Visit (N),Num,,"Planned week number (BASELINE = 0, SCREENING = -1)",Derived
+ADQS,VISIT,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,VISITNUM,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,ADT,Analysis Date,Num,DATE9.,Date part of --DTC (complete dates only),Derived
+ADQS,ADY,Analysis Relative Day,Num,,ADT - TRTSDT + 1 if ADT >= TRTSDT else ADT - TRTSDT,Derived
+ADQS,SRCDOM,Source Data,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,SRCVAR,Source Variable,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADQS,SRCSEQ,Source Sequence Number,Num,,--SEQ of the SDTM record the value came from (traceability),Derived
+ADQS,EFFFL,Efficacy Population Flag,Char,,'Y' if SAFFL='Y' and baseline CDR-SB and >= 1 post-baseline CDR-SB,Derived
+ADQS,AMYPOSFL,Baseline Amyloid PET Positive Flag,Char,,'Y' if baseline Centiloid >= 24,Derived
+ADNV,STUDYID,Study Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,USUBJID,Unique Subject Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,PHASE,Trial Phase,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,SITEID,Study Site Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,TRT01P,Planned Treatment for Period 01,Char,,DM.ARM,Derived
+ADNV,TRT01PN,Planned Treatment for Period 01 (N),Num,,Planned dose in mg (0 = placebo); ordering code,Derived
+ADNV,TRT01PG1,Planned Pooled Treatment 1 for Period 01,Char,,Short pooled label of DM.ARMCD for displays,Derived
+ADNV,TRT01A,Actual Treatment for Period 01,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,TRT01AN,Actual Treatment for Period 01 (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,SAFFL,Safety Population Flag,Char,,'Y' if TRTSDT not missing (>= 1 dose),Derived
+ADNV,TRTSDT,Date of First Exposure to Treatment,Num,DATE9.,Date part of min(EX.EXSTDTC),Derived
+ADNV,PARAMCD,Parameter Code,Char,,ADQS CDRSB = sum of the 6 CDR boxes (all 6 required); ADBM AB4240 = AB42/AB40 same draw,Derived
+ADNV,PARAM,Parameter,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,PARCAT1,Parameter Category 1,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,AVAL,Analysis Value,Num,,"Numeric source --STRESN; '<x' results: ADLB = x, ADBM = LBLLOQ/2 (BLQFL='Y')",Derived
+ADNV,AVALC,Analysis Value (C),Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,BASE,Baseline Value,Num,,AVAL of the ABLFL='Y' record,Derived
+ADNV,BASEC,Baseline Value (C),Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,CHG,Change from Baseline,Num,,AVAL - BASE (post-baseline records only),Derived
+ADNV,PCHG,Percent Change from Baseline,Num,,"100 x (AVAL - BASE) / BASE (post-baseline, BASE != 0)",Derived
+ADNV,ABLFL,Baseline Record Flag,Char,,"Last record with non-missing AVAL and ADT <= TRTSDT, per USUBJID x PARAMCD",Derived
+ADNV,ANL01FL,Analysis Flag 01,Char,,'Y' for baseline and scheduled post-baseline records used in by-visit analyses,Derived
+ADNV,CRIT1,Analysis Criterion 1,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,CRIT1FL,Criterion 1 Evaluation Result Flag,Char,,'Y' if Centiloid < 24,Derived
+ADNV,AVISIT,Analysis Visit,Char,,'BASELINE' for ABLFL='Y'; otherwise SDTM VISIT,Derived
+ADNV,AVISITN,Analysis Visit (N),Num,,"Planned week number (BASELINE = 0, SCREENING = -1)",Derived
+ADNV,VISIT,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,VISITNUM,,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,ADT,Analysis Date,Num,DATE9.,Date part of --DTC (complete dates only),Derived
+ADNV,ADY,Analysis Relative Day,Num,,ADT - TRTSDT + 1 if ADT >= TRTSDT else ADT - TRTSDT,Derived
+ADNV,SRCDOM,Source Data,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,SRCVAR,Source Variable,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADNV,SRCSEQ,Source Sequence Number,Num,,--SEQ of the SDTM record the value came from (traceability),Derived
+ADNV,EFFFL,Efficacy Population Flag,Char,,'Y' if SAFFL='Y' and baseline CDR-SB and >= 1 post-baseline CDR-SB,Derived
+ADNV,AMYPOSFL,Baseline Amyloid PET Positive Flag,Char,,'Y' if baseline Centiloid >= 24,Derived
+ADTTE,STUDYID,Study Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,USUBJID,Unique Subject Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,PHASE,Trial Phase,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,SITEID,Study Site Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,TRT01P,Planned Treatment for Period 01,Char,,DM.ARM,Derived
+ADTTE,TRT01PN,Planned Treatment for Period 01 (N),Num,,Planned dose in mg (0 = placebo); ordering code,Derived
+ADTTE,TRT01PG1,Planned Pooled Treatment 1 for Period 01,Char,,Short pooled label of DM.ARMCD for displays,Derived
+ADTTE,TRT01A,Actual Treatment for Period 01,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,TRT01AN,Actual Treatment for Period 01 (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,SAFFL,Safety Population Flag,Char,,'Y' if TRTSDT not missing (>= 1 dose),Derived
+ADTTE,EFFFL,Efficacy Population Flag,Char,,'Y' if SAFFL='Y' and baseline CDR-SB and >= 1 post-baseline CDR-SB,Derived
+ADTTE,AMYPOSFL,Baseline Amyloid PET Positive Flag,Char,,'Y' if baseline Centiloid >= 24,Derived
+ADTTE,APOE4FL,APOE e4 Carrier Flag,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,APOE4N,Number of APOE e4 Alleles,Num,,Count of 'e4' in GF.GFSTRESC where GFGENSR='APOE',Derived
+ADTTE,PARAMCD,Parameter Code,Char,,ADQS CDRSB = sum of the 6 CDR boxes (all 6 required); ADBM AB4240 = AB42/AB40 same draw,Derived
+ADTTE,PARAM,Parameter,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,STARTDT,Time-to-Event Origin Date for Subject,Num,DATE9.,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,ADT,Analysis Date,Num,DATE9.,Date part of --DTC (complete dates only),Derived
+ADTTE,AVAL,Analysis Value,Num,,"Numeric source --STRESN; '<x' results: ADLB = x, ADBM = LBLLOQ/2 (BLQFL='Y')",Derived
+ADTTE,AVALU,Analysis Value Unit,Char,,'DAYS' for ADTTE,Derived
+ADTTE,CNSR,Censor,Num,,"0 = event, 1 = censored",Derived
+ADTTE,EVNTDESC,Event or Censoring Description,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,CNSDTDSC,Censor Date Description,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,SRCDOM,Source Data,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,SRCVAR,Source Variable,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADTTE,SRCSEQ,Source Sequence Number,Num,,--SEQ of the SDTM record the value came from (traceability),Derived
+ADPC,STUDYID,Study Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,USUBJID,Unique Subject Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,PHASE,Trial Phase,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,TRT01P,Planned Treatment for Period 01,Char,,DM.ARM,Derived
+ADPC,TRT01PN,Planned Treatment for Period 01 (N),Num,,Planned dose in mg (0 = placebo); ordering code,Derived
+ADPC,TRT01PG1,Planned Pooled Treatment 1 for Period 01,Char,,Short pooled label of DM.ARMCD for displays,Derived
+ADPC,TRT01A,Actual Treatment for Period 01,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,TRT01AN,Actual Treatment for Period 01 (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,SAFFL,Safety Population Flag,Char,,'Y' if TRTSDT not missing (>= 1 dose),Derived
+ADPC,PKFL,PK Population Flag,Char,,'Y' if active treatment and >= 1 quantifiable post-dose PC result,Derived
+ADPC,PARAMCD,Parameter Code,Char,,ADQS CDRSB = sum of the 6 CDR boxes (all 6 required); ADBM AB4240 = AB42/AB40 same draw,Derived
+ADPC,PARAM,Parameter,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,AVAL,Analysis Value,Num,,"Numeric source --STRESN; '<x' results: ADLB = x, ADBM = LBLLOQ/2 (BLQFL='Y')",Derived
+ADPC,AVALC,Analysis Value (C),Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,BLQFL,Below Limit of Quantitation Flag,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,ATPT,Analysis Timepoint,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,ATPTN,Analysis Timepoint (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,NFRLT,Nominal Rel Time from First Dose (h),Num,,PC.PCTPTNUM (nominal hours from first dose),Derived
+ADPC,AFRLT,Actual Rel Time from First Dose (h),Num,,PC.PCDTC - PC.PCRFTDTC in hours,Derived
+ADPC,AVISIT,Analysis Visit,Char,,'BASELINE' for ABLFL='Y'; otherwise SDTM VISIT,Derived
+ADPC,ADT,Analysis Date,Num,DATE9.,Date part of --DTC (complete dates only),Derived
+ADPC,DOSEA,Actual Treatment Dose,Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,DOSEU,Treatment Dose Units,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,SRCDOM,Source Data,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,SRCVAR,Source Variable,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPC,SRCSEQ,Source Sequence Number,Num,,--SEQ of the SDTM record the value came from (traceability),Derived
+ADPP,STUDYID,Study Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPP,USUBJID,Unique Subject Identifier,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPP,PHASE,Trial Phase,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPP,TRT01P,Planned Treatment for Period 01,Char,,DM.ARM,Derived
+ADPP,TRT01PN,Planned Treatment for Period 01 (N),Num,,Planned dose in mg (0 = placebo); ordering code,Derived
+ADPP,TRT01PG1,Planned Pooled Treatment 1 for Period 01,Char,,Short pooled label of DM.ARMCD for displays,Derived
+ADPP,TRT01A,Actual Treatment for Period 01,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPP,TRT01AN,Actual Treatment for Period 01 (N),Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADPP,PKFL,PK Population Flag,Char,,'Y' if active treatment and >= 1 quantifiable post-dose PC result,Derived
+ADPP,PARAMCD,Parameter Code,Char,,ADQS CDRSB = sum of the 6 CDR boxes (all 6 required); ADBM AB4240 = AB42/AB40 same draw,Derived
+ADPP,AVAL,Analysis Value,Num,,"Numeric source --STRESN; '<x' results: ADLB = x, ADBM = LBLLOQ/2 (BLQFL='Y')",Derived
+ADPP,PARAM,Parameter,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPP,DOSEA,Actual Treatment Dose,Num,,Copied from ADSL or source SDTM domain,Predecessor
+ADPP,DOSEU,Treatment Dose Units,Char,,Copied from ADSL or source SDTM domain,Predecessor
+ADPP,SRCDOM,Source Data,Char,,Copied from ADSL or source SDTM domain,Predecessor

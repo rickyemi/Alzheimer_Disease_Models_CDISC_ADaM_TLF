@@ -1,0 +1,35 @@
+SOURCE_SYSTEM,SOURCE_FILE,SOURCE_FIELD,DOMAIN,TARGET_VARIABLE,MAPPING_RULE
+EDC,edc_demographics.csv,STUDY + SUBJECT,DM,USUBJID,Concatenate STUDYID and SUBJID with '-'; must be unique across the whole submission
+EDC,edc_demographics.csv,GENDER,DM,SEX,"Map Male->M, Female->F (CT codelist SEX)"
+EDC,edc_demographics.csv,RACE / ETHNICITY,DM,RACE / ETHNIC,Upper-case to CT codelists RACE and ETHNIC
+EDC,edc_demographics.csv,BIRTH_YEAR,DM,BRTHDTC,Year only (partial ISO 8601) for privacy
+EDC,edc_demographics.csv,CONSENT_DATE,DM,RFICDTC,DD-MON-YYYY -> ISO 8601 YYYY-MM-DD
+EDC,edc_study_drug_admin.csv,min(INFUSION_DATE),DM,RFSTDTC/RFXSTDTC,First dose date/time; anchor for all --DY variables
+IXRS,ixrs_randomization.csv,TREATMENT_ARM,DM,ARMCD/ARM,Lookup to sponsor arm codes; ACTARM from exposure (no switches)
+IXRS,ixrs_randomization.csv,"RAND_NO, STRATUM",SUPPDM,QNAM/QVAL,"Non-standard variables go to SUPPDM, QORIG='ASSIGNED'"
+EDC,edc_visits.csv,VISIT_NAME,SV,VISIT/VISITNUM,Standardize label ('Wk 13'->'WEEK 13'); VISITNUM from TV
+EDC,edc_study_drug_admin.csv,DOSE_ADMIN_MG,EX,EXDOSE,Actual dose; EXADJ when infusion interrupted
+EDC,edc_adverse_events.csv,AE_VERBATIM,AE,AETERM,Verbatim as reported (never edited)
+Coder (MedDRA),coding_meddra_ae.csv,MEDDRA_PT / SOC / LLT,AE,AEDECOD/AEBODSYS/AELLT,Join on verbatim term
+EDC,edc_adverse_events.csv,START_DATE,AE,AESTDTC,Partial dates kept partial ('UN-JUN-2024'->'2024-06'); NO imputation in SDTM
+EDC,edc_adverse_events.csv,END_DATE blank,AE,AEENRTPT/AEENTPT,Ongoing at end of study -> 'ONGOING' relative to 'END OF STUDY'
+EDC,edc_conmeds.csv,MED_NAME,CM,CMTRT -> CMDECOD,WHODrug preferred name and ATC class joined from coding file
+EDC,edc_disposition.csv,PRIMARY_REASON,DS,DSDECOD,Upper-case to CT NCOMPLT; plus consent/randomization milestones
+EDC,edc_protocol_deviations.csv,DEVIATION_CATEGORY,DV,DVDECOD/DVCAT,Important vs non-important
+EDC,edc_vital_signs.csv,SYS_BP ... TEMP (wide),VS,VSTESTCD/VSORRES,"Pivot wide->long; lb->kg, in->cm, F->C in VSSTRESN"
+Central lab,centrallab_safety_results.txt,PATIENT_ID,LB,USUBJID,Split 'ADBM301|3012-005' -> STUDYID 'ADBM-301' + SUBJID
+Central lab,centrallab_safety_results.txt,"RESULT, UNITS",LB,LBORRES/LBSTRESN,"Keep original; convert to SI (e.g., bilirubin mg/dL x17.1 = umol/L)"
+Central lab,centrallab_safety_results.txt,'<0.2',LB,LBSTRESC,"Censored result: LBSTRESC='<3.42', LBSTRESN null"
+Biomarker lab,biomarker_plasma_results.csv,VISIT_CODE,LB,VISIT/VISITNUM,Vendor code (V2) -> EDC visit via biomarker_visit_code_map.csv
+Biomarker lab,biomarker_plasma_results.csv,ANALYTE,LB,LBTESTCD,"pTau217->PTAU217, Abeta42->AB42, ...; LBCAT='BIOMARKER', LBSPEC='PLASMA'"
+Biomarker lab,biomarker_plasma_results.csv,"RESULT '<LLOQ', LLOQ",LB,LBORRES/LBLLOQ,"LBORRES='<0.1', LBSTRESN null, LBLLOQ=0.1"
+Biomarker lab,biomarker_plasma_results.csv,QC_STATUS=FAIL,LB,LBSTAT/LBREASND,"Result null, LBSTAT='NOT DONE', reason from vendor comment"
+EDC,edc_cognitive_scales.csv,"CDR_* , MMSE, ADAS13",QS,QSTESTCD/QSORRES,Pivot wide->long; 'ND' -> QSSTAT='NOT DONE'; CDR-SB NOT derived here
+Genotyping vendor,apoe_genotypes.csv,GENOTYPE,GF,GFORRES/GFGENSR,One record per subject; gene symbol in GFGENSR
+Imaging core,amyloid_pet_reads.csv,"SUVR, CENTILOID, READ",NV,NVTESTCD,Three tests per scan; NVMETHOD='PET'
+Imaging core,amyloid_pet_reads.csv,TRACER,SUPPNV,QNAM=NVTRACER,Linked by IDVAR=NVREFID
+Bioanalytical lab,pk_serum_concentrations.csv,"CONC, 'BLQ', LLOQ",PC,PCORRES/PCSTRESN/PCLLOQ,BLQ kept as character; PCSTRESN null; LLOQ in PCLLOQ
+Bioanalytical lab,pk_serum_concentrations.csv,NOMINAL_TIMEPOINT/HOURS,PC,PCTPT/PCTPTNUM/PCELTM,Nominal time; PCELTM as ISO 8601 duration 'PT4H'; PCTPTREF='FIRST DOSE'
+Bioanalytical lab,pk_serum_concentrations.csv,SAMPLE_DATE 05MAR2024,PC,PCDTC,DDMONYYYY + HH:MM -> ISO 8601 date-time
+All,all findings,dates,All,--DY,"date - RFSTDTC + 1 if on/after RFSTDTC, else date - RFSTDTC (no day 0)"
+All,all findings,pre-dose values,All,--BLFL,Last non-missing result on/before RFSTDTC (SDTMIG 3.4 also offers --LOBXFL)
