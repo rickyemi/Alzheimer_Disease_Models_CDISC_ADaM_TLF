@@ -1,0 +1,1129 @@
+STUDY,SUBJECT,SITE_NO,BIRTH_YEAR,AGE_AT_CONSENT,GENDER,RACE,ETHNICITY,CONSENT_DATE
+ADBM-101,1003-001,1003,1947,75,Male,Other,Not Hispanic or Latino,23-JAN-2022
+ADBM-101,1003-002,1003,1950,72,Female,Other,Not Hispanic or Latino,29-JAN-2022
+ADBM-101,1003-003,1003,1953,69,Male,Black or African American,Not Hispanic or Latino,12-FEB-2022
+ADBM-101,1002-001,1002,1961,61,Male,Other,Not Hispanic or Latino,16-FEB-2022
+ADBM-101,1002-002,1002,1948,74,Female,Black or African American,Not Hispanic or Latino,23-FEB-2022
+ADBM-101,1004-001,1004,1955,67,Male,Asian,Not Hispanic or Latino,06-MAR-2022
+ADBM-101,1004-002,1004,1952,70,Male,Asian,Not Hispanic or Latino,10-MAR-2022
+ADBM-101,1003-004,1003,1958,64,Male,Asian,Not Hispanic or Latino,18-MAR-2022
+ADBM-101,1003-005,1003,1961,61,Male,White,Not Hispanic or Latino,23-MAR-2022
+ADBM-101,1003-006,1003,1967,55,Male,White,Not Hispanic or Latino,10-APR-2022
+ADBM-101,1001-001,1001,1949,73,Male,White,Not Hispanic or Latino,15-APR-2022
+ADBM-101,1001-002,1001,1945,77,Male,White,Not Hispanic or Latino,29-APR-2022
+ADBM-101,1001-003,1001,1963,59,Female,White,Not Hispanic or Latino,30-APR-2022
+ADBM-101,1002-003,1002,1944,78,Male,White,Not Hispanic or Latino,05-MAY-2022
+ADBM-101,1001-004,1001,1962,60,Female,Black or African American,Not Hispanic or Latino,11-MAY-2022
+ADBM-101,1003-007,1003,1949,73,Female,White,Not Hispanic or Latino,19-MAY-2022
+ADBM-101,1004-003,1004,1964,58,Female,White,Not Hispanic or Latino,26-MAY-2022
+ADBM-101,1001-005,1001,1953,69,Male,White,Not Hispanic or Latino,31-MAY-2022
+ADBM-101,1001-006,1001,1963,59,Female,Black or African American,Not Hispanic or Latino,06-JUN-2022
+ADBM-101,1003-008,1003,1944,78,Female,White,Not Hispanic or Latino,13-JUN-2022
+ADBM-101,1003-009,1003,1946,76,Male,White,Not Hispanic or Latino,17-JUN-2022
+ADBM-101,1001-007,1001,1942,80,Female,White,Not Hispanic or Latino,28-JUN-2022
+ADBM-101,1001-008,1001,1952,70,Female,Black or African American,Not Hispanic or Latino,30-JUN-2022
+ADBM-101,1001-009,1001,1944,78,Female,White,Not Hispanic or Latino,06-JUL-2022
+ADBM-101,1004-004,1004,1946,76,Male,Asian,Hispanic or Latino,13-JUL-2022
+ADBM-101,1002-004,1002,1963,59,Female,White,Unknown,19-JUL-2022
+ADBM-101,1003-010,1003,1946,76,Female,White,Hispanic or Latino,23-JUL-2022
+ADBM-101,1004-005,1004,1946,76,Male,Asian,Not Hispanic or Latino,23-JUL-2022
+ADBM-101,1004-006,1004,1945,77,Female,Asian,Not Hispanic or Latino,05-AUG-2022
+ADBM-101,1001-010,1001,1956,66,Male,Asian,Not Hispanic or Latino,08-AUG-2022
+ADBM-101,1001-011,1001,1956,66,Female,Other,Unknown,09-AUG-2022
+ADBM-101,1002-005,1002,1957,65,Male,White,Hispanic or Latino,12-AUG-2022
+ADBM-101,1002-006,1002,1952,70,Male,Black or African American,Not Hispanic or Latino,16-AUG-2022
+ADBM-101,1003-011,1003,1947,75,Female,White,Not Hispanic or Latino,09-SEP-2022
+ADBM-101,1002-007,1002,1950,72,Female,Black or African American,Not Hispanic or Latino,13-SEP-2022
+ADBM-101,1004-007,1004,1954,68,Female,White,Not Hispanic or Latino,08-OCT-2022
+ADBM-101,1002-008,1002,1945,77,Male,White,Not Hispanic or Latino,11-OCT-2022
+ADBM-101,1004-008,1004,1949,73,Male,White,Not Hispanic or Latino,15-OCT-2022
+ADBM-101,1003-012,1003,1960,62,Male,White,Unknown,18-OCT-2022
+ADBM-101,1001-012,1001,1952,70,Male,Asian,Not Hispanic or Latino,22-OCT-2022
+ADBM-101,1002-009,1002,1953,69,Female,Asian,Not Hispanic or Latino,22-NOV-2022
+ADBM-101,1004-009,1004,1950,72,Female,White,Not Hispanic or Latino,07-DEC-2022
+ADBM-101,1003-013,1003,1954,68,Male,White,Not Hispanic or Latino,11-DEC-2022
+ADBM-101,1003-014,1003,1947,75,Female,White,Not Hispanic or Latino,20-DEC-2022
+ADBM-101,1004-010,1004,1962,60,Female,White,Not Hispanic or Latino,25-DEC-2022
+ADBM-101,1001-013,1001,1953,69,Male,White,Not Hispanic or Latino,26-DEC-2022
+ADBM-101,1003-015,1003,1962,60,Female,Asian,Not Hispanic or Latino,29-DEC-2022
+ADBM-101,1003-016,1003,1948,75,Female,White,Not Hispanic or Latino,04-JAN-2023
+ADBM-201,2009-001,2009,1945,77,Female,White,Not Hispanic or Latino,06-SEP-2022
+ADBM-201,2008-001,2008,1948,74,Female,Black or African American,Not Hispanic or Latino,09-SEP-2022
+ADBM-201,2008-002,2008,1950,72,Male,Asian,Not Hispanic or Latino,10-SEP-2022
+ADBM-201,2010-001,2010,1948,74,Female,White,Not Hispanic or Latino,10-SEP-2022
+ADBM-201,2003-001,2003,1945,77,Male,White,Not Hispanic or Latino,17-SEP-2022
+ADBM-201,2010-002,2010,1959,63,Male,White,Not Hispanic or Latino,18-SEP-2022
+ADBM-201,2008-003,2008,1951,71,Female,Other,Not Hispanic or Latino,22-SEP-2022
+ADBM-201,2010-003,2010,1952,70,Female,White,Not Hispanic or Latino,23-SEP-2022
+ADBM-201,2010-004,2010,1957,65,Female,White,Not Hispanic or Latino,24-SEP-2022
+ADBM-201,2012-001,2012,1950,72,Female,White,Not Hispanic or Latino,24-SEP-2022
+ADBM-201,2009-002,2009,1943,79,Male,White,Not Hispanic or Latino,27-SEP-2022
+ADBM-201,2009-003,2009,1947,75,Male,White,Not Hispanic or Latino,27-SEP-2022
+ADBM-201,2009-004,2009,1942,80,Female,White,Not Hispanic or Latino,29-SEP-2022
+ADBM-201,2009-005,2009,1946,76,Female,White,Not Hispanic or Latino,29-SEP-2022
+ADBM-201,2008-004,2008,1953,69,Female,White,Not Hispanic or Latino,01-OCT-2022
+ADBM-201,2005-001,2005,1951,71,Female,White,Not Hispanic or Latino,01-OCT-2022
+ADBM-201,2008-005,2008,1955,67,Female,Black or African American,Not Hispanic or Latino,03-OCT-2022
+ADBM-201,2008-006,2008,1950,72,Female,White,Not Hispanic or Latino,05-OCT-2022
+ADBM-201,2008-007,2008,1954,68,Female,White,Not Hispanic or Latino,05-OCT-2022
+ADBM-201,2002-001,2002,1944,78,Female,Asian,Not Hispanic or Latino,07-OCT-2022
+ADBM-201,2006-001,2006,1962,60,Female,White,Not Hispanic or Latino,11-OCT-2022
+ADBM-201,2007-001,2007,1954,68,Male,White,Unknown,11-OCT-2022
+ADBM-201,2009-006,2009,1937,85,Male,White,Not Hispanic or Latino,14-OCT-2022
+ADBM-201,2002-002,2002,1951,71,Female,Asian,Hispanic or Latino,17-OCT-2022
+ADBM-201,2008-008,2008,1945,77,Male,White,Unknown,17-OCT-2022
+ADBM-201,2007-002,2007,1951,71,Female,Asian,Not Hispanic or Latino,23-OCT-2022
+ADBM-201,2004-001,2004,1949,73,Male,White,Not Hispanic or Latino,23-OCT-2022
+ADBM-201,2009-007,2009,1944,78,Male,White,Not Hispanic or Latino,26-OCT-2022
+ADBM-201,2011-001,2011,1963,59,Male,White,Not Hispanic or Latino,27-OCT-2022
+ADBM-201,2008-009,2008,1947,75,Male,Asian,Not Hispanic or Latino,01-NOV-2022
+ADBM-201,2009-008,2009,1964,58,Male,White,Not Hispanic or Latino,05-NOV-2022
+ADBM-201,2003-002,2003,1949,73,Male,White,Not Hispanic or Latino,06-NOV-2022
+ADBM-201,2007-003,2007,1952,70,Female,White,Not Hispanic or Latino,09-NOV-2022
+ADBM-201,2002-003,2002,1944,78,Female,Asian,Not Hispanic or Latino,09-NOV-2022
+ADBM-201,2009-009,2009,1953,69,Male,White,Not Hispanic or Latino,10-NOV-2022
+ADBM-201,2004-002,2004,1953,69,Female,White,Not Hispanic or Latino,11-NOV-2022
+ADBM-201,2009-010,2009,1947,75,Female,White,Hispanic or Latino,14-NOV-2022
+ADBM-201,2005-002,2005,1948,74,Male,White,Not Hispanic or Latino,15-NOV-2022
+ADBM-201,2010-005,2010,1951,71,Female,Asian,Not Hispanic or Latino,16-NOV-2022
+ADBM-201,2007-004,2007,1942,80,Male,White,Not Hispanic or Latino,18-NOV-2022
+ADBM-201,2009-011,2009,1961,61,Female,White,Hispanic or Latino,21-NOV-2022
+ADBM-201,2007-005,2007,1952,70,Female,White,Not Hispanic or Latino,21-NOV-2022
+ADBM-201,2004-003,2004,1952,70,Male,White,Not Hispanic or Latino,22-NOV-2022
+ADBM-201,2005-003,2005,1954,68,Male,White,Not Hispanic or Latino,25-NOV-2022
+ADBM-201,2011-002,2011,1948,74,Male,Asian,Not Hispanic or Latino,02-DEC-2022
+ADBM-201,2007-006,2007,1948,74,Male,White,Unknown,05-DEC-2022
+ADBM-201,2006-002,2006,1947,75,Male,White,Not Hispanic or Latino,06-DEC-2022
+ADBM-201,2006-003,2006,1958,64,Male,White,Not Hispanic or Latino,09-DEC-2022
+ADBM-201,2002-004,2002,1946,76,Male,Asian,Not Hispanic or Latino,16-DEC-2022
+ADBM-201,2009-012,2009,1960,62,Male,White,Not Hispanic or Latino,22-DEC-2022
+ADBM-201,2009-013,2009,1953,69,Female,White,Not Hispanic or Latino,25-DEC-2022
+ADBM-201,2009-014,2009,1941,82,Male,White,Not Hispanic or Latino,02-JAN-2023
+ADBM-201,2004-004,2004,1945,78,Male,White,Not Hispanic or Latino,07-JAN-2023
+ADBM-201,2009-015,2009,1946,77,Male,White,Not Hispanic or Latino,12-JAN-2023
+ADBM-201,2003-003,2003,1957,66,Female,White,Not Hispanic or Latino,12-JAN-2023
+ADBM-201,2009-016,2009,1955,68,Female,White,Not Hispanic or Latino,12-JAN-2023
+ADBM-201,2007-007,2007,1952,71,Male,White,Hispanic or Latino,13-JAN-2023
+ADBM-201,2003-004,2003,1948,75,Female,White,Not Hispanic or Latino,15-JAN-2023
+ADBM-201,2004-005,2004,1958,65,Female,White,Not Hispanic or Latino,18-JAN-2023
+ADBM-201,2007-008,2007,1953,70,Male,White,Not Hispanic or Latino,24-JAN-2023
+ADBM-201,2003-005,2003,1945,78,Female,Black or African American,Not Hispanic or Latino,24-JAN-2023
+ADBM-201,2008-010,2008,1951,72,Female,White,Hispanic or Latino,25-JAN-2023
+ADBM-201,2009-017,2009,1939,84,Male,White,Not Hispanic or Latino,28-JAN-2023
+ADBM-201,2008-011,2008,1950,73,Male,White,Not Hispanic or Latino,28-JAN-2023
+ADBM-201,2008-012,2008,1950,73,Male,White,Not Hispanic or Latino,28-JAN-2023
+ADBM-201,2010-006,2010,1949,74,Female,White,Not Hispanic or Latino,29-JAN-2023
+ADBM-201,2007-009,2007,1945,78,Female,White,Unknown,30-JAN-2023
+ADBM-201,2001-001,2001,1952,71,Male,Asian,Not Hispanic or Latino,31-JAN-2023
+ADBM-201,2003-006,2003,1963,60,Male,White,Not Hispanic or Latino,31-JAN-2023
+ADBM-201,2005-004,2005,1942,81,Female,White,Not Hispanic or Latino,01-FEB-2023
+ADBM-201,2004-006,2004,1951,72,Female,White,Not Hispanic or Latino,01-FEB-2023
+ADBM-201,2003-007,2003,1949,74,Male,Black or African American,Not Hispanic or Latino,02-FEB-2023
+ADBM-201,2007-010,2007,1956,67,Female,Black or African American,Not Hispanic or Latino,06-FEB-2023
+ADBM-201,2011-003,2011,1948,75,Male,Asian,Not Hispanic or Latino,06-FEB-2023
+ADBM-201,2007-011,2007,1952,71,Female,White,Not Hispanic or Latino,07-FEB-2023
+ADBM-201,2009-018,2009,1964,59,Female,White,Not Hispanic or Latino,08-FEB-2023
+ADBM-201,2007-012,2007,1944,79,Male,White,Not Hispanic or Latino,09-FEB-2023
+ADBM-201,2004-007,2004,1955,68,Female,Black or African American,Not Hispanic or Latino,10-FEB-2023
+ADBM-201,2009-019,2009,1950,73,Male,Other,Hispanic or Latino,13-FEB-2023
+ADBM-201,2005-005,2005,1955,68,Male,White,Not Hispanic or Latino,14-FEB-2023
+ADBM-201,2010-007,2010,1943,80,Male,White,Not Hispanic or Latino,17-FEB-2023
+ADBM-201,2003-008,2003,1959,64,Female,White,Not Hispanic or Latino,18-FEB-2023
+ADBM-201,2004-008,2004,1954,69,Male,White,Not Hispanic or Latino,19-FEB-2023
+ADBM-201,2006-004,2006,1944,79,Male,White,Not Hispanic or Latino,22-FEB-2023
+ADBM-201,2003-009,2003,1957,66,Male,White,Not Hispanic or Latino,24-FEB-2023
+ADBM-201,2007-013,2007,1937,86,Male,White,Hispanic or Latino,25-FEB-2023
+ADBM-201,2003-010,2003,1955,68,Female,White,Not Hispanic or Latino,04-MAR-2023
+ADBM-201,2004-009,2004,1946,77,Female,White,Not Hispanic or Latino,16-MAR-2023
+ADBM-201,2008-013,2008,1953,70,Female,White,Hispanic or Latino,19-MAR-2023
+ADBM-201,2002-005,2002,1951,72,Female,Asian,Not Hispanic or Latino,19-MAR-2023
+ADBM-201,2009-020,2009,1948,75,Female,White,Unknown,20-MAR-2023
+ADBM-201,2009-021,2009,1957,66,Female,White,Not Hispanic or Latino,21-MAR-2023
+ADBM-201,2007-014,2007,1953,70,Female,White,Not Hispanic or Latino,22-MAR-2023
+ADBM-201,2008-014,2008,1953,70,Male,White,Not Hispanic or Latino,26-MAR-2023
+ADBM-201,2004-010,2004,1944,79,Female,Asian,Not Hispanic or Latino,31-MAR-2023
+ADBM-201,2008-015,2008,1951,72,Female,White,Not Hispanic or Latino,02-APR-2023
+ADBM-201,2004-011,2004,1961,62,Male,White,Not Hispanic or Latino,03-APR-2023
+ADBM-201,2009-022,2009,1946,77,Female,White,Not Hispanic or Latino,03-APR-2023
+ADBM-201,2010-008,2010,1947,76,Male,White,Not Hispanic or Latino,05-APR-2023
+ADBM-201,2004-012,2004,1954,69,Female,Other,Not Hispanic or Latino,07-APR-2023
+ADBM-201,2011-004,2011,1959,64,Female,White,Not Hispanic or Latino,11-APR-2023
+ADBM-201,2008-016,2008,1956,67,Female,White,Not Hispanic or Latino,12-APR-2023
+ADBM-201,2005-006,2005,1952,71,Female,White,Not Hispanic or Latino,14-APR-2023
+ADBM-201,2004-013,2004,1947,76,Male,White,Not Hispanic or Latino,18-APR-2023
+ADBM-201,2008-017,2008,1946,77,Female,White,Not Hispanic or Latino,20-APR-2023
+ADBM-201,2008-018,2008,1951,72,Female,White,Hispanic or Latino,21-APR-2023
+ADBM-201,2004-014,2004,1951,72,Female,White,Not Hispanic or Latino,21-APR-2023
+ADBM-201,2009-023,2009,1950,73,Female,White,Not Hispanic or Latino,22-APR-2023
+ADBM-201,2010-009,2010,1945,78,Female,White,Not Hispanic or Latino,22-APR-2023
+ADBM-201,2004-015,2004,1961,62,Male,Asian,Not Hispanic or Latino,23-APR-2023
+ADBM-201,2009-024,2009,1951,72,Male,White,Not Hispanic or Latino,25-APR-2023
+ADBM-201,2002-006,2002,1951,72,Female,Asian,Not Hispanic or Latino,26-APR-2023
+ADBM-201,2008-019,2008,1953,70,Female,Asian,Not Hispanic or Latino,27-APR-2023
+ADBM-201,2005-007,2005,1942,81,Female,White,Not Hispanic or Latino,30-APR-2023
+ADBM-201,2009-025,2009,1960,63,Male,White,Not Hispanic or Latino,05-MAY-2023
+ADBM-201,2006-005,2006,1937,86,Female,Black or African American,Not Hispanic or Latino,06-MAY-2023
+ADBM-201,2004-016,2004,1957,66,Female,White,Not Hispanic or Latino,07-MAY-2023
+ADBM-201,2012-002,2012,1944,79,Female,White,Not Hispanic or Latino,08-MAY-2023
+ADBM-201,2010-010,2010,1963,60,Female,Asian,Not Hispanic or Latino,15-MAY-2023
+ADBM-201,2004-017,2004,1955,68,Female,White,Not Hispanic or Latino,15-MAY-2023
+ADBM-201,2009-026,2009,1940,83,Female,White,Not Hispanic or Latino,16-MAY-2023
+ADBM-201,2004-018,2004,1936,87,Male,Other,Not Hispanic or Latino,18-MAY-2023
+ADBM-201,2003-011,2003,1958,65,Female,White,Not Hispanic or Latino,24-MAY-2023
+ADBM-201,2009-027,2009,1956,67,Female,White,Not Hispanic or Latino,25-MAY-2023
+ADBM-201,2011-005,2011,1943,80,Male,Black or African American,Not Hispanic or Latino,25-MAY-2023
+ADBM-201,2002-007,2002,1961,62,Female,Asian,Not Hispanic or Latino,31-MAY-2023
+ADBM-201,2005-008,2005,1949,74,Female,White,Not Hispanic or Latino,31-MAY-2023
+ADBM-201,2008-020,2008,1955,68,Male,White,Not Hispanic or Latino,01-JUN-2023
+ADBM-201,2007-015,2007,1963,60,Male,White,Hispanic or Latino,05-JUN-2023
+ADBM-201,2005-009,2005,1955,68,Female,White,Not Hispanic or Latino,08-JUN-2023
+ADBM-201,2008-021,2008,1942,81,Male,White,Not Hispanic or Latino,10-JUN-2023
+ADBM-201,2009-028,2009,1948,75,Female,Asian,Not Hispanic or Latino,10-JUN-2023
+ADBM-201,2008-022,2008,1946,77,Female,White,Not Hispanic or Latino,11-JUN-2023
+ADBM-201,2008-023,2008,1951,72,Male,Other,Not Hispanic or Latino,14-JUN-2023
+ADBM-201,2003-012,2003,1958,65,Male,White,Not Hispanic or Latino,19-JUN-2023
+ADBM-201,2002-008,2002,1957,66,Female,Asian,Not Hispanic or Latino,20-JUN-2023
+ADBM-201,2005-010,2005,1956,67,Male,White,Not Hispanic or Latino,25-JUN-2023
+ADBM-201,2009-029,2009,1961,62,Female,White,Not Hispanic or Latino,25-JUN-2023
+ADBM-201,2003-013,2003,1955,68,Male,White,Not Hispanic or Latino,28-JUN-2023
+ADBM-201,2004-019,2004,1944,79,Female,White,Not Hispanic or Latino,30-JUN-2023
+ADBM-201,2011-006,2011,1954,69,Female,White,Not Hispanic or Latino,01-JUL-2023
+ADBM-201,2008-024,2008,1953,70,Male,Asian,Not Hispanic or Latino,02-JUL-2023
+ADBM-201,2009-030,2009,1944,79,Male,White,Not Hispanic or Latino,04-JUL-2023
+ADBM-201,2009-031,2009,1959,64,Male,White,Not Hispanic or Latino,05-JUL-2023
+ADBM-201,2003-014,2003,1960,63,Male,Black or African American,Not Hispanic or Latino,06-JUL-2023
+ADBM-201,2006-006,2006,1937,86,Female,Black or African American,Not Hispanic or Latino,09-JUL-2023
+ADBM-201,2008-025,2008,1951,72,Male,White,Not Hispanic or Latino,09-JUL-2023
+ADBM-201,2009-032,2009,1958,65,Female,White,Not Hispanic or Latino,10-JUL-2023
+ADBM-201,2007-016,2007,1950,73,Male,White,Not Hispanic or Latino,12-JUL-2023
+ADBM-201,2008-026,2008,1948,75,Female,White,Not Hispanic or Latino,13-JUL-2023
+ADBM-201,2007-017,2007,1952,71,Male,White,Not Hispanic or Latino,15-JUL-2023
+ADBM-201,2010-011,2010,1941,82,Male,White,Not Hispanic or Latino,18-JUL-2023
+ADBM-201,2010-012,2010,1943,80,Female,White,Not Hispanic or Latino,20-JUL-2023
+ADBM-201,2003-015,2003,1953,70,Female,White,Not Hispanic or Latino,20-JUL-2023
+ADBM-201,2003-016,2003,1945,78,Female,Black or African American,Not Hispanic or Latino,21-JUL-2023
+ADBM-201,2008-027,2008,1950,73,Female,White,Hispanic or Latino,22-JUL-2023
+ADBM-201,2003-017,2003,1945,78,Female,Asian,Not Hispanic or Latino,24-JUL-2023
+ADBM-201,2007-018,2007,1950,73,Male,Asian,Hispanic or Latino,26-JUL-2023
+ADBM-201,2007-019,2007,1955,68,Female,White,Not Hispanic or Latino,26-JUL-2023
+ADBM-201,2004-020,2004,1950,73,Female,White,Hispanic or Latino,28-JUL-2023
+ADBM-201,2008-028,2008,1947,76,Female,Other,Not Hispanic or Latino,31-JUL-2023
+ADBM-201,2009-033,2009,1938,85,Male,White,Not Hispanic or Latino,01-AUG-2023
+ADBM-201,2008-029,2008,1947,76,Male,White,Not Hispanic or Latino,01-AUG-2023
+ADBM-201,2007-020,2007,1947,76,Female,White,Hispanic or Latino,05-AUG-2023
+ADBM-201,2004-021,2004,1949,74,Male,White,Not Hispanic or Latino,07-AUG-2023
+ADBM-201,2007-021,2007,1954,69,Female,White,Not Hispanic or Latino,11-AUG-2023
+ADBM-201,2005-011,2005,1960,63,Female,White,Not Hispanic or Latino,14-AUG-2023
+ADBM-201,2010-013,2010,1964,59,Male,Black or African American,Not Hispanic or Latino,16-AUG-2023
+ADBM-201,2005-012,2005,1940,83,Female,White,Not Hispanic or Latino,17-AUG-2023
+ADBM-201,2009-034,2009,1955,68,Male,White,Not Hispanic or Latino,19-AUG-2023
+ADBM-201,2010-014,2010,1942,81,Male,Black or African American,Not Hispanic or Latino,19-AUG-2023
+ADBM-201,2011-007,2011,1961,62,Male,White,Not Hispanic or Latino,20-AUG-2023
+ADBM-201,2003-018,2003,1952,71,Male,White,Not Hispanic or Latino,22-AUG-2023
+ADBM-201,2009-035,2009,1955,68,Female,White,Not Hispanic or Latino,24-AUG-2023
+ADBM-201,2006-007,2006,1953,70,Male,White,Not Hispanic or Latino,27-AUG-2023
+ADBM-201,2004-022,2004,1948,75,Female,White,Hispanic or Latino,29-AUG-2023
+ADBM-201,2003-019,2003,1956,67,Male,White,Not Hispanic or Latino,30-AUG-2023
+ADBM-201,2004-023,2004,1946,77,Female,Black or African American,Not Hispanic or Latino,30-AUG-2023
+ADBM-201,2003-020,2003,1946,77,Female,White,Not Hispanic or Latino,31-AUG-2023
+ADBM-201,2006-008,2006,1956,67,Male,White,Not Hispanic or Latino,05-SEP-2023
+ADBM-301,3007-001,3007,1948,75,Male,White,Not Hispanic or Latino,01-JUN-2023
+ADBM-301,3018-001,3018,1956,67,Male,Asian,Hispanic or Latino,01-JUN-2023
+ADBM-301,3025-001,3025,1951,72,Female,White,Not Hispanic or Latino,03-JUN-2023
+ADBM-301,3007-002,3007,1965,58,Male,White,Not Hispanic or Latino,03-JUN-2023
+ADBM-301,3018-002,3018,1957,66,Male,Black or African American,Not Hispanic or Latino,03-JUN-2023
+ADBM-301,3025-002,3025,1955,68,Female,White,Not Hispanic or Latino,04-JUN-2023
+ADBM-301,3007-003,3007,1957,66,Female,White,Not Hispanic or Latino,05-JUN-2023
+ADBM-301,3018-003,3018,1935,88,Male,White,Not Hispanic or Latino,06-JUN-2023
+ADBM-301,3025-003,3025,1953,70,Female,Asian,Not Hispanic or Latino,08-JUN-2023
+ADBM-301,3007-004,3007,1956,67,Female,White,Not Hispanic or Latino,09-JUN-2023
+ADBM-301,3018-004,3018,1947,76,Female,White,Not Hispanic or Latino,09-JUN-2023
+ADBM-301,3025-004,3025,1953,70,Male,White,Not Hispanic or Latino,09-JUN-2023
+ADBM-301,3007-005,3007,1949,74,Female,White,Not Hispanic or Latino,09-JUN-2023
+ADBM-301,3018-005,3018,1941,82,Male,White,Not Hispanic or Latino,09-JUN-2023
+ADBM-301,3025-005,3025,1948,75,Male,Asian,Not Hispanic or Latino,10-JUN-2023
+ADBM-301,3007-006,3007,1951,72,Female,White,Not Hispanic or Latino,10-JUN-2023
+ADBM-301,3018-006,3018,1944,79,Male,Black or African American,Hispanic or Latino,11-JUN-2023
+ADBM-301,3025-006,3025,1948,75,Female,White,Not Hispanic or Latino,11-JUN-2023
+ADBM-301,3007-007,3007,1955,68,Female,Black or African American,Not Hispanic or Latino,12-JUN-2023
+ADBM-301,3018-007,3018,1956,67,Female,White,Not Hispanic or Latino,12-JUN-2023
+ADBM-301,3025-007,3025,1947,76,Female,White,Unknown,14-JUN-2023
+ADBM-301,3007-008,3007,1949,74,Female,White,Not Hispanic or Latino,14-JUN-2023
+ADBM-301,3018-008,3018,1946,77,Female,White,Not Hispanic or Latino,15-JUN-2023
+ADBM-301,3025-008,3025,1948,75,Male,White,Not Hispanic or Latino,15-JUN-2023
+ADBM-301,3029-001,3029,1960,63,Male,Asian,Not Hispanic or Latino,15-JUN-2023
+ADBM-301,3009-001,3009,1951,72,Male,White,Unknown,16-JUN-2023
+ADBM-301,3009-002,3009,1943,80,Female,White,Not Hispanic or Latino,16-JUN-2023
+ADBM-301,3001-001,3001,1943,80,Female,White,Not Hispanic or Latino,17-JUN-2023
+ADBM-301,3009-003,3009,1952,71,Female,Other,Not Hispanic or Latino,17-JUN-2023
+ADBM-301,3020-001,3020,1947,76,Male,White,Hispanic or Latino,18-JUN-2023
+ADBM-301,3011-001,3011,1952,71,Female,White,Not Hispanic or Latino,19-JUN-2023
+ADBM-301,3011-002,3011,1946,77,Male,Black or African American,Not Hispanic or Latino,19-JUN-2023
+ADBM-301,3007-009,3007,1959,64,Male,White,Hispanic or Latino,19-JUN-2023
+ADBM-301,3006-001,3006,1943,80,Female,Asian,Not Hispanic or Latino,20-JUN-2023
+ADBM-301,3020-002,3020,1959,64,Female,White,Hispanic or Latino,20-JUN-2023
+ADBM-301,3011-003,3011,1947,76,Female,White,Not Hispanic or Latino,20-JUN-2023
+ADBM-301,3004-001,3004,1958,65,Male,Asian,Not Hispanic or Latino,22-JUN-2023
+ADBM-301,3028-001,3028,1949,74,Male,White,Not Hispanic or Latino,22-JUN-2023
+ADBM-301,3002-001,3002,1949,74,Female,White,Not Hispanic or Latino,23-JUN-2023
+ADBM-301,3019-001,3019,1948,75,Female,White,Hispanic or Latino,24-JUN-2023
+ADBM-301,3029-002,3029,1949,74,Female,Asian,Not Hispanic or Latino,24-JUN-2023
+ADBM-301,3022-001,3022,1948,75,Male,White,Not Hispanic or Latino,25-JUN-2023
+ADBM-301,3004-002,3004,1940,83,Male,White,Hispanic or Latino,25-JUN-2023
+ADBM-301,3026-001,3026,1950,73,Female,White,Hispanic or Latino,25-JUN-2023
+ADBM-301,3011-004,3011,1947,76,Female,Asian,Not Hispanic or Latino,26-JUN-2023
+ADBM-301,3018-009,3018,1934,89,Female,Black or African American,Not Hispanic or Latino,26-JUN-2023
+ADBM-301,3003-001,3003,1947,76,Male,White,Not Hispanic or Latino,26-JUN-2023
+ADBM-301,3030-001,3030,1936,87,Male,Asian,Not Hispanic or Latino,28-JUN-2023
+ADBM-301,3027-001,3027,1956,67,Male,White,Not Hispanic or Latino,28-JUN-2023
+ADBM-301,3023-001,3023,1942,81,Female,White,Not Hispanic or Latino,29-JUN-2023
+ADBM-301,3027-002,3027,1958,65,Male,White,Not Hispanic or Latino,29-JUN-2023
+ADBM-301,3027-003,3027,1949,74,Female,White,Not Hispanic or Latino,30-JUN-2023
+ADBM-301,3027-004,3027,1942,81,Male,Black or African American,Not Hispanic or Latino,02-JUL-2023
+ADBM-301,3011-005,3011,1941,82,Female,White,Not Hispanic or Latino,02-JUL-2023
+ADBM-301,3027-005,3027,1951,72,Female,White,Not Hispanic or Latino,03-JUL-2023
+ADBM-301,3009-004,3009,1941,82,Female,White,Not Hispanic or Latino,03-JUL-2023
+ADBM-301,3002-002,3002,1955,68,Female,Asian,Not Hispanic or Latino,04-JUL-2023
+ADBM-301,3023-002,3023,1949,74,Female,White,Not Hispanic or Latino,04-JUL-2023
+ADBM-301,3009-005,3009,1945,78,Male,Asian,Not Hispanic or Latino,06-JUL-2023
+ADBM-301,3029-003,3029,1959,64,Male,Asian,Not Hispanic or Latino,06-JUL-2023
+ADBM-301,3027-006,3027,1958,65,Female,Asian,Not Hispanic or Latino,07-JUL-2023
+ADBM-301,3026-002,3026,1959,64,Female,Asian,Not Hispanic or Latino,07-JUL-2023
+ADBM-301,3019-002,3019,1941,82,Male,White,Not Hispanic or Latino,07-JUL-2023
+ADBM-301,3021-001,3021,1951,72,Male,White,Not Hispanic or Latino,10-JUL-2023
+ADBM-301,3028-002,3028,1953,70,Male,White,Not Hispanic or Latino,11-JUL-2023
+ADBM-301,3002-003,3002,1948,75,Female,White,Not Hispanic or Latino,13-JUL-2023
+ADBM-301,3014-001,3014,1948,75,Male,White,Not Hispanic or Latino,13-JUL-2023
+ADBM-301,3019-003,3019,1940,83,Female,White,Not Hispanic or Latino,13-JUL-2023
+ADBM-301,3026-003,3026,1962,61,Female,Black or African American,Hispanic or Latino,14-JUL-2023
+ADBM-301,3026-004,3026,1958,65,Female,Asian,Not Hispanic or Latino,16-JUL-2023
+ADBM-301,3022-002,3022,1964,59,Male,White,Not Hispanic or Latino,18-JUL-2023
+ADBM-301,3006-002,3006,1958,65,Male,White,Hispanic or Latino,18-JUL-2023
+ADBM-301,3029-004,3029,1950,73,Female,Asian,Not Hispanic or Latino,19-JUL-2023
+ADBM-301,3029-005,3029,1943,80,Female,Asian,Unknown,19-JUL-2023
+ADBM-301,3018-010,3018,1959,64,Female,White,Not Hispanic or Latino,19-JUL-2023
+ADBM-301,3025-009,3025,1952,71,Female,Other,Hispanic or Latino,20-JUL-2023
+ADBM-301,3029-006,3029,1955,68,Male,Asian,Not Hispanic or Latino,21-JUL-2023
+ADBM-301,3020-003,3020,1953,70,Male,White,Not Hispanic or Latino,23-JUL-2023
+ADBM-301,3010-001,3010,1944,79,Female,Asian,Not Hispanic or Latino,23-JUL-2023
+ADBM-301,3004-003,3004,1951,72,Female,Black or African American,Not Hispanic or Latino,23-JUL-2023
+ADBM-301,3023-003,3023,1958,65,Female,White,Not Hispanic or Latino,23-JUL-2023
+ADBM-301,3026-005,3026,1962,61,Female,White,Not Hispanic or Latino,25-JUL-2023
+ADBM-301,3023-004,3023,1937,86,Male,White,Not Hispanic or Latino,25-JUL-2023
+ADBM-301,3029-007,3029,1941,82,Female,Asian,Not Hispanic or Latino,26-JUL-2023
+ADBM-301,3029-008,3029,1952,71,Female,Asian,Not Hispanic or Latino,26-JUL-2023
+ADBM-301,3027-007,3027,1954,69,Female,White,Not Hispanic or Latino,26-JUL-2023
+ADBM-301,3001-002,3001,1951,72,Female,Black or African American,Hispanic or Latino,27-JUL-2023
+ADBM-301,3021-002,3021,1962,61,Female,White,Not Hispanic or Latino,27-JUL-2023
+ADBM-301,3022-003,3022,1944,79,Female,White,Hispanic or Latino,28-JUL-2023
+ADBM-301,3006-003,3006,1946,77,Female,Asian,Not Hispanic or Latino,28-JUL-2023
+ADBM-301,3026-006,3026,1948,75,Male,White,Not Hispanic or Latino,28-JUL-2023
+ADBM-301,3029-009,3029,1946,77,Female,Asian,Not Hispanic or Latino,29-JUL-2023
+ADBM-301,3001-003,3001,1940,83,Male,White,Not Hispanic or Latino,30-JUL-2023
+ADBM-301,3026-007,3026,1947,76,Female,White,Hispanic or Latino,30-JUL-2023
+ADBM-301,3026-008,3026,1942,81,Female,White,Not Hispanic or Latino,30-JUL-2023
+ADBM-301,3010-002,3010,1953,70,Male,Asian,Not Hispanic or Latino,01-AUG-2023
+ADBM-301,3009-006,3009,1941,82,Female,White,Not Hispanic or Latino,02-AUG-2023
+ADBM-301,3019-004,3019,1958,65,Male,White,Not Hispanic or Latino,02-AUG-2023
+ADBM-301,3027-008,3027,1955,68,Male,White,Not Hispanic or Latino,03-AUG-2023
+ADBM-301,3010-003,3010,1957,66,Female,Asian,Not Hispanic or Latino,03-AUG-2023
+ADBM-301,3019-005,3019,1945,78,Female,Black or African American,Hispanic or Latino,04-AUG-2023
+ADBM-301,3011-006,3011,1966,57,Female,White,Not Hispanic or Latino,05-AUG-2023
+ADBM-301,3004-004,3004,1945,78,Male,White,Not Hispanic or Latino,05-AUG-2023
+ADBM-301,3020-004,3020,1961,62,Male,White,Not Hispanic or Latino,05-AUG-2023
+ADBM-301,3030-002,3030,1948,75,Female,White,Not Hispanic or Latino,06-AUG-2023
+ADBM-301,3010-004,3010,1948,75,Female,Asian,Not Hispanic or Latino,07-AUG-2023
+ADBM-301,3030-003,3030,1958,65,Male,White,Not Hispanic or Latino,08-AUG-2023
+ADBM-301,3026-009,3026,1944,79,Female,Asian,Not Hispanic or Latino,09-AUG-2023
+ADBM-301,3011-007,3011,1953,70,Female,White,Hispanic or Latino,09-AUG-2023
+ADBM-301,3025-010,3025,1949,74,Male,White,Not Hispanic or Latino,09-AUG-2023
+ADBM-301,3004-005,3004,1952,71,Male,White,Not Hispanic or Latino,11-AUG-2023
+ADBM-301,3021-003,3021,1955,68,Male,White,Not Hispanic or Latino,12-AUG-2023
+ADBM-301,3029-010,3029,1953,70,Female,Asian,Not Hispanic or Latino,13-AUG-2023
+ADBM-301,3002-004,3002,1955,68,Female,White,Not Hispanic or Latino,13-AUG-2023
+ADBM-301,3011-008,3011,1950,73,Male,White,Not Hispanic or Latino,15-AUG-2023
+ADBM-301,3011-009,3011,1941,82,Male,White,Not Hispanic or Latino,16-AUG-2023
+ADBM-301,3027-009,3027,1941,82,Male,White,Not Hispanic or Latino,16-AUG-2023
+ADBM-301,3011-010,3011,1956,67,Female,White,Not Hispanic or Latino,17-AUG-2023
+ADBM-301,3021-004,3021,1956,67,Female,White,Not Hispanic or Latino,18-AUG-2023
+ADBM-301,3029-011,3029,1950,73,Male,Asian,Not Hispanic or Latino,18-AUG-2023
+ADBM-301,3029-012,3029,1951,72,Female,Asian,Not Hispanic or Latino,19-AUG-2023
+ADBM-301,3014-002,3014,1949,74,Female,White,Not Hispanic or Latino,19-AUG-2023
+ADBM-301,3019-006,3019,1951,72,Female,White,Not Hispanic or Latino,19-AUG-2023
+ADBM-301,3025-011,3025,1949,74,Female,Asian,Not Hispanic or Latino,20-AUG-2023
+ADBM-301,3015-001,3015,1961,62,Male,Other,Not Hispanic or Latino,20-AUG-2023
+ADBM-301,3009-007,3009,1955,68,Male,Asian,Not Hispanic or Latino,21-AUG-2023
+ADBM-301,3014-003,3014,1945,78,Male,White,Hispanic or Latino,21-AUG-2023
+ADBM-301,3001-004,3001,1956,67,Male,White,Not Hispanic or Latino,21-AUG-2023
+ADBM-301,3009-008,3009,1941,82,Male,White,Not Hispanic or Latino,22-AUG-2023
+ADBM-301,3010-005,3010,1954,69,Male,Asian,Not Hispanic or Latino,22-AUG-2023
+ADBM-301,3010-006,3010,1964,59,Female,Asian,Not Hispanic or Latino,22-AUG-2023
+ADBM-301,3029-013,3029,1951,72,Female,Asian,Not Hispanic or Latino,23-AUG-2023
+ADBM-301,3009-009,3009,1950,73,Male,White,Not Hispanic or Latino,24-AUG-2023
+ADBM-301,3009-010,3009,1948,75,Female,White,Not Hispanic or Latino,25-AUG-2023
+ADBM-301,3025-012,3025,1944,79,Male,Asian,Unknown,27-AUG-2023
+ADBM-301,3029-014,3029,1956,67,Male,Asian,Not Hispanic or Latino,27-AUG-2023
+ADBM-301,3027-010,3027,1955,68,Male,White,Not Hispanic or Latino,27-AUG-2023
+ADBM-301,3026-010,3026,1952,71,Female,White,Not Hispanic or Latino,27-AUG-2023
+ADBM-301,3007-010,3007,1951,72,Male,White,Not Hispanic or Latino,28-AUG-2023
+ADBM-301,3020-005,3020,1947,76,Female,White,Hispanic or Latino,28-AUG-2023
+ADBM-301,3024-001,3024,1952,71,Female,White,Not Hispanic or Latino,28-AUG-2023
+ADBM-301,3027-011,3027,1941,82,Male,Black or African American,Not Hispanic or Latino,29-AUG-2023
+ADBM-301,3014-004,3014,1942,81,Male,White,Hispanic or Latino,30-AUG-2023
+ADBM-301,3002-005,3002,1950,73,Female,Black or African American,Not Hispanic or Latino,31-AUG-2023
+ADBM-301,3026-011,3026,1951,72,Female,White,Hispanic or Latino,31-AUG-2023
+ADBM-301,3020-006,3020,1961,62,Male,White,Not Hispanic or Latino,01-SEP-2023
+ADBM-301,3022-004,3022,1965,58,Female,White,Not Hispanic or Latino,01-SEP-2023
+ADBM-301,3006-004,3006,1955,68,Male,White,Not Hispanic or Latino,01-SEP-2023
+ADBM-301,3027-012,3027,1937,86,Female,White,Not Hispanic or Latino,01-SEP-2023
+ADBM-301,3026-012,3026,1943,80,Female,White,Not Hispanic or Latino,01-SEP-2023
+ADBM-301,3022-005,3022,1952,71,Female,White,Not Hispanic or Latino,01-SEP-2023
+ADBM-301,3002-006,3002,1945,78,Male,White,Not Hispanic or Latino,03-SEP-2023
+ADBM-301,3020-007,3020,1953,70,Male,White,Not Hispanic or Latino,04-SEP-2023
+ADBM-301,3027-013,3027,1947,76,Female,White,Not Hispanic or Latino,06-SEP-2023
+ADBM-301,3003-002,3003,1952,71,Female,White,Not Hispanic or Latino,06-SEP-2023
+ADBM-301,3006-005,3006,1940,83,Male,Black or African American,Not Hispanic or Latino,06-SEP-2023
+ADBM-301,3022-006,3022,1949,74,Female,White,Not Hispanic or Latino,08-SEP-2023
+ADBM-301,3028-003,3028,1943,80,Male,White,Not Hispanic or Latino,08-SEP-2023
+ADBM-301,3006-006,3006,1958,65,Female,Asian,Not Hispanic or Latino,08-SEP-2023
+ADBM-301,3022-007,3022,1949,74,Female,Black or African American,Not Hispanic or Latino,08-SEP-2023
+ADBM-301,3006-007,3006,1938,85,Female,White,Not Hispanic or Latino,08-SEP-2023
+ADBM-301,3011-011,3011,1955,68,Male,White,Not Hispanic or Latino,09-SEP-2023
+ADBM-301,3009-011,3009,1953,70,Male,White,Not Hispanic or Latino,09-SEP-2023
+ADBM-301,3010-007,3010,1950,73,Male,Asian,Not Hispanic or Latino,11-SEP-2023
+ADBM-301,3025-013,3025,1956,67,Female,White,Not Hispanic or Latino,13-SEP-2023
+ADBM-301,3018-011,3018,1949,74,Female,White,Not Hispanic or Latino,15-SEP-2023
+ADBM-301,3002-007,3002,1940,83,Female,White,Not Hispanic or Latino,15-SEP-2023
+ADBM-301,3029-015,3029,1952,71,Female,Asian,Not Hispanic or Latino,16-SEP-2023
+ADBM-301,3003-003,3003,1953,70,Female,White,Not Hispanic or Latino,16-SEP-2023
+ADBM-301,3027-014,3027,1956,67,Male,White,Not Hispanic or Latino,17-SEP-2023
+ADBM-301,3022-008,3022,1942,81,Female,Asian,Not Hispanic or Latino,19-SEP-2023
+ADBM-301,3027-015,3027,1962,61,Male,White,Not Hispanic or Latino,19-SEP-2023
+ADBM-301,3013-001,3013,1962,61,Male,White,Not Hispanic or Latino,19-SEP-2023
+ADBM-301,3029-016,3029,1946,77,Female,Asian,Not Hispanic or Latino,21-SEP-2023
+ADBM-301,3009-012,3009,1934,89,Female,White,Not Hispanic or Latino,21-SEP-2023
+ADBM-301,3002-008,3002,1954,69,Male,White,Hispanic or Latino,21-SEP-2023
+ADBM-301,3010-008,3010,1948,75,Male,Asian,Not Hispanic or Latino,22-SEP-2023
+ADBM-301,3011-012,3011,1945,78,Female,White,Not Hispanic or Latino,22-SEP-2023
+ADBM-301,3004-006,3004,1953,70,Male,Asian,Not Hispanic or Latino,23-SEP-2023
+ADBM-301,3006-008,3006,1952,71,Male,White,Not Hispanic or Latino,23-SEP-2023
+ADBM-301,3029-017,3029,1947,76,Male,Asian,Not Hispanic or Latino,25-SEP-2023
+ADBM-301,3026-013,3026,1959,64,Male,White,Not Hispanic or Latino,26-SEP-2023
+ADBM-301,3001-005,3001,1942,81,Female,White,Not Hispanic or Latino,27-SEP-2023
+ADBM-301,3002-009,3002,1962,61,Male,White,Not Hispanic or Latino,27-SEP-2023
+ADBM-301,3004-007,3004,1945,78,Female,White,Not Hispanic or Latino,28-SEP-2023
+ADBM-301,3027-016,3027,1949,74,Male,White,Not Hispanic or Latino,29-SEP-2023
+ADBM-301,3019-007,3019,1949,74,Male,White,Not Hispanic or Latino,29-SEP-2023
+ADBM-301,3030-004,3030,1941,82,Male,White,Not Hispanic or Latino,29-SEP-2023
+ADBM-301,3029-018,3029,1944,79,Male,Asian,Not Hispanic or Latino,01-OCT-2023
+ADBM-301,3010-009,3010,1960,63,Male,Asian,Not Hispanic or Latino,01-OCT-2023
+ADBM-301,3009-013,3009,1956,67,Female,White,Not Hispanic or Latino,02-OCT-2023
+ADBM-301,3026-014,3026,1942,81,Male,White,Unknown,02-OCT-2023
+ADBM-301,3029-019,3029,1956,67,Female,Asian,Not Hispanic or Latino,02-OCT-2023
+ADBM-301,3001-006,3001,1941,82,Male,Black or African American,Hispanic or Latino,03-OCT-2023
+ADBM-301,3027-017,3027,1954,69,Male,Black or African American,Not Hispanic or Latino,04-OCT-2023
+ADBM-301,3029-020,3029,1938,85,Male,Asian,Not Hispanic or Latino,04-OCT-2023
+ADBM-301,3009-014,3009,1948,75,Male,White,Not Hispanic or Latino,05-OCT-2023
+ADBM-301,3009-015,3009,1953,70,Female,Black or African American,Not Hispanic or Latino,08-OCT-2023
+ADBM-301,3030-005,3030,1952,71,Female,White,Not Hispanic or Latino,08-OCT-2023
+ADBM-301,3027-018,3027,1950,73,Female,White,Not Hispanic or Latino,08-OCT-2023
+ADBM-301,3002-010,3002,1944,79,Male,White,Hispanic or Latino,09-OCT-2023
+ADBM-301,3022-009,3022,1948,75,Female,White,Not Hispanic or Latino,10-OCT-2023
+ADBM-301,3012-001,3012,1942,81,Male,Asian,Not Hispanic or Latino,11-OCT-2023
+ADBM-301,3009-016,3009,1948,75,Female,White,Not Hispanic or Latino,11-OCT-2023
+ADBM-301,3029-021,3029,1947,76,Male,Asian,Not Hispanic or Latino,12-OCT-2023
+ADBM-301,3028-004,3028,1961,62,Male,White,Not Hispanic or Latino,13-OCT-2023
+ADBM-301,3003-004,3003,1954,69,Female,White,Not Hispanic or Latino,13-OCT-2023
+ADBM-301,3006-009,3006,1962,61,Male,White,Hispanic or Latino,16-OCT-2023
+ADBM-301,3021-005,3021,1957,66,Male,Asian,Not Hispanic or Latino,18-OCT-2023
+ADBM-301,3026-015,3026,1948,75,Male,White,Not Hispanic or Latino,19-OCT-2023
+ADBM-301,3024-002,3024,1943,80,Male,White,Hispanic or Latino,19-OCT-2023
+ADBM-301,3002-011,3002,1944,79,Female,White,Not Hispanic or Latino,20-OCT-2023
+ADBM-301,3022-010,3022,1949,74,Male,White,Hispanic or Latino,20-OCT-2023
+ADBM-301,3019-008,3019,1945,78,Male,Asian,Not Hispanic or Latino,21-OCT-2023
+ADBM-301,3029-022,3029,1946,77,Male,Asian,Not Hispanic or Latino,21-OCT-2023
+ADBM-301,3009-017,3009,1960,63,Female,White,Not Hispanic or Latino,21-OCT-2023
+ADBM-301,3008-001,3008,1955,68,Female,White,Not Hispanic or Latino,22-OCT-2023
+ADBM-301,3013-002,3013,1943,80,Female,Black or African American,Not Hispanic or Latino,22-OCT-2023
+ADBM-301,3021-006,3021,1951,72,Female,Black or African American,Hispanic or Latino,23-OCT-2023
+ADBM-301,3019-009,3019,1954,69,Male,White,Not Hispanic or Latino,23-OCT-2023
+ADBM-301,3020-008,3020,1947,76,Male,White,Not Hispanic or Latino,23-OCT-2023
+ADBM-301,3002-012,3002,1960,63,Male,White,Not Hispanic or Latino,24-OCT-2023
+ADBM-301,3015-002,3015,1953,70,Female,White,Not Hispanic or Latino,24-OCT-2023
+ADBM-301,3009-018,3009,1960,63,Male,White,Not Hispanic or Latino,24-OCT-2023
+ADBM-301,3030-006,3030,1961,62,Female,White,Not Hispanic or Latino,25-OCT-2023
+ADBM-301,3026-016,3026,1953,70,Male,White,Not Hispanic or Latino,25-OCT-2023
+ADBM-301,3027-019,3027,1941,82,Male,White,Hispanic or Latino,25-OCT-2023
+ADBM-301,3002-013,3002,1954,69,Female,White,Not Hispanic or Latino,25-OCT-2023
+ADBM-301,3022-011,3022,1947,76,Female,White,Not Hispanic or Latino,26-OCT-2023
+ADBM-301,3004-008,3004,1946,77,Male,Asian,Not Hispanic or Latino,26-OCT-2023
+ADBM-301,3029-023,3029,1957,66,Female,Asian,Not Hispanic or Latino,27-OCT-2023
+ADBM-301,3027-020,3027,1960,63,Female,White,Not Hispanic or Latino,27-OCT-2023
+ADBM-301,3006-010,3006,1940,83,Female,White,Not Hispanic or Latino,28-OCT-2023
+ADBM-301,3022-012,3022,1949,74,Male,White,Not Hispanic or Latino,30-OCT-2023
+ADBM-301,3003-005,3003,1953,70,Female,White,Hispanic or Latino,31-OCT-2023
+ADBM-301,3016-001,3016,1944,79,Male,White,Not Hispanic or Latino,31-OCT-2023
+ADBM-301,3018-012,3018,1957,66,Female,Asian,Not Hispanic or Latino,01-NOV-2023
+ADBM-301,3009-019,3009,1945,78,Female,White,Not Hispanic or Latino,01-NOV-2023
+ADBM-301,3010-010,3010,1948,75,Female,Asian,Hispanic or Latino,02-NOV-2023
+ADBM-301,3004-009,3004,1956,67,Female,White,Not Hispanic or Latino,02-NOV-2023
+ADBM-301,3003-006,3003,1953,70,Female,Black or African American,Not Hispanic or Latino,04-NOV-2023
+ADBM-301,3027-021,3027,1953,70,Male,Other,Hispanic or Latino,05-NOV-2023
+ADBM-301,3029-024,3029,1952,71,Male,Asian,Not Hispanic or Latino,06-NOV-2023
+ADBM-301,3001-007,3001,1953,70,Female,White,Not Hispanic or Latino,07-NOV-2023
+ADBM-301,3006-011,3006,1945,78,Male,White,Not Hispanic or Latino,07-NOV-2023
+ADBM-301,3027-022,3027,1957,66,Female,White,Not Hispanic or Latino,07-NOV-2023
+ADBM-301,3022-013,3022,1944,79,Male,White,Not Hispanic or Latino,07-NOV-2023
+ADBM-301,3027-023,3027,1947,76,Male,White,Not Hispanic or Latino,08-NOV-2023
+ADBM-301,3009-020,3009,1955,68,Female,White,Not Hispanic or Latino,09-NOV-2023
+ADBM-301,3027-024,3027,1947,76,Female,White,Not Hispanic or Latino,10-NOV-2023
+ADBM-301,3007-011,3007,1945,78,Female,White,Not Hispanic or Latino,11-NOV-2023
+ADBM-301,3006-012,3006,1958,65,Female,White,Not Hispanic or Latino,11-NOV-2023
+ADBM-301,3020-009,3020,1963,60,Male,Other,Not Hispanic or Latino,12-NOV-2023
+ADBM-301,3002-014,3002,1955,68,Male,White,Not Hispanic or Latino,15-NOV-2023
+ADBM-301,3026-017,3026,1951,72,Male,White,Not Hispanic or Latino,16-NOV-2023
+ADBM-301,3011-013,3011,1958,65,Female,Asian,Not Hispanic or Latino,17-NOV-2023
+ADBM-301,3027-025,3027,1953,70,Male,Black or African American,Not Hispanic or Latino,17-NOV-2023
+ADBM-301,3003-007,3003,1961,62,Male,White,Unknown,17-NOV-2023
+ADBM-301,3006-013,3006,1952,71,Male,Other,Not Hispanic or Latino,18-NOV-2023
+ADBM-301,3011-014,3011,1943,80,Female,White,Not Hispanic or Latino,18-NOV-2023
+ADBM-301,3011-015,3011,1946,77,Male,White,Not Hispanic or Latino,20-NOV-2023
+ADBM-301,3026-018,3026,1938,85,Female,White,Not Hispanic or Latino,21-NOV-2023
+ADBM-301,3026-019,3026,1960,63,Female,Asian,Not Hispanic or Latino,22-NOV-2023
+ADBM-301,3026-020,3026,1953,70,Male,Black or African American,Not Hispanic or Latino,22-NOV-2023
+ADBM-301,3027-026,3027,1957,66,Male,White,Not Hispanic or Latino,24-NOV-2023
+ADBM-301,3006-014,3006,1954,69,Female,White,Not Hispanic or Latino,25-NOV-2023
+ADBM-301,3027-027,3027,1968,55,Male,Asian,Hispanic or Latino,25-NOV-2023
+ADBM-301,3019-010,3019,1948,75,Male,White,Not Hispanic or Latino,25-NOV-2023
+ADBM-301,3008-002,3008,1958,65,Male,White,Not Hispanic or Latino,25-NOV-2023
+ADBM-301,3026-021,3026,1953,70,Male,White,Not Hispanic or Latino,25-NOV-2023
+ADBM-301,3012-002,3012,1948,75,Female,White,Not Hispanic or Latino,25-NOV-2023
+ADBM-301,3008-003,3008,1950,73,Female,Black or African American,Not Hispanic or Latino,25-NOV-2023
+ADBM-301,3019-011,3019,1947,76,Male,Black or African American,Hispanic or Latino,27-NOV-2023
+ADBM-301,3008-004,3008,1945,78,Female,White,Not Hispanic or Latino,28-NOV-2023
+ADBM-301,3013-003,3013,1958,65,Male,White,Not Hispanic or Latino,29-NOV-2023
+ADBM-301,3020-010,3020,1955,68,Female,White,Hispanic or Latino,30-NOV-2023
+ADBM-301,3010-011,3010,1955,68,Female,Asian,Not Hispanic or Latino,01-DEC-2023
+ADBM-301,3005-001,3005,1948,75,Female,White,Not Hispanic or Latino,02-DEC-2023
+ADBM-301,3020-011,3020,1951,72,Female,White,Not Hispanic or Latino,02-DEC-2023
+ADBM-301,3029-025,3029,1939,84,Male,Asian,Not Hispanic or Latino,03-DEC-2023
+ADBM-301,3026-022,3026,1952,71,Male,Black or African American,Not Hispanic or Latino,03-DEC-2023
+ADBM-301,3001-008,3001,1956,67,Male,White,Not Hispanic or Latino,03-DEC-2023
+ADBM-301,3001-009,3001,1963,60,Female,White,Not Hispanic or Latino,04-DEC-2023
+ADBM-301,3002-015,3002,1950,73,Female,White,Not Hispanic or Latino,04-DEC-2023
+ADBM-301,3018-013,3018,1944,79,Female,Other,Not Hispanic or Latino,05-DEC-2023
+ADBM-301,3007-012,3007,1956,67,Male,White,Not Hispanic or Latino,06-DEC-2023
+ADBM-301,3011-016,3011,1950,73,Female,White,Not Hispanic or Latino,06-DEC-2023
+ADBM-301,3002-016,3002,1955,68,Male,White,Not Hispanic or Latino,06-DEC-2023
+ADBM-301,3026-023,3026,1954,69,Female,White,Not Hispanic or Latino,07-DEC-2023
+ADBM-301,3011-017,3011,1944,79,Female,White,Not Hispanic or Latino,08-DEC-2023
+ADBM-301,3006-015,3006,1949,74,Male,White,Not Hispanic or Latino,08-DEC-2023
+ADBM-301,3011-018,3011,1943,80,Female,White,Not Hispanic or Latino,08-DEC-2023
+ADBM-301,3009-021,3009,1960,63,Female,Asian,Not Hispanic or Latino,08-DEC-2023
+ADBM-301,3019-012,3019,1962,61,Male,White,Unknown,08-DEC-2023
+ADBM-301,3002-017,3002,1951,72,Female,White,Hispanic or Latino,09-DEC-2023
+ADBM-301,3009-022,3009,1952,71,Male,White,Hispanic or Latino,10-DEC-2023
+ADBM-301,3025-014,3025,1951,72,Female,White,Not Hispanic or Latino,10-DEC-2023
+ADBM-301,3011-019,3011,1957,66,Male,White,Not Hispanic or Latino,11-DEC-2023
+ADBM-301,3027-028,3027,1955,68,Female,White,Not Hispanic or Latino,11-DEC-2023
+ADBM-301,3029-026,3029,1943,80,Female,Asian,Not Hispanic or Latino,12-DEC-2023
+ADBM-301,3003-008,3003,1954,69,Male,White,Hispanic or Latino,13-DEC-2023
+ADBM-301,3030-007,3030,1954,69,Female,White,Not Hispanic or Latino,13-DEC-2023
+ADBM-301,3019-013,3019,1966,57,Male,White,Unknown,13-DEC-2023
+ADBM-301,3003-009,3003,1951,72,Female,White,Not Hispanic or Latino,13-DEC-2023
+ADBM-301,3019-014,3019,1954,69,Male,Asian,Not Hispanic or Latino,15-DEC-2023
+ADBM-301,3009-023,3009,1956,67,Male,White,Not Hispanic or Latino,15-DEC-2023
+ADBM-301,3001-010,3001,1950,73,Female,Asian,Unknown,16-DEC-2023
+ADBM-301,3023-005,3023,1961,62,Male,White,Unknown,16-DEC-2023
+ADBM-301,3003-010,3003,1952,71,Female,Black or African American,Not Hispanic or Latino,16-DEC-2023
+ADBM-301,3003-011,3003,1945,78,Male,White,Not Hispanic or Latino,17-DEC-2023
+ADBM-301,3006-016,3006,1950,73,Female,White,Not Hispanic or Latino,17-DEC-2023
+ADBM-301,3004-010,3004,1956,67,Female,White,Hispanic or Latino,19-DEC-2023
+ADBM-301,3027-029,3027,1954,69,Female,Asian,Not Hispanic or Latino,20-DEC-2023
+ADBM-301,3007-013,3007,1952,71,Male,Asian,Not Hispanic or Latino,20-DEC-2023
+ADBM-301,3004-011,3004,1947,76,Female,Asian,Hispanic or Latino,21-DEC-2023
+ADBM-301,3024-003,3024,1934,89,Female,White,Not Hispanic or Latino,22-DEC-2023
+ADBM-301,3006-017,3006,1952,71,Female,White,Not Hispanic or Latino,22-DEC-2023
+ADBM-301,3019-015,3019,1950,73,Female,White,Not Hispanic or Latino,22-DEC-2023
+ADBM-301,3005-002,3005,1949,74,Male,White,Not Hispanic or Latino,24-DEC-2023
+ADBM-301,3027-030,3027,1950,73,Female,Asian,Not Hispanic or Latino,25-DEC-2023
+ADBM-301,3002-018,3002,1959,64,Male,White,Hispanic or Latino,27-DEC-2023
+ADBM-301,3027-031,3027,1957,66,Male,White,Hispanic or Latino,28-DEC-2023
+ADBM-301,3026-024,3026,1960,63,Male,White,Not Hispanic or Latino,28-DEC-2023
+ADBM-301,3003-012,3003,1941,82,Female,White,Not Hispanic or Latino,29-DEC-2023
+ADBM-301,3019-016,3019,1935,88,Male,Asian,Not Hispanic or Latino,30-DEC-2023
+ADBM-301,3028-005,3028,1944,79,Male,White,Not Hispanic or Latino,30-DEC-2023
+ADBM-301,3029-027,3029,1948,75,Female,Asian,Not Hispanic or Latino,30-DEC-2023
+ADBM-301,3006-018,3006,1947,76,Female,White,Not Hispanic or Latino,31-DEC-2023
+ADBM-301,3029-028,3029,1946,77,Female,Asian,Not Hispanic or Latino,31-DEC-2023
+ADBM-301,3002-019,3002,1956,67,Male,White,Not Hispanic or Latino,31-DEC-2023
+ADBM-301,3019-017,3019,1966,58,Female,White,Not Hispanic or Latino,01-JAN-2024
+ADBM-301,3022-014,3022,1953,71,Male,White,Hispanic or Latino,03-JAN-2024
+ADBM-301,3020-012,3020,1963,61,Female,White,Not Hispanic or Latino,03-JAN-2024
+ADBM-301,3022-015,3022,1950,74,Male,Asian,Not Hispanic or Latino,03-JAN-2024
+ADBM-301,3022-016,3022,1950,74,Male,White,Not Hispanic or Latino,03-JAN-2024
+ADBM-301,3022-017,3022,1955,69,Female,White,Not Hispanic or Latino,03-JAN-2024
+ADBM-301,3027-032,3027,1950,74,Female,White,Unknown,03-JAN-2024
+ADBM-301,3011-020,3011,1952,72,Female,White,Not Hispanic or Latino,04-JAN-2024
+ADBM-301,3029-029,3029,1952,72,Female,Asian,Hispanic or Latino,05-JAN-2024
+ADBM-301,3029-030,3029,1948,76,Female,Asian,Not Hispanic or Latino,05-JAN-2024
+ADBM-301,3023-006,3023,1953,71,Male,Asian,Not Hispanic or Latino,05-JAN-2024
+ADBM-301,3009-024,3009,1946,78,Male,White,Not Hispanic or Latino,06-JAN-2024
+ADBM-301,3006-019,3006,1956,68,Male,White,Not Hispanic or Latino,06-JAN-2024
+ADBM-301,3014-005,3014,1949,75,Female,White,Not Hispanic or Latino,08-JAN-2024
+ADBM-301,3026-025,3026,1961,63,Male,White,Not Hispanic or Latino,08-JAN-2024
+ADBM-301,3026-026,3026,1953,71,Male,Black or African American,Not Hispanic or Latino,08-JAN-2024
+ADBM-301,3011-021,3011,1951,73,Female,White,Not Hispanic or Latino,09-JAN-2024
+ADBM-301,3024-004,3024,1945,79,Male,Black or African American,Not Hispanic or Latino,09-JAN-2024
+ADBM-301,3029-031,3029,1954,70,Female,Asian,Not Hispanic or Latino,09-JAN-2024
+ADBM-301,3029-032,3029,1959,65,Female,Asian,Hispanic or Latino,10-JAN-2024
+ADBM-301,3027-033,3027,1958,66,Female,Black or African American,Not Hispanic or Latino,10-JAN-2024
+ADBM-301,3019-018,3019,1947,77,Male,White,Not Hispanic or Latino,10-JAN-2024
+ADBM-301,3029-033,3029,1950,74,Female,Asian,Hispanic or Latino,12-JAN-2024
+ADBM-301,3027-034,3027,1952,72,Male,White,Not Hispanic or Latino,12-JAN-2024
+ADBM-301,3030-008,3030,1951,73,Female,White,Not Hispanic or Latino,13-JAN-2024
+ADBM-301,3026-027,3026,1961,63,Male,White,Not Hispanic or Latino,13-JAN-2024
+ADBM-301,3004-012,3004,1955,69,Male,White,Not Hispanic or Latino,15-JAN-2024
+ADBM-301,3028-006,3028,1951,73,Female,White,Not Hispanic or Latino,15-JAN-2024
+ADBM-301,3018-014,3018,1963,61,Female,Asian,Not Hispanic or Latino,17-JAN-2024
+ADBM-301,3018-015,3018,1956,68,Female,White,Not Hispanic or Latino,17-JAN-2024
+ADBM-301,3009-025,3009,1944,80,Male,White,Not Hispanic or Latino,18-JAN-2024
+ADBM-301,3018-016,3018,1943,81,Male,White,Hispanic or Latino,18-JAN-2024
+ADBM-301,3011-022,3011,1947,77,Female,White,Not Hispanic or Latino,18-JAN-2024
+ADBM-301,3008-005,3008,1951,73,Male,White,Not Hispanic or Latino,19-JAN-2024
+ADBM-301,3001-011,3001,1950,74,Female,White,Hispanic or Latino,19-JAN-2024
+ADBM-301,3011-023,3011,1955,69,Female,Asian,Not Hispanic or Latino,19-JAN-2024
+ADBM-301,3011-024,3011,1951,73,Female,Black or African American,Not Hispanic or Latino,20-JAN-2024
+ADBM-301,3011-025,3011,1962,62,Female,White,Hispanic or Latino,21-JAN-2024
+ADBM-301,3002-020,3002,1948,76,Female,White,Not Hispanic or Latino,21-JAN-2024
+ADBM-301,3002-021,3002,1948,76,Male,White,Not Hispanic or Latino,22-JAN-2024
+ADBM-301,3021-007,3021,1961,63,Female,White,Not Hispanic or Latino,23-JAN-2024
+ADBM-301,3003-013,3003,1950,74,Male,White,Hispanic or Latino,24-JAN-2024
+ADBM-301,3011-026,3011,1951,73,Female,White,Not Hispanic or Latino,24-JAN-2024
+ADBM-301,3016-002,3016,1947,77,Male,Asian,Not Hispanic or Latino,24-JAN-2024
+ADBM-301,3011-027,3011,1952,72,Male,White,Hispanic or Latino,26-JAN-2024
+ADBM-301,3029-034,3029,1960,64,Female,Asian,Not Hispanic or Latino,26-JAN-2024
+ADBM-301,3011-028,3011,1950,74,Female,Asian,Not Hispanic or Latino,26-JAN-2024
+ADBM-301,3029-035,3029,1953,71,Female,Asian,Not Hispanic or Latino,27-JAN-2024
+ADBM-301,3013-004,3013,1945,79,Male,White,Not Hispanic or Latino,28-JAN-2024
+ADBM-301,3027-035,3027,1952,72,Male,White,Not Hispanic or Latino,29-JAN-2024
+ADBM-301,3002-022,3002,1948,76,Male,Other,Not Hispanic or Latino,30-JAN-2024
+ADBM-301,3021-008,3021,1940,84,Female,White,Not Hispanic or Latino,31-JAN-2024
+ADBM-301,3011-029,3011,1949,75,Female,White,Not Hispanic or Latino,31-JAN-2024
+ADBM-301,3006-020,3006,1952,72,Male,White,Not Hispanic or Latino,31-JAN-2024
+ADBM-301,3009-026,3009,1946,78,Male,White,Not Hispanic or Latino,31-JAN-2024
+ADBM-301,3019-019,3019,1955,69,Male,White,Not Hispanic or Latino,01-FEB-2024
+ADBM-301,3011-030,3011,1954,70,Female,White,Not Hispanic or Latino,02-FEB-2024
+ADBM-301,3006-021,3006,1951,73,Female,Black or African American,Not Hispanic or Latino,02-FEB-2024
+ADBM-301,3003-014,3003,1958,66,Male,White,Not Hispanic or Latino,02-FEB-2024
+ADBM-301,3024-005,3024,1957,67,Female,White,Not Hispanic or Latino,03-FEB-2024
+ADBM-301,3026-028,3026,1954,70,Female,White,Hispanic or Latino,05-FEB-2024
+ADBM-301,3017-001,3017,1964,60,Male,Asian,Hispanic or Latino,06-FEB-2024
+ADBM-301,3027-036,3027,1954,70,Male,White,Not Hispanic or Latino,06-FEB-2024
+ADBM-301,3006-022,3006,1954,70,Male,White,Not Hispanic or Latino,07-FEB-2024
+ADBM-301,3018-017,3018,1947,77,Male,White,Not Hispanic or Latino,08-FEB-2024
+ADBM-301,3003-015,3003,1951,73,Male,White,Not Hispanic or Latino,09-FEB-2024
+ADBM-301,3020-013,3020,1950,74,Female,White,Not Hispanic or Latino,10-FEB-2024
+ADBM-301,3003-016,3003,1959,65,Female,Black or African American,Not Hispanic or Latino,10-FEB-2024
+ADBM-301,3002-023,3002,1957,67,Male,White,Hispanic or Latino,10-FEB-2024
+ADBM-301,3026-029,3026,1950,74,Female,White,Hispanic or Latino,11-FEB-2024
+ADBM-301,3003-017,3003,1948,76,Male,White,Not Hispanic or Latino,11-FEB-2024
+ADBM-301,3002-024,3002,1942,82,Male,White,Not Hispanic or Latino,12-FEB-2024
+ADBM-301,3027-037,3027,1957,67,Male,Black or African American,Not Hispanic or Latino,12-FEB-2024
+ADBM-301,3011-031,3011,1958,66,Female,White,Not Hispanic or Latino,12-FEB-2024
+ADBM-301,3014-006,3014,1948,76,Female,White,Not Hispanic or Latino,13-FEB-2024
+ADBM-301,3020-014,3020,1948,76,Male,White,Not Hispanic or Latino,17-FEB-2024
+ADBM-301,3021-009,3021,1952,72,Female,White,Not Hispanic or Latino,17-FEB-2024
+ADBM-301,3019-020,3019,1948,76,Female,White,Not Hispanic or Latino,17-FEB-2024
+ADBM-301,3018-018,3018,1946,78,Female,White,Not Hispanic or Latino,19-FEB-2024
+ADBM-301,3025-015,3025,1956,68,Male,White,Not Hispanic or Latino,21-FEB-2024
+ADBM-301,3006-023,3006,1954,70,Female,White,Not Hispanic or Latino,21-FEB-2024
+ADBM-301,3012-003,3012,1955,69,Female,White,Not Hispanic or Latino,22-FEB-2024
+ADBM-301,3025-016,3025,1943,81,Female,White,Not Hispanic or Latino,23-FEB-2024
+ADBM-301,3026-030,3026,1956,68,Male,White,Not Hispanic or Latino,23-FEB-2024
+ADBM-301,3002-025,3002,1961,63,Male,White,Not Hispanic or Latino,23-FEB-2024
+ADBM-301,3011-032,3011,1937,87,Female,Black or African American,Not Hispanic or Latino,23-FEB-2024
+ADBM-301,3020-015,3020,1951,73,Male,White,Not Hispanic or Latino,24-FEB-2024
+ADBM-301,3022-018,3022,1945,79,Male,White,Not Hispanic or Latino,24-FEB-2024
+ADBM-301,3006-024,3006,1959,65,Male,White,Not Hispanic or Latino,24-FEB-2024
+ADBM-301,3013-005,3013,1958,66,Female,White,Not Hispanic or Latino,24-FEB-2024
+ADBM-301,3004-013,3004,1951,73,Male,White,Not Hispanic or Latino,25-FEB-2024
+ADBM-301,3027-038,3027,1953,71,Male,White,Not Hispanic or Latino,25-FEB-2024
+ADBM-301,3026-031,3026,1951,73,Female,White,Not Hispanic or Latino,25-FEB-2024
+ADBM-301,3014-007,3014,1945,79,Male,White,Not Hispanic or Latino,26-FEB-2024
+ADBM-301,3028-007,3028,1950,74,Male,White,Not Hispanic or Latino,27-FEB-2024
+ADBM-301,3009-027,3009,1952,72,Female,White,Not Hispanic or Latino,27-FEB-2024
+ADBM-301,3029-036,3029,1956,68,Male,Asian,Not Hispanic or Latino,28-FEB-2024
+ADBM-301,3021-010,3021,1957,67,Female,Asian,Not Hispanic or Latino,28-FEB-2024
+ADBM-301,3008-006,3008,1951,73,Female,White,Not Hispanic or Latino,29-FEB-2024
+ADBM-301,3003-018,3003,1955,69,Female,White,Not Hispanic or Latino,29-FEB-2024
+ADBM-301,3015-003,3015,1950,74,Male,White,Unknown,01-MAR-2024
+ADBM-301,3020-016,3020,1948,76,Female,White,Hispanic or Latino,02-MAR-2024
+ADBM-301,3027-039,3027,1954,70,Female,White,Not Hispanic or Latino,02-MAR-2024
+ADBM-301,3028-008,3028,1936,88,Female,White,Not Hispanic or Latino,02-MAR-2024
+ADBM-301,3003-019,3003,1954,70,Female,White,Not Hispanic or Latino,03-MAR-2024
+ADBM-301,3003-020,3003,1954,70,Female,White,Not Hispanic or Latino,04-MAR-2024
+ADBM-301,3002-026,3002,1941,83,Male,White,Not Hispanic or Latino,04-MAR-2024
+ADBM-301,3002-027,3002,1954,70,Female,Other,Not Hispanic or Latino,04-MAR-2024
+ADBM-301,3019-021,3019,1954,70,Female,White,Not Hispanic or Latino,04-MAR-2024
+ADBM-301,3008-007,3008,1948,76,Female,Asian,Not Hispanic or Latino,06-MAR-2024
+ADBM-301,3029-037,3029,1959,65,Male,Asian,Not Hispanic or Latino,06-MAR-2024
+ADBM-301,3028-009,3028,1948,76,Male,White,Not Hispanic or Latino,06-MAR-2024
+ADBM-301,3006-025,3006,1961,63,Male,White,Not Hispanic or Latino,07-MAR-2024
+ADBM-301,3022-019,3022,1955,69,Female,White,Not Hispanic or Latino,07-MAR-2024
+ADBM-301,3004-014,3004,1952,72,Female,White,Not Hispanic or Latino,07-MAR-2024
+ADBM-301,3030-009,3030,1953,71,Female,White,Not Hispanic or Latino,09-MAR-2024
+ADBM-301,3009-028,3009,1961,63,Female,White,Not Hispanic or Latino,09-MAR-2024
+ADBM-301,3003-021,3003,1954,70,Male,Other,Not Hispanic or Latino,09-MAR-2024
+ADBM-301,3003-022,3003,1952,72,Male,White,Not Hispanic or Latino,09-MAR-2024
+ADBM-301,3011-033,3011,1942,82,Male,Black or African American,Not Hispanic or Latino,11-MAR-2024
+ADBM-301,3028-010,3028,1951,73,Male,White,Not Hispanic or Latino,11-MAR-2024
+ADBM-301,3024-006,3024,1954,70,Male,White,Not Hispanic or Latino,11-MAR-2024
+ADBM-301,3019-022,3019,1949,75,Female,Black or African American,Not Hispanic or Latino,12-MAR-2024
+ADBM-301,3011-034,3011,1943,81,Female,White,Not Hispanic or Latino,15-MAR-2024
+ADBM-301,3028-011,3028,1947,77,Female,White,Not Hispanic or Latino,15-MAR-2024
+ADBM-301,3027-040,3027,1943,81,Male,Asian,Not Hispanic or Latino,15-MAR-2024
+ADBM-301,3022-020,3022,1940,84,Male,White,Not Hispanic or Latino,16-MAR-2024
+ADBM-301,3027-041,3027,1948,76,Female,Asian,Not Hispanic or Latino,16-MAR-2024
+ADBM-301,3029-038,3029,1941,83,Male,Asian,Not Hispanic or Latino,16-MAR-2024
+ADBM-301,3011-035,3011,1950,74,Male,Asian,Hispanic or Latino,17-MAR-2024
+ADBM-301,3026-032,3026,1944,80,Male,White,Not Hispanic or Latino,18-MAR-2024
+ADBM-301,3026-033,3026,1953,71,Male,White,Not Hispanic or Latino,18-MAR-2024
+ADBM-301,3006-026,3006,1963,61,Male,Asian,Not Hispanic or Latino,20-MAR-2024
+ADBM-301,3003-023,3003,1945,79,Male,Asian,Not Hispanic or Latino,20-MAR-2024
+ADBM-301,3021-011,3021,1943,81,Male,White,Not Hispanic or Latino,21-MAR-2024
+ADBM-301,3026-034,3026,1950,74,Female,White,Not Hispanic or Latino,21-MAR-2024
+ADBM-301,3027-042,3027,1952,72,Female,White,Not Hispanic or Latino,21-MAR-2024
+ADBM-301,3022-021,3022,1956,68,Female,White,Not Hispanic or Latino,21-MAR-2024
+ADBM-301,3022-022,3022,1948,76,Female,White,Not Hispanic or Latino,22-MAR-2024
+ADBM-301,3011-036,3011,1949,75,Male,White,Not Hispanic or Latino,23-MAR-2024
+ADBM-301,3011-037,3011,1955,69,Female,White,Not Hispanic or Latino,24-MAR-2024
+ADBM-301,3016-003,3016,1957,67,Female,Asian,Not Hispanic or Latino,24-MAR-2024
+ADBM-301,3027-043,3027,1946,78,Male,White,Not Hispanic or Latino,25-MAR-2024
+ADBM-301,3026-035,3026,1950,74,Male,White,Not Hispanic or Latino,25-MAR-2024
+ADBM-301,3011-038,3011,1958,66,Male,White,Not Hispanic or Latino,25-MAR-2024
+ADBM-301,3021-012,3021,1950,74,Male,White,Not Hispanic or Latino,25-MAR-2024
+ADBM-301,3001-012,3001,1950,74,Female,White,Not Hispanic or Latino,26-MAR-2024
+ADBM-301,3029-039,3029,1947,77,Male,Asian,Not Hispanic or Latino,26-MAR-2024
+ADBM-301,3027-044,3027,1957,67,Female,White,Not Hispanic or Latino,27-MAR-2024
+ADBM-301,3006-027,3006,1940,84,Female,White,Not Hispanic or Latino,28-MAR-2024
+ADBM-301,3002-028,3002,1963,61,Male,White,Not Hispanic or Latino,28-MAR-2024
+ADBM-301,3015-004,3015,1953,71,Male,White,Hispanic or Latino,28-MAR-2024
+ADBM-301,3015-005,3015,1946,78,Female,Other,Not Hispanic or Latino,29-MAR-2024
+ADBM-301,3019-023,3019,1952,72,Female,Black or African American,Not Hispanic or Latino,29-MAR-2024
+ADBM-301,3013-006,3013,1951,73,Male,Asian,Not Hispanic or Latino,30-MAR-2024
+ADBM-301,3011-039,3011,1954,70,Male,Black or African American,Not Hispanic or Latino,31-MAR-2024
+ADBM-301,3026-036,3026,1959,65,Male,White,Not Hispanic or Latino,31-MAR-2024
+ADBM-301,3027-045,3027,1935,89,Female,White,Not Hispanic or Latino,01-APR-2024
+ADBM-301,3009-029,3009,1953,71,Female,White,Not Hispanic or Latino,02-APR-2024
+ADBM-301,3026-037,3026,1952,72,Male,White,Not Hispanic or Latino,02-APR-2024
+ADBM-301,3026-038,3026,1953,71,Female,White,Not Hispanic or Latino,03-APR-2024
+ADBM-301,3029-040,3029,1943,81,Female,Asian,Hispanic or Latino,03-APR-2024
+ADBM-301,3026-039,3026,1954,70,Female,White,Not Hispanic or Latino,03-APR-2024
+ADBM-301,3017-002,3017,1947,77,Female,Asian,Not Hispanic or Latino,04-APR-2024
+ADBM-301,3006-028,3006,1946,78,Female,White,Not Hispanic or Latino,04-APR-2024
+ADBM-301,3027-046,3027,1951,73,Female,White,Not Hispanic or Latino,05-APR-2024
+ADBM-301,3020-017,3020,1942,82,Female,Black or African American,Not Hispanic or Latino,06-APR-2024
+ADBM-301,3011-040,3011,1951,73,Female,White,Not Hispanic or Latino,07-APR-2024
+ADBM-301,3024-007,3024,1951,73,Female,White,Not Hispanic or Latino,08-APR-2024
+ADBM-301,3022-023,3022,1957,67,Female,White,Not Hispanic or Latino,08-APR-2024
+ADBM-301,3022-024,3022,1953,71,Female,Black or African American,Not Hispanic or Latino,09-APR-2024
+ADBM-301,3027-047,3027,1967,57,Female,White,Not Hispanic or Latino,09-APR-2024
+ADBM-301,3030-010,3030,1948,76,Female,White,Not Hispanic or Latino,09-APR-2024
+ADBM-301,3025-017,3025,1953,71,Male,White,Not Hispanic or Latino,09-APR-2024
+ADBM-301,3006-029,3006,1935,89,Female,Other,Not Hispanic or Latino,10-APR-2024
+ADBM-301,3018-019,3018,1954,70,Male,Black or African American,Not Hispanic or Latino,10-APR-2024
+ADBM-301,3027-048,3027,1941,83,Male,White,Not Hispanic or Latino,13-APR-2024
+ADBM-301,3026-040,3026,1948,76,Male,White,Not Hispanic or Latino,13-APR-2024
+ADBM-301,3004-015,3004,1944,80,Female,Asian,Not Hispanic or Latino,13-APR-2024
+ADBM-301,3018-020,3018,1946,78,Female,White,Not Hispanic or Latino,14-APR-2024
+ADBM-301,3011-041,3011,1957,67,Female,White,Not Hispanic or Latino,14-APR-2024
+ADBM-301,3020-018,3020,1947,77,Male,White,Not Hispanic or Latino,15-APR-2024
+ADBM-301,3027-049,3027,1947,77,Female,White,Not Hispanic or Latino,15-APR-2024
+ADBM-301,3020-019,3020,1948,76,Female,White,Not Hispanic or Latino,15-APR-2024
+ADBM-301,3002-029,3002,1969,55,Female,White,Not Hispanic or Latino,16-APR-2024
+ADBM-301,3027-050,3027,1950,74,Male,Black or African American,Not Hispanic or Latino,16-APR-2024
+ADBM-301,3027-051,3027,1952,72,Female,White,Not Hispanic or Latino,16-APR-2024
+ADBM-301,3005-003,3005,1958,66,Female,Asian,Not Hispanic or Latino,16-APR-2024
+ADBM-301,3011-042,3011,1959,65,Female,Asian,Not Hispanic or Latino,17-APR-2024
+ADBM-301,3027-052,3027,1960,64,Female,White,Not Hispanic or Latino,18-APR-2024
+ADBM-301,3026-041,3026,1949,75,Female,White,Not Hispanic or Latino,19-APR-2024
+ADBM-301,3027-053,3027,1963,61,Female,White,Not Hispanic or Latino,19-APR-2024
+ADBM-301,3019-024,3019,1957,67,Female,White,Not Hispanic or Latino,20-APR-2024
+ADBM-301,3023-007,3023,1942,82,Male,White,Not Hispanic or Latino,20-APR-2024
+ADBM-301,3029-041,3029,1956,68,Male,Asian,Not Hispanic or Latino,21-APR-2024
+ADBM-301,3022-025,3022,1940,84,Female,White,Not Hispanic or Latino,22-APR-2024
+ADBM-301,3009-030,3009,1950,74,Female,White,Not Hispanic or Latino,23-APR-2024
+ADBM-301,3029-042,3029,1940,84,Male,Asian,Not Hispanic or Latino,23-APR-2024
+ADBM-301,3027-054,3027,1957,67,Male,White,Not Hispanic or Latino,23-APR-2024
+ADBM-301,3009-031,3009,1956,68,Female,White,Not Hispanic or Latino,25-APR-2024
+ADBM-301,3011-043,3011,1939,85,Female,White,Not Hispanic or Latino,25-APR-2024
+ADBM-301,3020-020,3020,1950,74,Female,White,Not Hispanic or Latino,25-APR-2024
+ADBM-301,3004-016,3004,1952,72,Male,White,Not Hispanic or Latino,25-APR-2024
+ADBM-301,3016-004,3016,1960,64,Male,White,Hispanic or Latino,26-APR-2024
+ADBM-301,3002-030,3002,1956,68,Female,White,Not Hispanic or Latino,27-APR-2024
+ADBM-301,3029-043,3029,1954,70,Female,Asian,Unknown,28-APR-2024
+ADBM-301,3027-055,3027,1947,77,Male,White,Hispanic or Latino,28-APR-2024
+ADBM-301,3019-025,3019,1957,67,Male,White,Not Hispanic or Latino,29-APR-2024
+ADBM-301,3011-044,3011,1947,77,Female,Asian,Not Hispanic or Latino,01-MAY-2024
+ADBM-301,3027-056,3027,1960,64,Male,White,Not Hispanic or Latino,02-MAY-2024
+ADBM-301,3011-045,3011,1942,82,Male,White,Not Hispanic or Latino,03-MAY-2024
+ADBM-301,3029-044,3029,1955,69,Male,Asian,Not Hispanic or Latino,03-MAY-2024
+ADBM-301,3011-046,3011,1963,61,Female,Black or African American,Not Hispanic or Latino,04-MAY-2024
+ADBM-301,3013-007,3013,1950,74,Male,White,Not Hispanic or Latino,05-MAY-2024
+ADBM-301,3001-013,3001,1953,71,Female,White,Not Hispanic or Latino,05-MAY-2024
+ADBM-301,3028-012,3028,1958,66,Female,Black or African American,Not Hispanic or Latino,05-MAY-2024
+ADBM-301,3016-005,3016,1952,72,Female,Other,Not Hispanic or Latino,05-MAY-2024
+ADBM-301,3025-018,3025,1946,78,Female,Asian,Not Hispanic or Latino,06-MAY-2024
+ADBM-301,3005-004,3005,1953,71,Male,White,Not Hispanic or Latino,06-MAY-2024
+ADBM-301,3003-024,3003,1954,70,Female,White,Not Hispanic or Latino,06-MAY-2024
+ADBM-301,3025-019,3025,1956,68,Female,White,Not Hispanic or Latino,07-MAY-2024
+ADBM-301,3002-031,3002,1963,61,Female,White,Not Hispanic or Latino,07-MAY-2024
+ADBM-301,3009-032,3009,1946,78,Female,Black or African American,Not Hispanic or Latino,08-MAY-2024
+ADBM-301,3016-006,3016,1957,67,Male,Asian,Not Hispanic or Latino,08-MAY-2024
+ADBM-301,3006-030,3006,1958,66,Female,White,Not Hispanic or Latino,08-MAY-2024
+ADBM-301,3027-057,3027,1961,63,Female,White,Not Hispanic or Latino,08-MAY-2024
+ADBM-301,3009-033,3009,1952,72,Female,White,Not Hispanic or Latino,09-MAY-2024
+ADBM-301,3004-017,3004,1959,65,Female,Black or African American,Not Hispanic or Latino,09-MAY-2024
+ADBM-301,3020-021,3020,1951,73,Male,Asian,Not Hispanic or Latino,09-MAY-2024
+ADBM-301,3009-034,3009,1948,76,Male,White,Not Hispanic or Latino,10-MAY-2024
+ADBM-301,3002-032,3002,1958,66,Male,White,Not Hispanic or Latino,11-MAY-2024
+ADBM-301,3002-033,3002,1938,86,Male,White,Not Hispanic or Latino,11-MAY-2024
+ADBM-301,3022-026,3022,1954,70,Male,White,Not Hispanic or Latino,11-MAY-2024
+ADBM-301,3002-034,3002,1954,70,Female,White,Not Hispanic or Latino,11-MAY-2024
+ADBM-301,3018-021,3018,1950,74,Female,White,Not Hispanic or Latino,11-MAY-2024
+ADBM-301,3003-025,3003,1958,66,Female,Asian,Not Hispanic or Latino,11-MAY-2024
+ADBM-301,3009-035,3009,1969,55,Male,Asian,Not Hispanic or Latino,12-MAY-2024
+ADBM-301,3006-031,3006,1935,89,Male,White,Not Hispanic or Latino,12-MAY-2024
+ADBM-301,3017-003,3017,1960,64,Female,Asian,Not Hispanic or Latino,13-MAY-2024
+ADBM-301,3022-027,3022,1947,77,Male,White,Not Hispanic or Latino,13-MAY-2024
+ADBM-301,3006-032,3006,1947,77,Female,White,Not Hispanic or Latino,13-MAY-2024
+ADBM-301,3009-036,3009,1948,76,Male,White,Not Hispanic or Latino,13-MAY-2024
+ADBM-301,3022-028,3022,1956,68,Female,White,Not Hispanic or Latino,14-MAY-2024
+ADBM-301,3026-042,3026,1958,66,Male,White,Not Hispanic or Latino,15-MAY-2024
+ADBM-301,3030-011,3030,1958,66,Female,White,Not Hispanic or Latino,16-MAY-2024
+ADBM-301,3020-022,3020,1952,72,Female,White,Not Hispanic or Latino,17-MAY-2024
+ADBM-301,3019-026,3019,1943,81,Male,White,Not Hispanic or Latino,18-MAY-2024
+ADBM-301,3001-014,3001,1961,63,Male,Asian,Hispanic or Latino,20-MAY-2024
+ADBM-301,3011-047,3011,1955,69,Male,White,Not Hispanic or Latino,20-MAY-2024
+ADBM-301,3001-015,3001,1957,67,Male,White,Not Hispanic or Latino,21-MAY-2024
+ADBM-301,3027-058,3027,1964,60,Female,Black or African American,Not Hispanic or Latino,22-MAY-2024
+ADBM-301,3006-033,3006,1954,70,Female,White,Not Hispanic or Latino,22-MAY-2024
+ADBM-301,3011-048,3011,1951,73,Female,White,Not Hispanic or Latino,22-MAY-2024
+ADBM-301,3009-037,3009,1949,75,Female,White,Unknown,23-MAY-2024
+ADBM-301,3018-022,3018,1951,73,Female,White,Not Hispanic or Latino,24-MAY-2024
+ADBM-301,3027-059,3027,1955,69,Male,Black or African American,Not Hispanic or Latino,24-MAY-2024
+ADBM-301,3026-043,3026,1952,72,Male,White,Not Hispanic or Latino,24-MAY-2024
+ADBM-301,3018-023,3018,1949,75,Female,Asian,Hispanic or Latino,25-MAY-2024
+ADBM-301,3030-012,3030,1965,59,Female,White,Not Hispanic or Latino,25-MAY-2024
+ADBM-301,3005-005,3005,1959,65,Male,White,Hispanic or Latino,26-MAY-2024
+ADBM-301,3006-034,3006,1951,73,Male,White,Not Hispanic or Latino,26-MAY-2024
+ADBM-301,3030-013,3030,1945,79,Male,Black or African American,Not Hispanic or Latino,27-MAY-2024
+ADBM-301,3018-024,3018,1964,60,Female,White,Not Hispanic or Latino,27-MAY-2024
+ADBM-301,3013-008,3013,1960,64,Male,Asian,Not Hispanic or Latino,28-MAY-2024
+ADBM-301,3029-045,3029,1944,80,Male,Asian,Not Hispanic or Latino,28-MAY-2024
+ADBM-301,3009-038,3009,1957,67,Female,White,Not Hispanic or Latino,29-MAY-2024
+ADBM-301,3002-035,3002,1951,73,Male,Asian,Not Hispanic or Latino,30-MAY-2024
+ADBM-301,3022-029,3022,1951,73,Male,White,Not Hispanic or Latino,31-MAY-2024
+ADBM-301,3002-036,3002,1948,76,Female,Asian,Not Hispanic or Latino,31-MAY-2024
+ADBM-301,3023-008,3023,1959,65,Female,White,Not Hispanic or Latino,31-MAY-2024
+ADBM-401,4016-001,4016,1958,67,Male,Asian,Unknown,03-MAR-2025
+ADBM-401,4008-001,4008,1942,83,Female,White,Not Hispanic or Latino,05-MAR-2025
+ADBM-401,4011-001,4011,1945,80,Male,White,Not Hispanic or Latino,05-MAR-2025
+ADBM-401,4005-001,4005,1951,74,Male,White,Not Hispanic or Latino,05-MAR-2025
+ADBM-401,4013-001,4013,1952,73,Female,Asian,Not Hispanic or Latino,06-MAR-2025
+ADBM-401,4001-001,4001,1960,65,Female,Black or African American,Not Hispanic or Latino,06-MAR-2025
+ADBM-401,4002-001,4002,1962,63,Female,White,Not Hispanic or Latino,07-MAR-2025
+ADBM-401,4005-002,4005,1961,64,Female,White,Not Hispanic or Latino,08-MAR-2025
+ADBM-401,4010-001,4010,1955,70,Female,Black or African American,Not Hispanic or Latino,10-MAR-2025
+ADBM-401,4005-003,4005,1955,70,Male,White,Not Hispanic or Latino,13-MAR-2025
+ADBM-401,4006-001,4006,1948,77,Female,White,Not Hispanic or Latino,15-MAR-2025
+ADBM-401,4008-002,4008,1963,62,Male,White,Hispanic or Latino,15-MAR-2025
+ADBM-401,4018-001,4018,1957,68,Male,White,Not Hispanic or Latino,16-MAR-2025
+ADBM-401,4012-001,4012,1943,82,Female,White,Not Hispanic or Latino,16-MAR-2025
+ADBM-401,4015-001,4015,1959,66,Male,Asian,Not Hispanic or Latino,17-MAR-2025
+ADBM-401,4014-001,4014,1946,79,Male,White,Not Hispanic or Latino,17-MAR-2025
+ADBM-401,4009-001,4009,1956,69,Female,White,Not Hispanic or Latino,17-MAR-2025
+ADBM-401,4016-002,4016,1960,65,Female,White,Not Hispanic or Latino,18-MAR-2025
+ADBM-401,4005-004,4005,1948,77,Female,White,Not Hispanic or Latino,20-MAR-2025
+ADBM-401,4010-002,4010,1949,76,Male,White,Not Hispanic or Latino,20-MAR-2025
+ADBM-401,4007-001,4007,1951,74,Male,White,Not Hispanic or Latino,22-MAR-2025
+ADBM-401,4009-002,4009,1954,71,Male,White,Hispanic or Latino,24-MAR-2025
+ADBM-401,4001-002,4001,1947,78,Female,White,Hispanic or Latino,25-MAR-2025
+ADBM-401,4010-003,4010,1948,77,Female,White,Not Hispanic or Latino,27-MAR-2025
+ADBM-401,4010-004,4010,1937,88,Male,White,Not Hispanic or Latino,27-MAR-2025
+ADBM-401,4014-002,4014,1954,71,Male,White,Not Hispanic or Latino,28-MAR-2025
+ADBM-401,4008-003,4008,1941,84,Female,Black or African American,Not Hispanic or Latino,28-MAR-2025
+ADBM-401,4007-002,4007,1950,75,Female,White,Hispanic or Latino,31-MAR-2025
+ADBM-401,4002-002,4002,1956,69,Male,White,Not Hispanic or Latino,01-APR-2025
+ADBM-401,4007-003,4007,1959,66,Female,Other,Not Hispanic or Latino,05-APR-2025
+ADBM-401,4006-002,4006,1943,82,Female,Other,Not Hispanic or Latino,06-APR-2025
+ADBM-401,4013-002,4013,1954,71,Female,Asian,Not Hispanic or Latino,07-APR-2025
+ADBM-401,4008-004,4008,1953,72,Female,White,Unknown,08-APR-2025
+ADBM-401,4005-005,4005,1953,72,Male,White,Not Hispanic or Latino,09-APR-2025
+ADBM-401,4001-003,4001,1945,80,Male,Black or African American,Not Hispanic or Latino,09-APR-2025
+ADBM-401,4001-004,4001,1953,72,Male,White,Not Hispanic or Latino,10-APR-2025
+ADBM-401,4004-001,4004,1964,61,Male,White,Hispanic or Latino,10-APR-2025
+ADBM-401,4016-003,4016,1945,80,Female,White,Not Hispanic or Latino,12-APR-2025
+ADBM-401,4013-003,4013,1944,81,Male,Asian,Not Hispanic or Latino,13-APR-2025
+ADBM-401,4009-003,4009,1949,76,Female,White,Not Hispanic or Latino,14-APR-2025
+ADBM-401,4017-001,4017,1945,80,Female,White,Not Hispanic or Latino,15-APR-2025
+ADBM-401,4002-003,4002,1946,79,Male,Asian,Not Hispanic or Latino,16-APR-2025
+ADBM-401,4005-006,4005,1954,71,Male,White,Not Hispanic or Latino,16-APR-2025
+ADBM-401,4005-007,4005,1956,69,Female,Asian,Not Hispanic or Latino,16-APR-2025
+ADBM-401,4018-002,4018,1950,75,Male,White,Not Hispanic or Latino,19-APR-2025
+ADBM-401,4010-005,4010,1959,66,Female,White,Not Hispanic or Latino,19-APR-2025
+ADBM-401,4005-008,4005,1946,79,Male,White,Not Hispanic or Latino,24-APR-2025
+ADBM-401,4010-006,4010,1947,78,Female,White,Hispanic or Latino,25-APR-2025
+ADBM-401,4003-001,4003,1948,77,Male,White,Unknown,25-APR-2025
+ADBM-401,4002-004,4002,1955,70,Male,White,Not Hispanic or Latino,27-APR-2025
+ADBM-401,4004-002,4004,1945,80,Male,White,Not Hispanic or Latino,27-APR-2025
+ADBM-401,4012-002,4012,1949,76,Male,White,Not Hispanic or Latino,28-APR-2025
+ADBM-401,4006-003,4006,1958,67,Female,White,Hispanic or Latino,28-APR-2025
+ADBM-401,4010-007,4010,1955,70,Male,White,Not Hispanic or Latino,28-APR-2025
+ADBM-401,4019-001,4019,1948,77,Female,White,Not Hispanic or Latino,01-MAY-2025
+ADBM-401,4020-001,4020,1953,72,Female,White,Not Hispanic or Latino,03-MAY-2025
+ADBM-401,4008-005,4008,1954,71,Male,White,Not Hispanic or Latino,03-MAY-2025
+ADBM-401,4010-008,4010,1953,72,Female,White,Not Hispanic or Latino,03-MAY-2025
+ADBM-401,4001-005,4001,1952,73,Female,White,Not Hispanic or Latino,06-MAY-2025
+ADBM-401,4018-003,4018,1947,78,Male,White,Not Hispanic or Latino,07-MAY-2025
+ADBM-401,4012-003,4012,1970,55,Male,White,Not Hispanic or Latino,07-MAY-2025
+ADBM-401,4010-009,4010,1955,70,Male,White,Not Hispanic or Latino,07-MAY-2025
+ADBM-401,4008-006,4008,1950,75,Male,White,Not Hispanic or Latino,08-MAY-2025
+ADBM-401,4003-002,4003,1941,84,Male,White,Not Hispanic or Latino,09-MAY-2025
+ADBM-401,4014-003,4014,1954,71,Male,White,Not Hispanic or Latino,09-MAY-2025
+ADBM-401,4004-003,4004,1948,77,Male,White,Not Hispanic or Latino,09-MAY-2025
+ADBM-401,4016-004,4016,1951,74,Female,White,Not Hispanic or Latino,11-MAY-2025
+ADBM-401,4014-004,4014,1950,75,Male,White,Not Hispanic or Latino,12-MAY-2025
+ADBM-401,4016-005,4016,1965,60,Male,White,Not Hispanic or Latino,12-MAY-2025
+ADBM-401,4002-005,4002,1949,76,Male,Black or African American,Hispanic or Latino,13-MAY-2025
+ADBM-401,4017-002,4017,1947,78,Male,White,Not Hispanic or Latino,16-MAY-2025
+ADBM-401,4005-009,4005,1948,77,Male,White,Not Hispanic or Latino,17-MAY-2025
+ADBM-401,4001-006,4001,1960,65,Female,Black or African American,Not Hispanic or Latino,17-MAY-2025
+ADBM-401,4001-007,4001,1950,75,Female,Black or African American,Not Hispanic or Latino,18-MAY-2025
+ADBM-401,4002-006,4002,1957,68,Male,White,Hispanic or Latino,18-MAY-2025
+ADBM-401,4018-004,4018,1953,72,Female,Asian,Not Hispanic or Latino,19-MAY-2025
+ADBM-401,4001-008,4001,1954,71,Female,White,Not Hispanic or Latino,19-MAY-2025
+ADBM-401,4005-010,4005,1950,75,Female,White,Not Hispanic or Latino,20-MAY-2025
+ADBM-401,4002-007,4002,1951,74,Male,White,Not Hispanic or Latino,23-MAY-2025
+ADBM-401,4001-009,4001,1952,73,Female,Black or African American,Not Hispanic or Latino,25-MAY-2025
+ADBM-401,4003-003,4003,1970,55,Male,White,Not Hispanic or Latino,26-MAY-2025
+ADBM-401,4010-010,4010,1948,77,Female,White,Not Hispanic or Latino,27-MAY-2025
+ADBM-401,4018-005,4018,1950,75,Male,White,Not Hispanic or Latino,28-MAY-2025
+ADBM-401,4009-004,4009,1957,68,Female,White,Not Hispanic or Latino,29-MAY-2025
+ADBM-401,4001-010,4001,1940,85,Female,White,Not Hispanic or Latino,30-MAY-2025
+ADBM-401,4013-004,4013,1955,70,Male,Asian,Not Hispanic or Latino,01-JUN-2025
+ADBM-401,4011-002,4011,1952,73,Male,White,Not Hispanic or Latino,08-JUN-2025
+ADBM-401,4008-007,4008,1962,63,Male,Asian,Not Hispanic or Latino,09-JUN-2025
+ADBM-401,4009-005,4009,1936,89,Female,White,Not Hispanic or Latino,11-JUN-2025
+ADBM-401,4002-008,4002,1955,70,Female,White,Hispanic or Latino,11-JUN-2025
+ADBM-401,4016-006,4016,1962,63,Female,White,Not Hispanic or Latino,12-JUN-2025
+ADBM-401,4016-007,4016,1939,86,Male,White,Not Hispanic or Latino,13-JUN-2025
+ADBM-401,4002-009,4002,1938,87,Female,Other,Not Hispanic or Latino,13-JUN-2025
+ADBM-401,4002-010,4002,1961,64,Female,Asian,Not Hispanic or Latino,14-JUN-2025
+ADBM-401,4001-011,4001,1941,84,Male,White,Not Hispanic or Latino,14-JUN-2025
+ADBM-401,4010-011,4010,1946,79,Female,White,Hispanic or Latino,15-JUN-2025
+ADBM-401,4007-004,4007,1952,73,Male,White,Not Hispanic or Latino,15-JUN-2025
+ADBM-401,4018-006,4018,1956,69,Male,Asian,Not Hispanic or Latino,17-JUN-2025
+ADBM-401,4018-007,4018,1958,67,Male,Asian,Not Hispanic or Latino,17-JUN-2025
+ADBM-401,4003-004,4003,1949,76,Female,White,Not Hispanic or Latino,17-JUN-2025
+ADBM-401,4016-008,4016,1962,63,Male,White,Not Hispanic or Latino,17-JUN-2025
+ADBM-401,4012-004,4012,1956,69,Female,White,Not Hispanic or Latino,18-JUN-2025
+ADBM-401,4003-005,4003,1952,73,Female,White,Not Hispanic or Latino,19-JUN-2025
+ADBM-401,4015-002,4015,1945,80,Male,Asian,Not Hispanic or Latino,19-JUN-2025
+ADBM-401,4015-003,4015,1955,70,Female,Asian,Not Hispanic or Latino,19-JUN-2025
+ADBM-401,4019-002,4019,1950,75,Female,White,Not Hispanic or Latino,20-JUN-2025
+ADBM-401,4004-004,4004,1947,78,Female,White,Not Hispanic or Latino,21-JUN-2025
+ADBM-401,4006-004,4006,1963,62,Male,White,Hispanic or Latino,21-JUN-2025
+ADBM-401,4017-003,4017,1952,73,Female,White,Not Hispanic or Latino,21-JUN-2025
+ADBM-401,4010-012,4010,1952,73,Female,White,Not Hispanic or Latino,24-JUN-2025
+ADBM-401,4008-008,4008,1954,71,Female,White,Not Hispanic or Latino,02-JUL-2025
+ADBM-401,4010-013,4010,1949,76,Female,White,Not Hispanic or Latino,02-JUL-2025
+ADBM-401,4005-011,4005,1958,67,Male,White,Unknown,03-JUL-2025
+ADBM-401,4018-008,4018,1955,70,Female,White,Not Hispanic or Latino,03-JUL-2025
+ADBM-401,4015-004,4015,1958,67,Female,Asian,Not Hispanic or Latino,10-JUL-2025
+ADBM-401,4017-004,4017,1947,78,Male,Asian,Not Hispanic or Latino,12-JUL-2025
+ADBM-401,4017-005,4017,1949,76,Female,White,Not Hispanic or Latino,15-JUL-2025
+ADBM-401,4003-006,4003,1940,85,Female,White,Not Hispanic or Latino,16-JUL-2025
+ADBM-401,4004-005,4004,1943,82,Female,White,Not Hispanic or Latino,17-JUL-2025
+ADBM-401,4020-002,4020,1963,62,Male,White,Not Hispanic or Latino,18-JUL-2025
+ADBM-401,4008-009,4008,1946,79,Male,Black or African American,Not Hispanic or Latino,18-JUL-2025
+ADBM-401,4004-006,4004,1961,64,Female,White,Hispanic or Latino,21-JUL-2025
+ADBM-401,4015-005,4015,1960,65,Male,Asian,Not Hispanic or Latino,22-JUL-2025
+ADBM-401,4014-005,4014,1954,71,Female,White,Hispanic or Latino,22-JUL-2025
+ADBM-401,4018-009,4018,1954,71,Female,White,Not Hispanic or Latino,25-JUL-2025
+ADBM-401,4006-005,4006,1941,84,Female,White,Not Hispanic or Latino,02-AUG-2025
+ADBM-401,4018-010,4018,1955,70,Female,White,Hispanic or Latino,03-AUG-2025
+ADBM-401,4012-005,4012,1961,64,Male,White,Not Hispanic or Latino,04-AUG-2025
+ADBM-401,4014-006,4014,1952,73,Female,White,Unknown,04-AUG-2025
+ADBM-401,4001-012,4001,1956,69,Female,White,Not Hispanic or Latino,04-AUG-2025
+ADBM-401,4002-011,4002,1954,71,Female,Asian,Not Hispanic or Latino,04-AUG-2025
+ADBM-401,4012-006,4012,1947,78,Male,White,Not Hispanic or Latino,05-AUG-2025
+ADBM-401,4016-009,4016,1954,71,Female,Black or African American,Not Hispanic or Latino,05-AUG-2025
+ADBM-401,4017-006,4017,1948,77,Male,White,Not Hispanic or Latino,05-AUG-2025
+ADBM-401,4014-007,4014,1945,80,Female,White,Not Hispanic or Latino,06-AUG-2025
+ADBM-401,4002-012,4002,1963,62,Male,White,Unknown,08-AUG-2025
+ADBM-401,4001-013,4001,1961,64,Male,White,Not Hispanic or Latino,10-AUG-2025
+ADBM-401,4007-005,4007,1945,80,Male,White,Not Hispanic or Latino,10-AUG-2025
+ADBM-401,4004-007,4004,1952,73,Female,White,Not Hispanic or Latino,10-AUG-2025
+ADBM-401,4005-012,4005,1945,80,Male,White,Not Hispanic or Latino,10-AUG-2025
+ADBM-401,4002-013,4002,1953,72,Male,Black or African American,Hispanic or Latino,10-AUG-2025
+ADBM-401,4011-003,4011,1955,70,Male,White,Not Hispanic or Latino,12-AUG-2025
+ADBM-401,4016-010,4016,1936,89,Female,Other,Hispanic or Latino,13-AUG-2025
+ADBM-401,4001-014,4001,1963,62,Female,Asian,Not Hispanic or Latino,14-AUG-2025
+ADBM-401,4002-014,4002,1956,69,Male,White,Not Hispanic or Latino,14-AUG-2025
+ADBM-401,4001-015,4001,1951,74,Female,Asian,Not Hispanic or Latino,15-AUG-2025
+ADBM-401,4014-008,4014,1961,64,Female,White,Not Hispanic or Latino,15-AUG-2025
+ADBM-401,4003-007,4003,1959,66,Female,White,Not Hispanic or Latino,17-AUG-2025
+ADBM-401,4001-016,4001,1965,60,Male,White,Not Hispanic or Latino,17-AUG-2025
+ADBM-401,4002-015,4002,1948,77,Female,White,Not Hispanic or Latino,18-AUG-2025
+ADBM-401,4001-017,4001,1960,65,Male,White,Not Hispanic or Latino,23-AUG-2025
+ADBM-401,4008-010,4008,1949,76,Female,White,Hispanic or Latino,23-AUG-2025
+ADBM-401,4002-016,4002,1952,73,Male,White,Not Hispanic or Latino,26-AUG-2025
+ADBM-401,4019-003,4019,1950,75,Male,White,Not Hispanic or Latino,26-AUG-2025
+ADBM-401,4014-009,4014,1948,77,Male,White,Not Hispanic or Latino,26-AUG-2025
+ADBM-401,4003-008,4003,1954,71,Female,Asian,Not Hispanic or Latino,27-AUG-2025
+ADBM-401,4001-018,4001,1954,71,Female,White,Not Hispanic or Latino,27-AUG-2025
+ADBM-401,4003-009,4003,1946,79,Female,White,Not Hispanic or Latino,27-AUG-2025
+ADBM-401,4008-011,4008,1959,66,Female,White,Not Hispanic or Latino,28-AUG-2025
+ADBM-401,4014-010,4014,1960,65,Female,White,Not Hispanic or Latino,28-AUG-2025
+ADBM-401,4001-019,4001,1970,55,Female,Other,Not Hispanic or Latino,29-AUG-2025
+ADBM-401,4010-014,4010,1950,75,Male,White,Not Hispanic or Latino,30-AUG-2025
+ADBM-401,4010-015,4010,1950,75,Male,White,Not Hispanic or Latino,31-AUG-2025
+ADBM-401,4019-004,4019,1953,72,Male,White,Not Hispanic or Latino,31-AUG-2025
+ADBM-401,4007-006,4007,1953,72,Male,Black or African American,Hispanic or Latino,01-SEP-2025
+ADBM-401,4001-020,4001,1953,72,Female,White,Hispanic or Latino,02-SEP-2025
+ADBM-401,4002-017,4002,1960,65,Male,White,Not Hispanic or Latino,02-SEP-2025
+ADBM-401,4001-021,4001,1943,82,Female,White,Hispanic or Latino,03-SEP-2025
+ADBM-401,4008-012,4008,1952,73,Male,White,Not Hispanic or Latino,03-SEP-2025
+ADBM-401,4010-016,4010,1956,69,Female,White,Not Hispanic or Latino,03-SEP-2025
+ADBM-401,4012-007,4012,1952,73,Female,White,Not Hispanic or Latino,04-SEP-2025
+ADBM-401,4019-005,4019,1958,67,Male,White,Not Hispanic or Latino,05-SEP-2025
+ADBM-401,4001-022,4001,1952,73,Male,White,Hispanic or Latino,05-SEP-2025
+ADBM-401,4005-013,4005,1958,67,Male,White,Not Hispanic or Latino,07-SEP-2025
+ADBM-401,4010-017,4010,1959,66,Female,Other,Not Hispanic or Latino,09-SEP-2025
+ADBM-401,4011-004,4011,1953,72,Female,White,Not Hispanic or Latino,13-SEP-2025
+ADBM-401,4011-005,4011,1943,82,Male,White,Not Hispanic or Latino,15-SEP-2025
+ADBM-401,4008-013,4008,1949,76,Male,Black or African American,Not Hispanic or Latino,17-SEP-2025
+ADBM-401,4002-018,4002,1949,76,Female,White,Not Hispanic or Latino,17-SEP-2025
+ADBM-401,4005-014,4005,1966,59,Female,White,Hispanic or Latino,18-SEP-2025
+ADBM-401,4001-023,4001,1946,79,Female,Black or African American,Not Hispanic or Latino,19-SEP-2025
+ADBM-401,4014-011,4014,1953,72,Female,Black or African American,Not Hispanic or Latino,22-SEP-2025
+ADBM-401,4017-007,4017,1959,66,Female,White,Not Hispanic or Latino,24-SEP-2025
+ADBM-401,4014-012,4014,1953,72,Female,White,Not Hispanic or Latino,01-OCT-2025
+ADBM-401,4010-018,4010,1955,70,Female,White,Not Hispanic or Latino,03-OCT-2025
+ADBM-401,4012-008,4012,1951,74,Male,White,Not Hispanic or Latino,07-OCT-2025
+ADBM-401,4013-005,4013,1948,77,Male,Asian,Not Hispanic or Latino,07-OCT-2025
+ADBM-401,4002-019,4002,1956,69,Female,Asian,Not Hispanic or Latino,08-OCT-2025
+ADBM-401,4005-015,4005,1957,68,Male,White,Not Hispanic or Latino,09-OCT-2025
+ADBM-401,4003-010,4003,1956,69,Female,Asian,Not Hispanic or Latino,11-OCT-2025
+ADBM-401,4017-008,4017,1946,79,Female,Asian,Not Hispanic or Latino,11-OCT-2025
+ADBM-401,4015-006,4015,1950,75,Male,Asian,Not Hispanic or Latino,12-OCT-2025
+ADBM-401,4002-020,4002,1950,75,Male,Black or African American,Hispanic or Latino,14-OCT-2025
+ADBM-401,4014-013,4014,1951,74,Female,Asian,Not Hispanic or Latino,15-OCT-2025
+ADBM-401,4018-011,4018,1961,64,Female,Black or African American,Not Hispanic or Latino,20-OCT-2025
+ADBM-401,4004-008,4004,1958,67,Female,White,Not Hispanic or Latino,22-OCT-2025
+ADBM-401,4010-019,4010,1946,79,Female,White,Not Hispanic or Latino,24-OCT-2025
+ADBM-401,4004-009,4004,1947,78,Male,White,Hispanic or Latino,25-OCT-2025
+ADBM-401,4005-016,4005,1960,65,Male,White,Not Hispanic or Latino,26-OCT-2025
+ADBM-401,4005-017,4005,1954,71,Female,White,Not Hispanic or Latino,26-OCT-2025
+ADBM-401,4012-009,4012,1951,74,Female,Black or African American,Not Hispanic or Latino,26-OCT-2025
+ADBM-401,4006-006,4006,1954,71,Female,White,Not Hispanic or Latino,28-OCT-2025
+ADBM-401,4018-012,4018,1950,75,Male,White,Not Hispanic or Latino,31-OCT-2025
+ADBM-401,4009-006,4009,1954,71,Female,White,Not Hispanic or Latino,31-OCT-2025
+ADBM-401,4012-010,4012,1955,70,Male,Black or African American,Not Hispanic or Latino,01-NOV-2025
+ADBM-401,4010-020,4010,1949,76,Female,White,Hispanic or Latino,01-NOV-2025
+ADBM-401,4019-006,4019,1951,74,Female,White,Not Hispanic or Latino,03-NOV-2025
+ADBM-401,4012-011,4012,1956,69,Male,White,Unknown,04-NOV-2025
+ADBM-401,4002-021,4002,1958,67,Male,White,Not Hispanic or Latino,04-NOV-2025
+ADBM-401,4002-022,4002,1956,69,Male,Other,Not Hispanic or Latino,05-NOV-2025
+ADBM-401,4012-012,4012,1954,71,Female,White,Not Hispanic or Latino,08-NOV-2025
+ADBM-401,4018-013,4018,1956,69,Male,White,Not Hispanic or Latino,10-NOV-2025
+ADBM-401,4007-007,4007,1956,69,Male,White,Not Hispanic or Latino,11-NOV-2025
+ADBM-401,4014-014,4014,1956,69,Female,White,Not Hispanic or Latino,12-NOV-2025
+ADBM-401,4002-023,4002,1965,60,Female,Asian,Not Hispanic or Latino,12-NOV-2025
+ADBM-401,4002-024,4002,1953,72,Female,Black or African American,Not Hispanic or Latino,13-NOV-2025
+ADBM-401,4018-014,4018,1967,58,Male,White,Not Hispanic or Latino,15-NOV-2025
+ADBM-401,4004-010,4004,1953,72,Female,White,Not Hispanic or Latino,16-NOV-2025
+ADBM-401,4019-007,4019,1950,75,Female,Black or African American,Not Hispanic or Latino,17-NOV-2025
+ADBM-401,4002-025,4002,1962,63,Female,White,Not Hispanic or Latino,17-NOV-2025
+ADBM-401,4003-011,4003,1947,78,Female,White,Hispanic or Latino,17-NOV-2025
+ADBM-401,4018-015,4018,1945,80,Male,Asian,Not Hispanic or Latino,18-NOV-2025
+ADBM-401,4012-013,4012,1950,75,Male,White,Hispanic or Latino,19-NOV-2025
+ADBM-401,4002-026,4002,1950,75,Female,Black or African American,Not Hispanic or Latino,20-NOV-2025
+ADBM-401,4009-007,4009,1946,79,Female,White,Not Hispanic or Latino,21-NOV-2025
+ADBM-401,4005-018,4005,1956,69,Male,White,Not Hispanic or Latino,23-NOV-2025
+ADBM-401,4018-016,4018,1966,59,Female,Asian,Not Hispanic or Latino,30-NOV-2025
+ADBM-401,4002-027,4002,1944,81,Female,White,Not Hispanic or Latino,30-NOV-2025
+ADBM-401,4009-008,4009,1951,74,Female,White,Not Hispanic or Latino,30-NOV-2025
+ADBM-401,4008-014,4008,1948,77,Male,Asian,Not Hispanic or Latino,05-DEC-2025
+ADBM-401,4008-015,4008,1959,66,Male,White,Hispanic or Latino,07-DEC-2025
+ADBM-401,4010-021,4010,1961,64,Male,White,Not Hispanic or Latino,07-DEC-2025
+ADBM-401,4002-028,4002,1949,76,Female,White,Not Hispanic or Latino,12-DEC-2025
+ADBM-401,4017-009,4017,1956,69,Female,White,Unknown,13-DEC-2025
+ADBM-401,4017-010,4017,1948,77,Female,White,Not Hispanic or Latino,14-DEC-2025
+ADBM-401,4018-017,4018,1948,77,Male,White,Not Hispanic or Latino,14-DEC-2025
+ADBM-401,4010-022,4010,1939,86,Male,White,Not Hispanic or Latino,15-DEC-2025
+ADBM-401,4002-029,4002,1953,72,Female,White,Not Hispanic or Latino,17-DEC-2025
+ADBM-401,4002-030,4002,1960,65,Female,White,Not Hispanic or Latino,18-DEC-2025
+ADBM-401,4012-014,4012,1946,79,Female,White,Hispanic or Latino,19-DEC-2025
+ADBM-401,4013-006,4013,1956,69,Male,Asian,Not Hispanic or Latino,19-DEC-2025
+ADBM-401,4003-012,4003,1963,62,Female,White,Not Hispanic or Latino,19-DEC-2025
+ADBM-401,4014-015,4014,1950,75,Male,White,Not Hispanic or Latino,20-DEC-2025
+ADBM-401,4003-013,4003,1960,65,Female,White,Not Hispanic or Latino,20-DEC-2025
+ADBM-401,4018-018,4018,1950,75,Male,White,Not Hispanic or Latino,26-DEC-2025
+ADBM-401,4018-019,4018,1958,67,Female,Asian,Hispanic or Latino,27-DEC-2025
+ADBM-401,4002-031,4002,1948,77,Male,Other,Not Hispanic or Latino,28-DEC-2025
+ADBM-401,4002-032,4002,1953,72,Male,Black or African American,Not Hispanic or Latino,29-DEC-2025
+ADBM-401,4015-007,4015,1956,69,Female,Asian,Hispanic or Latino,29-DEC-2025
+ADBM-401,4007-008,4007,1947,78,Female,White,Not Hispanic or Latino,31-DEC-2025
+ADBM-401,4010-023,4010,1943,83,Male,Black or African American,Not Hispanic or Latino,01-JAN-2026
+ADBM-401,4005-019,4005,1961,65,Female,White,Not Hispanic or Latino,05-JAN-2026
+ADBM-401,4014-016,4014,1955,71,Female,White,Not Hispanic or Latino,06-JAN-2026
+ADBM-401,4018-020,4018,1946,80,Male,White,Not Hispanic or Latino,07-JAN-2026
+ADBM-401,4007-009,4007,1945,81,Male,White,Not Hispanic or Latino,09-JAN-2026
+ADBM-401,4002-033,4002,1947,79,Male,White,Not Hispanic or Latino,09-JAN-2026
+ADBM-401,4002-034,4002,1959,67,Female,Black or African American,Not Hispanic or Latino,11-JAN-2026
+ADBM-401,4015-008,4015,1958,68,Female,Asian,Not Hispanic or Latino,13-JAN-2026
+ADBM-401,4008-016,4008,1960,66,Female,White,Not Hispanic or Latino,14-JAN-2026
+ADBM-401,4004-011,4004,1963,63,Female,White,Not Hispanic or Latino,15-JAN-2026
+ADBM-401,4001-024,4001,1960,66,Male,White,Not Hispanic or Latino,15-JAN-2026
+ADBM-401,4002-035,4002,1955,71,Female,White,Not Hispanic or Latino,17-JAN-2026
+ADBM-401,4010-024,4010,1956,70,Female,White,Not Hispanic or Latino,17-JAN-2026
+ADBM-401,4009-009,4009,1944,82,Female,White,Not Hispanic or Latino,17-JAN-2026
+ADBM-401,4001-025,4001,1960,66,Male,White,Not Hispanic or Latino,17-JAN-2026
+ADBM-401,4004-012,4004,1960,66,Male,Asian,Not Hispanic or Latino,18-JAN-2026
+ADBM-401,4010-025,4010,1952,74,Female,Other,Not Hispanic or Latino,21-JAN-2026
+ADBM-401,4008-017,4008,1944,82,Male,White,Hispanic or Latino,22-JAN-2026
+ADBM-401,4010-026,4010,1962,64,Female,White,Not Hispanic or Latino,23-JAN-2026
+ADBM-401,4018-021,4018,1955,71,Female,Other,Not Hispanic or Latino,26-JAN-2026
+ADBM-401,4019-008,4019,1959,67,Female,White,Hispanic or Latino,28-JAN-2026
+ADBM-401,4010-027,4010,1946,80,Female,White,Not Hispanic or Latino,29-JAN-2026
+ADBM-401,4008-018,4008,1950,76,Male,Black or African American,Not Hispanic or Latino,30-JAN-2026
+ADBM-401,4004-013,4004,1961,65,Male,White,Not Hispanic or Latino,30-JAN-2026
+ADBM-401,4007-010,4007,1955,71,Male,White,Not Hispanic or Latino,30-JAN-2026
+ADBM-401,4010-028,4010,1937,89,Female,Black or African American,Not Hispanic or Latino,03-FEB-2026
+ADBM-401,4001-026,4001,1952,74,Female,Asian,Not Hispanic or Latino,04-FEB-2026
+ADBM-401,4003-014,4003,1948,78,Male,White,Not Hispanic or Latino,05-FEB-2026
+ADBM-401,4018-022,4018,1944,82,Male,White,Not Hispanic or Latino,06-FEB-2026
+ADBM-401,4014-017,4014,1949,77,Female,White,Hispanic or Latino,09-FEB-2026
+ADBM-401,4001-027,4001,1967,59,Male,White,Not Hispanic or Latino,09-FEB-2026
+ADBM-401,4004-014,4004,1958,68,Female,Other,Hispanic or Latino,12-FEB-2026
+ADBM-401,4004-015,4004,1949,77,Male,White,Not Hispanic or Latino,15-FEB-2026
+ADBM-401,4004-016,4004,1952,74,Female,White,Not Hispanic or Latino,15-FEB-2026
+ADBM-401,4014-018,4014,1957,69,Female,White,Not Hispanic or Latino,17-FEB-2026
+ADBM-401,4005-020,4005,1958,68,Male,White,Not Hispanic or Latino,18-FEB-2026
+ADBM-401,4002-036,4002,1954,72,Female,White,Not Hispanic or Latino,18-FEB-2026
+ADBM-401,4002-037,4002,1945,81,Male,Asian,Not Hispanic or Latino,19-FEB-2026
+ADBM-401,4019-009,4019,1961,65,Male,Asian,Hispanic or Latino,20-FEB-2026
+ADBM-401,4001-028,4001,1959,67,Male,White,Not Hispanic or Latino,21-FEB-2026
+ADBM-401,4006-007,4006,1954,72,Male,White,Not Hispanic or Latino,21-FEB-2026
+ADBM-401,4004-017,4004,1963,63,Female,White,Not Hispanic or Latino,23-FEB-2026
+ADBM-401,4018-023,4018,1958,68,Male,White,Hispanic or Latino,23-FEB-2026
+ADBM-401,4010-029,4010,1955,71,Female,Asian,Not Hispanic or Latino,24-FEB-2026
+ADBM-401,4010-030,4010,1947,79,Male,White,Hispanic or Latino,24-FEB-2026
+ADBM-401,4014-019,4014,1953,73,Male,White,Not Hispanic or Latino,27-FEB-2026
+ADBM-401,4008-019,4008,1957,69,Male,White,Not Hispanic or Latino,27-FEB-2026
+ADBM-401,4004-018,4004,1942,84,Male,White,Not Hispanic or Latino,28-FEB-2026
+ADBM-401,4010-031,4010,1960,66,Male,White,Not Hispanic or Latino,01-MAR-2026
+ADBM-401,4018-024,4018,1955,71,Female,White,Not Hispanic or Latino,03-MAR-2026

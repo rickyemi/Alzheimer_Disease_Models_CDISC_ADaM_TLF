@@ -1,0 +1,54 @@
+VERBATIM_TERM,MEDDRA_LLT,MEDDRA_PT,MEDDRA_SOC,MEDDRA_VERSION
+headache,Headache,Headache,Nervous system disorders,27.1
+HEADACHE,Headache,Headache,Nervous system disorders,27.1
+Headache,Headache,Headache,Nervous system disorders,27.1
+Head ache,Headache,Headache,Nervous system disorders,27.1
+FALL,Fall,Fall,"Injury, poisoning and procedural complications",27.1
+fell at home,Fall,Fall,"Injury, poisoning and procedural complications",27.1
+Fall,Fall,Fall,"Injury, poisoning and procedural complications",27.1
+cold symptoms,Common cold,Nasopharyngitis,Infections and infestations,27.1
+Nasopharyngitis,Common cold,Nasopharyngitis,Infections and infestations,27.1
+Common cold,Common cold,Nasopharyngitis,Infections and infestations,27.1
+Urinary tract infection,Urinary tract infection,Urinary tract infection,Infections and infestations,27.1
+urinary tract infection,Urinary tract infection,Urinary tract infection,Infections and infestations,27.1
+UTI,Urinary tract infection,Urinary tract infection,Infections and infestations,27.1
+Dizziness,Dizziness,Dizziness,Nervous system disorders,27.1
+dizzy,Dizziness,Dizziness,Nervous system disorders,27.1
+Nausea,Nausea,Nausea,Gastrointestinal disorders,27.1
+nausea,Nausea,Nausea,Gastrointestinal disorders,27.1
+Diarrhea,Diarrhea,Diarrhoea,Gastrointestinal disorders,27.1
+diarrhoea,Diarrhea,Diarrhoea,Gastrointestinal disorders,27.1
+Loose stools,Diarrhea,Diarrhoea,Gastrointestinal disorders,27.1
+Back pain,Back pain,Back pain,Musculoskeletal and connective tissue disorders,27.1
+Lower back pain,Back pain,Back pain,Musculoskeletal and connective tissue disorders,27.1
+back pain,Back pain,Back pain,Musculoskeletal and connective tissue disorders,27.1
+Arthralgia,Joint pain,Arthralgia,Musculoskeletal and connective tissue disorders,27.1
+Joint pain,Joint pain,Arthralgia,Musculoskeletal and connective tissue disorders,27.1
+Fatigue,Fatigue,Fatigue,General disorders and administration site conditions,27.1
+tiredness,Fatigue,Fatigue,General disorders and administration site conditions,27.1
+trouble sleeping,Insomnia,Insomnia,Psychiatric disorders,27.1
+Insomnia,Insomnia,Insomnia,Psychiatric disorders,27.1
+Anxiety,Anxiety,Anxiety,Psychiatric disorders,27.1
+anxious,Anxiety,Anxiety,Psychiatric disorders,27.1
+High blood pressure,High blood pressure,Hypertension,Vascular disorders,27.1
+Hypertension,High blood pressure,Hypertension,Vascular disorders,27.1
+cough,Cough,Cough,"Respiratory, thoracic and mediastinal disorders",27.1
+Cough,Cough,Cough,"Respiratory, thoracic and mediastinal disorders",27.1
+Confusion,Confusion,Confusional state,Psychiatric disorders,27.1
+Confusional state,Confusion,Confusional state,Psychiatric disorders,27.1
+skin rash,Rash,Rash,Skin and subcutaneous tissue disorders,27.1
+Rash,Rash,Rash,Skin and subcutaneous tissue disorders,27.1
+pneumonia,Pneumonia,Pneumonia,Infections and infestations,27.1
+Pneumonia,Pneumonia,Pneumonia,Infections and infestations,27.1
+Atrial fibrillation,Atrial fibrillation,Atrial fibrillation,Cardiac disorders,27.1
+A-fib,Atrial fibrillation,Atrial fibrillation,Cardiac disorders,27.1
+IRR,Infusion related reaction,Infusion related reaction,"Injury, poisoning and procedural complications",27.1
+infusion related reaction,Infusion related reaction,Infusion related reaction,"Injury, poisoning and procedural complications",27.1
+Infusion reaction,Infusion related reaction,Infusion related reaction,"Injury, poisoning and procedural complications",27.1
+Amyloid related imaging abnormality - edema,Amyloid related imaging abnormality-oedema/effusion,Amyloid related imaging abnormality-oedema/effusion,Nervous system disorders,27.1
+ARIA-E,Amyloid related imaging abnormality-oedema/effusion,Amyloid related imaging abnormality-oedema/effusion,Nervous system disorders,27.1
+ARIA edema on MRI,Amyloid related imaging abnormality-oedema/effusion,Amyloid related imaging abnormality-oedema/effusion,Nervous system disorders,27.1
+ARIA-H microhemorrhage,Amyloid related imaging abnormality-microhaemorrhages and haemosiderin deposits,Amyloid related imaging abnormality-microhaemorrhages and haemosiderin deposits,Nervous system disorders,27.1
+Cerebral microhaemorrhage,Amyloid related imaging abnormality-microhaemorrhages and haemosiderin deposits,Amyloid related imaging abnormality-microhaemorrhages and haemosiderin deposits,Nervous system disorders,27.1
+ARIA-H,Amyloid related imaging abnormality-microhaemorrhages and haemosiderin deposits,Amyloid related imaging abnormality-microhaemorrhages and haemosiderin deposits,Nervous system disorders,27.1
+Myocardial infarction,Myocardial infarction,Myocardial infarction,Cardiac disorders,27.1

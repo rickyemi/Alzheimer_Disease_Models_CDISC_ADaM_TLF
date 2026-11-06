@@ -1,0 +1,374 @@
+STUDY,SUBJECT,SITE,DEVIATION_CATEGORY,IMPORTANT,DEVIATION_DATE
+ADBM-101,1004-001,1004,Visit out of window,No,04-APR-2022
+ADBM-101,1004-001,1004,Missed assessment,No,01-JUL-2022
+ADBM-101,1003-006,1003,Visit out of window,No,27-AUG-2022
+ADBM-101,1001-004,1001,Visit out of window,No,03-AUG-2022
+ADBM-101,1004-005,1004,Visit out of window,No,06-FEB-2023
+ADBM-101,1002-005,1002,Missed assessment,No,15-MAR-2023
+ADBM-101,1002-005,1002,Missed assessment,No,15-JUN-2023
+ADBM-101,1003-011,1003,Missed assessment,No,13-DEC-2022
+ADBM-101,1003-011,1003,Visit out of window,No,13-NOV-2022
+ADBM-101,1002-007,1002,Visit out of window,No,07-JUN-2023
+ADBM-101,1004-007,1004,Visit out of window,No,08-JAN-2023
+ADBM-101,1003-016,1003,Visit out of window,No,12-NOV-2023
+ADBM-101,1003-016,1003,Missed assessment,No,02-APR-2023
+ADBM-201,2010-001,2010,Visit out of window,No,10-APR-2023
+ADBM-201,2008-004,2008,Dosing error,Yes,02-JAN-2023
+ADBM-201,2008-005,2008,Dosing error,Yes,30-APR-2023
+ADBM-201,2004-002,2004,Visit out of window,No,27-JAN-2023
+ADBM-201,2005-003,2005,Missed assessment,No,06-APR-2023
+ADBM-201,2011-002,2011,Missed assessment,No,30-JAN-2023
+ADBM-201,2009-017,2009,Visit out of window,No,18-DEC-2023
+ADBM-201,2008-012,2008,Visit out of window,No,08-SEP-2023
+ADBM-201,2009-018,2009,Visit out of window,No,10-AUG-2023
+ADBM-201,2007-012,2007,Informed consent process,Yes,16-MAR-2023
+ADBM-201,2004-007,2004,Dosing error,Yes,28-MAR-2023
+ADBM-201,2005-005,2005,Missed assessment,No,19-DEC-2023
+ADBM-201,2004-009,2004,Missed assessment,No,23-MAY-2023
+ADBM-201,2007-014,2007,Missed assessment,No,17-DEC-2023
+ADBM-201,2004-010,2004,Missed assessment,No,10-AUG-2023
+ADBM-201,2010-008,2010,Missed assessment,No,07-NOV-2023
+ADBM-201,2011-004,2011,Eligibility criteria not met,Yes,04-JAN-2024
+ADBM-201,2008-017,2008,Eligibility criteria not met,Yes,04-OCT-2023
+ADBM-201,2008-017,2008,Eligibility criteria not met,Yes,23-JAN-2024
+ADBM-201,2009-023,2009,Visit out of window,No,17-MAR-2024
+ADBM-201,2004-015,2004,Missed assessment,No,05-JUL-2023
+ADBM-201,2009-024,2009,Missed assessment,No,19-FEB-2024
+ADBM-201,2002-006,2002,Dosing error,Yes,12-JUL-2023
+ADBM-201,2008-019,2008,Visit out of window,No,22-AUG-2023
+ADBM-201,2009-025,2009,Missed assessment,No,04-JUL-2023
+ADBM-201,2009-025,2009,Missed assessment,No,03-MAR-2024
+ADBM-201,2003-011,2003,Informed consent process,Yes,07-OCT-2023
+ADBM-201,2003-011,2003,Missed assessment,No,16-FEB-2024
+ADBM-201,2002-007,2002,Visit out of window,No,17-FEB-2024
+ADBM-201,2005-008,2005,Informed consent process,Yes,26-FEB-2024
+ADBM-201,2008-022,2008,Visit out of window,No,01-FEB-2024
+ADBM-201,2002-008,2002,Visit out of window,No,26-AUG-2023
+ADBM-201,2011-006,2011,Missed assessment,No,09-FEB-2024
+ADBM-201,2007-017,2007,Missed assessment,No,09-NOV-2023
+ADBM-201,2003-017,2003,Missed assessment,No,19-NOV-2023
+ADBM-201,2008-029,2008,Missed assessment,No,01-DEC-2023
+ADBM-201,2004-022,2004,Informed consent process,Yes,05-MAR-2024
+ADBM-301,3018-001,3018,Eligibility criteria not met,Yes,25-FEB-2024
+ADBM-301,3018-002,3018,Missed assessment,No,02-JAN-2024
+ADBM-301,3018-002,3018,Missed assessment,No,26-SEP-2023
+ADBM-301,3018-002,3018,Dosing error,Yes,20-DEC-2023
+ADBM-301,3018-002,3018,Eligibility criteria not met,Yes,18-JUL-2023
+ADBM-301,3007-003,3007,Informed consent process,Yes,19-FEB-2024
+ADBM-301,3018-003,3018,Visit out of window,No,03-APR-2024
+ADBM-301,3018-003,3018,Missed assessment,No,12-SEP-2023
+ADBM-301,3018-004,3018,Missed assessment,No,20-JUL-2023
+ADBM-301,3018-004,3018,Eligibility criteria not met,Yes,26-NOV-2023
+ADBM-301,3018-004,3018,Visit out of window,No,28-MAR-2024
+ADBM-301,3018-005,3018,Missed assessment,No,28-FEB-2024
+ADBM-301,3025-005,3025,Visit out of window,No,25-APR-2024
+ADBM-301,3018-007,3018,Missed assessment,No,31-OCT-2023
+ADBM-301,3018-007,3018,Informed consent process,Yes,15-NOV-2023
+ADBM-301,3018-007,3018,Dosing error,Yes,31-DEC-2023
+ADBM-301,3018-007,3018,Missed assessment,No,09-AUG-2023
+ADBM-301,3018-008,3018,Eligibility criteria not met,Yes,08-FEB-2024
+ADBM-301,3018-008,3018,Missed assessment,No,26-FEB-2024
+ADBM-301,3018-008,3018,Missed assessment,No,03-DEC-2023
+ADBM-301,3009-001,3009,Visit out of window,No,02-SEP-2023
+ADBM-301,3011-001,3011,Missed assessment,No,07-APR-2024
+ADBM-301,3011-002,3011,Missed assessment,No,04-JAN-2024
+ADBM-301,3002-001,3002,Eligibility criteria not met,Yes,05-AUG-2023
+ADBM-301,3029-002,3029,Missed assessment,No,03-DEC-2023
+ADBM-301,3022-001,3022,Visit out of window,No,24-SEP-2023
+ADBM-301,3004-002,3004,Visit out of window,No,16-OCT-2023
+ADBM-301,3018-009,3018,Visit out of window,No,19-FEB-2024
+ADBM-301,3018-009,3018,Missed assessment,No,03-NOV-2023
+ADBM-301,3030-001,3030,Visit out of window,No,20-AUG-2023
+ADBM-301,3027-003,3027,Visit out of window,No,02-OCT-2023
+ADBM-301,3023-002,3023,Visit out of window,No,31-OCT-2023
+ADBM-301,3019-003,3019,Visit out of window,No,20-SEP-2023
+ADBM-301,3026-003,3026,Informed consent process,Yes,30-JAN-2024
+ADBM-301,3026-003,3026,Missed assessment,No,06-FEB-2024
+ADBM-301,3026-004,3026,Eligibility criteria not met,Yes,25-OCT-2023
+ADBM-301,3022-002,3022,Dosing error,Yes,22-FEB-2024
+ADBM-301,3006-002,3006,Missed assessment,No,21-AUG-2023
+ADBM-301,3029-004,3029,Eligibility criteria not met,Yes,26-FEB-2024
+ADBM-301,3029-004,3029,Visit out of window,No,28-AUG-2023
+ADBM-301,3018-010,3018,Missed assessment,No,01-MAR-2024
+ADBM-301,3018-010,3018,Informed consent process,Yes,18-APR-2024
+ADBM-301,3025-009,3025,Visit out of window,No,28-DEC-2023
+ADBM-301,3029-008,3029,Missed assessment,No,06-FEB-2024
+ADBM-301,3022-003,3022,Visit out of window,No,26-NOV-2023
+ADBM-301,3022-003,3022,Dosing error,Yes,14-DEC-2023
+ADBM-301,3006-003,3006,Missed assessment,No,22-MAY-2024
+ADBM-301,3001-003,3001,Visit out of window,No,05-MAY-2024
+ADBM-301,3010-003,3010,Informed consent process,Yes,18-FEB-2024
+ADBM-301,3011-006,3011,Visit out of window,No,02-MAR-2024
+ADBM-301,3020-004,3020,Eligibility criteria not met,Yes,21-FEB-2024
+ADBM-301,3026-009,3026,Eligibility criteria not met,Yes,03-MAY-2024
+ADBM-301,3004-005,3004,Missed assessment,No,15-NOV-2023
+ADBM-301,3011-009,3011,Visit out of window,No,02-MAR-2024
+ADBM-301,3011-009,3011,Visit out of window,No,27-MAY-2024
+ADBM-301,3027-009,3027,Visit out of window,No,30-SEP-2023
+ADBM-301,3029-012,3029,Visit out of window,No,01-DEC-2023
+ADBM-301,3029-012,3029,Visit out of window,No,26-MAR-2024
+ADBM-301,3025-011,3025,Dosing error,Yes,22-MAY-2024
+ADBM-301,3025-011,3025,Visit out of window,No,08-FEB-2024
+ADBM-301,3009-008,3009,Visit out of window,No,05-MAY-2024
+ADBM-301,3009-009,3009,Missed assessment,No,27-SEP-2023
+ADBM-301,3025-012,3025,Missed assessment,No,30-OCT-2023
+ADBM-301,3026-010,3026,Visit out of window,No,28-JUN-2024
+ADBM-301,3024-001,3024,Visit out of window,No,25-MAR-2024
+ADBM-301,3022-004,3022,Missed assessment,No,11-JUN-2024
+ADBM-301,3020-007,3020,Visit out of window,No,13-NOV-2023
+ADBM-301,3020-007,3020,Informed consent process,Yes,10-MAY-2024
+ADBM-301,3028-003,3028,Visit out of window,No,19-DEC-2023
+ADBM-301,3010-007,3010,Dosing error,Yes,09-JUN-2024
+ADBM-301,3025-013,3025,Visit out of window,No,01-FEB-2024
+ADBM-301,3025-013,3025,Eligibility criteria not met,Yes,01-APR-2024
+ADBM-301,3029-016,3029,Visit out of window,No,30-NOV-2023
+ADBM-301,3009-012,3009,Visit out of window,No,19-DEC-2023
+ADBM-301,3002-008,3002,Missed assessment,No,04-JUN-2024
+ADBM-301,3006-008,3006,Missed assessment,No,18-MAR-2024
+ADBM-301,3029-017,3029,Eligibility criteria not met,Yes,02-NOV-2023
+ADBM-301,3029-017,3029,Dosing error,Yes,17-JUN-2024
+ADBM-301,3001-005,3001,Visit out of window,No,04-JUL-2024
+ADBM-301,3027-016,3027,Missed assessment,No,05-MAY-2024
+ADBM-301,3002-010,3002,Dosing error,Yes,06-JUN-2024
+ADBM-301,3002-010,3002,Visit out of window,No,17-FEB-2024
+ADBM-301,3012-001,3012,Eligibility criteria not met,Yes,26-MAR-2024
+ADBM-301,3012-001,3012,Missed assessment,No,10-APR-2024
+ADBM-301,3006-009,3006,Dosing error,Yes,24-AUG-2024
+ADBM-301,3026-015,3026,Missed assessment,No,12-JUN-2024
+ADBM-301,3022-010,3022,Visit out of window,No,14-AUG-2024
+ADBM-301,3022-010,3022,Missed assessment,No,20-MAY-2024
+ADBM-301,3019-008,3019,Dosing error,Yes,22-APR-2024
+ADBM-301,3013-002,3013,Dosing error,Yes,23-DEC-2023
+ADBM-301,3021-006,3021,Missed assessment,No,01-AUG-2024
+ADBM-301,3019-009,3019,Visit out of window,No,27-APR-2024
+ADBM-301,3002-012,3002,Missed assessment,No,18-FEB-2024
+ADBM-301,3002-012,3002,Visit out of window,No,24-JAN-2024
+ADBM-301,3002-012,3002,Visit out of window,No,10-DEC-2023
+ADBM-301,3030-006,3030,Informed consent process,Yes,26-DEC-2023
+ADBM-301,3002-013,3002,Dosing error,Yes,09-SEP-2024
+ADBM-301,3022-012,3022,Informed consent process,Yes,23-FEB-2024
+ADBM-301,3018-012,3018,Dosing error,Yes,21-DEC-2023
+ADBM-301,3003-006,3003,Dosing error,Yes,19-JUN-2024
+ADBM-301,3022-013,3022,Dosing error,Yes,26-DEC-2023
+ADBM-301,3027-023,3027,Visit out of window,No,19-DEC-2023
+ADBM-301,3027-024,3027,Visit out of window,No,16-MAR-2024
+ADBM-301,3007-011,3007,Missed assessment,No,23-JUN-2024
+ADBM-301,3006-013,3006,Visit out of window,No,13-MAY-2024
+ADBM-301,3026-020,3026,Visit out of window,No,02-JUN-2024
+ADBM-301,3027-026,3027,Dosing error,Yes,27-SEP-2024
+ADBM-301,3026-021,3026,Eligibility criteria not met,Yes,09-JAN-2024
+ADBM-301,3008-004,3008,Missed assessment,No,13-MAY-2024
+ADBM-301,3013-003,3013,Visit out of window,No,18-AUG-2024
+ADBM-301,3029-025,3029,Visit out of window,No,23-FEB-2024
+ADBM-301,3001-008,3001,Visit out of window,No,25-JAN-2024
+ADBM-301,3018-013,3018,Dosing error,Yes,18-FEB-2024
+ADBM-301,3007-012,3007,Visit out of window,No,16-JUN-2024
+ADBM-301,3011-016,3011,Visit out of window,No,24-JAN-2024
+ADBM-301,3002-017,3002,Missed assessment,No,24-JAN-2024
+ADBM-301,3009-022,3009,Visit out of window,No,21-APR-2024
+ADBM-301,3027-028,3027,Visit out of window,No,01-MAR-2024
+ADBM-301,3027-028,3027,Eligibility criteria not met,Yes,22-MAY-2024
+ADBM-301,3029-026,3029,Missed assessment,No,11-OCT-2024
+ADBM-301,3003-008,3003,Missed assessment,No,23-APR-2024
+ADBM-301,3019-014,3019,Visit out of window,No,14-JUN-2024
+ADBM-301,3009-023,3009,Visit out of window,No,03-SEP-2024
+ADBM-301,3019-015,3019,Visit out of window,No,12-FEB-2024
+ADBM-301,3005-002,3005,Informed consent process,Yes,12-JUL-2024
+ADBM-301,3027-030,3027,Visit out of window,No,17-APR-2024
+ADBM-301,3002-018,3002,Missed assessment,No,29-APR-2024
+ADBM-301,3019-016,3019,Visit out of window,No,20-SEP-2024
+ADBM-301,3029-027,3029,Missed assessment,No,27-MAY-2024
+ADBM-301,3029-027,3029,Visit out of window,No,12-AUG-2024
+ADBM-301,3002-019,3002,Informed consent process,Yes,06-OCT-2024
+ADBM-301,3019-017,3019,Missed assessment,No,02-FEB-2024
+ADBM-301,3022-015,3022,Missed assessment,No,29-AUG-2024
+ADBM-301,3022-017,3022,Missed assessment,No,09-JUN-2024
+ADBM-301,3011-020,3011,Missed assessment,No,01-AUG-2024
+ADBM-301,3029-029,3029,Visit out of window,No,12-APR-2024
+ADBM-301,3029-030,3029,Missed assessment,No,05-JUL-2024
+ADBM-301,3029-030,3029,Visit out of window,No,11-AUG-2024
+ADBM-301,3011-021,3011,Visit out of window,No,04-JUN-2024
+ADBM-301,3024-004,3024,Dosing error,Yes,11-AUG-2024
+ADBM-301,3029-031,3029,Visit out of window,No,05-SEP-2024
+ADBM-301,3027-033,3027,Missed assessment,No,14-JUN-2024
+ADBM-301,3019-018,3019,Visit out of window,No,03-JUL-2024
+ADBM-301,3019-018,3019,Eligibility criteria not met,Yes,03-NOV-2024
+ADBM-301,3027-034,3027,Visit out of window,No,12-OCT-2024
+ADBM-301,3030-008,3030,Visit out of window,No,05-DEC-2024
+ADBM-301,3030-008,3030,Eligibility criteria not met,Yes,06-NOV-2024
+ADBM-301,3004-012,3004,Dosing error,Yes,15-NOV-2024
+ADBM-301,3018-014,3018,Visit out of window,No,07-SEP-2024
+ADBM-301,3018-015,3018,Dosing error,Yes,01-MAY-2024
+ADBM-301,3018-015,3018,Visit out of window,No,01-MAY-2024
+ADBM-301,3018-015,3018,Missed assessment,No,22-MAY-2024
+ADBM-301,3018-015,3018,Visit out of window,No,17-MAY-2024
+ADBM-301,3018-016,3018,Visit out of window,No,13-APR-2024
+ADBM-301,3001-011,3001,Missed assessment,No,28-FEB-2024
+ADBM-301,3011-024,3011,Visit out of window,No,14-APR-2024
+ADBM-301,3011-027,3011,Informed consent process,Yes,16-MAY-2024
+ADBM-301,3029-035,3029,Dosing error,Yes,07-SEP-2024
+ADBM-301,3011-029,3011,Informed consent process,Yes,20-SEP-2024
+ADBM-301,3019-019,3019,Visit out of window,No,20-OCT-2024
+ADBM-301,3024-005,3024,Visit out of window,No,12-OCT-2024
+ADBM-301,3026-028,3026,Missed assessment,No,02-JUL-2024
+ADBM-301,3017-001,3017,Visit out of window,No,01-DEC-2024
+ADBM-301,3017-001,3017,Visit out of window,No,11-JUN-2024
+ADBM-301,3018-017,3018,Missed assessment,No,24-MAY-2024
+ADBM-301,3018-017,3018,Missed assessment,No,27-JUN-2024
+ADBM-301,3018-017,3018,Missed assessment,No,29-MAY-2024
+ADBM-301,3018-017,3018,Visit out of window,No,19-AUG-2024
+ADBM-301,3018-017,3018,Missed assessment,No,01-JUL-2024
+ADBM-301,3020-013,3020,Informed consent process,Yes,04-NOV-2024
+ADBM-301,3019-020,3019,Visit out of window,No,20-MAR-2024
+ADBM-301,3018-018,3018,Dosing error,Yes,22-AUG-2024
+ADBM-301,3018-018,3018,Eligibility criteria not met,Yes,02-JUN-2024
+ADBM-301,3011-032,3011,Visit out of window,No,18-AUG-2024
+ADBM-301,3011-032,3011,Eligibility criteria not met,Yes,21-SEP-2024
+ADBM-301,3022-018,3022,Visit out of window,No,24-JUN-2024
+ADBM-301,3022-018,3022,Dosing error,Yes,09-DEC-2024
+ADBM-301,3013-005,3013,Missed assessment,No,02-DEC-2024
+ADBM-301,3027-038,3027,Visit out of window,No,13-JAN-2025
+ADBM-301,3027-038,3027,Missed assessment,No,08-DEC-2024
+ADBM-301,3003-018,3003,Visit out of window,No,03-AUG-2024
+ADBM-301,3015-003,3015,Missed assessment,No,29-OCT-2024
+ADBM-301,3015-003,3015,Dosing error,Yes,05-JUN-2024
+ADBM-301,3027-039,3027,Visit out of window,No,16-AUG-2024
+ADBM-301,3027-039,3027,Missed assessment,No,28-JUL-2024
+ADBM-301,3029-037,3029,Dosing error,Yes,15-AUG-2024
+ADBM-301,3029-037,3029,Dosing error,Yes,28-DEC-2024
+ADBM-301,3029-037,3029,Dosing error,Yes,07-JUL-2024
+ADBM-301,3004-014,3004,Visit out of window,No,14-NOV-2024
+ADBM-301,3030-009,3030,Visit out of window,No,23-JAN-2025
+ADBM-301,3028-010,3028,Visit out of window,No,10-JUL-2024
+ADBM-301,3028-011,3028,Eligibility criteria not met,Yes,07-JUN-2024
+ADBM-301,3001-012,3001,Visit out of window,No,03-OCT-2024
+ADBM-301,3029-039,3029,Dosing error,Yes,18-JUL-2024
+ADBM-301,3027-044,3027,Visit out of window,No,18-NOV-2024
+ADBM-301,3002-028,3002,Missed assessment,No,16-MAY-2024
+ADBM-301,3002-028,3002,Visit out of window,No,01-JAN-2025
+ADBM-301,3013-006,3013,Visit out of window,No,21-MAY-2024
+ADBM-301,3026-037,3026,Visit out of window,No,13-AUG-2024
+ADBM-301,3024-007,3024,Visit out of window,No,21-DEC-2024
+ADBM-301,3025-017,3025,Missed assessment,No,19-JUL-2024
+ADBM-301,3006-029,3006,Informed consent process,Yes,01-FEB-2025
+ADBM-301,3018-019,3018,Visit out of window,No,26-OCT-2024
+ADBM-301,3018-019,3018,Visit out of window,No,25-JAN-2025
+ADBM-301,3018-020,3018,Eligibility criteria not met,Yes,01-DEC-2024
+ADBM-301,3020-018,3020,Missed assessment,No,19-JAN-2025
+ADBM-301,3027-050,3027,Visit out of window,No,24-JUN-2024
+ADBM-301,3011-042,3011,Informed consent process,Yes,10-DEC-2024
+ADBM-301,3011-042,3011,Visit out of window,No,14-NOV-2024
+ADBM-301,3027-052,3027,Visit out of window,No,28-FEB-2025
+ADBM-301,3027-052,3027,Visit out of window,No,25-NOV-2024
+ADBM-301,3026-041,3026,Missed assessment,No,09-AUG-2024
+ADBM-301,3027-053,3027,Visit out of window,No,10-MAR-2025
+ADBM-301,3029-044,3029,Missed assessment,No,09-SEP-2024
+ADBM-301,3011-046,3011,Visit out of window,No,11-JUL-2024
+ADBM-301,3011-046,3011,Informed consent process,Yes,29-NOV-2024
+ADBM-301,3002-031,3002,Missed assessment,No,23-FEB-2025
+ADBM-301,3009-033,3009,Eligibility criteria not met,Yes,20-FEB-2025
+ADBM-301,3002-032,3002,Informed consent process,Yes,23-OCT-2024
+ADBM-301,3018-021,3018,Visit out of window,No,24-JUN-2024
+ADBM-301,3018-021,3018,Dosing error,Yes,31-JAN-2025
+ADBM-301,3006-031,3006,Missed assessment,No,10-AUG-2024
+ADBM-301,3006-031,3006,Visit out of window,No,10-JUL-2024
+ADBM-301,3009-036,3009,Visit out of window,No,05-OCT-2024
+ADBM-301,3022-028,3022,Informed consent process,Yes,03-DEC-2024
+ADBM-301,3020-022,3020,Visit out of window,No,26-AUG-2024
+ADBM-301,3020-022,3020,Informed consent process,Yes,28-JAN-2025
+ADBM-301,3001-015,3001,Visit out of window,No,23-JUN-2024
+ADBM-301,3006-033,3006,Missed assessment,No,19-MAR-2025
+ADBM-301,3018-022,3018,Missed assessment,No,28-SEP-2024
+ADBM-301,3018-022,3018,Visit out of window,No,02-JUL-2024
+ADBM-301,3018-023,3018,Missed assessment,No,22-AUG-2024
+ADBM-301,3006-034,3006,Dosing error,Yes,02-AUG-2024
+ADBM-301,3018-024,3018,Informed consent process,Yes,25-NOV-2024
+ADBM-301,3029-045,3029,Visit out of window,No,08-SEP-2024
+ADBM-301,3029-045,3029,Missed assessment,No,23-OCT-2024
+ADBM-301,3002-035,3002,Visit out of window,No,12-AUG-2024
+ADBM-301,3022-029,3022,Missed assessment,No,11-AUG-2024
+ADBM-401,4011-001,4011,Missed assessment,No,20-OCT-2025
+ADBM-401,4005-001,4005,Visit out of window,No,09-OCT-2025
+ADBM-401,4013-001,4013,Missed assessment,No,04-APR-2025
+ADBM-401,4002-001,4002,Missed assessment,No,04-OCT-2025
+ADBM-401,4010-001,4010,Dosing error,Yes,17-DEC-2025
+ADBM-401,4005-003,4005,Missed assessment,No,10-OCT-2025
+ADBM-401,4012-001,4012,Informed consent process,Yes,19-JUL-2025
+ADBM-401,4014-001,4014,Missed assessment,No,08-JUL-2025
+ADBM-401,4014-001,4014,Visit out of window,No,28-SEP-2025
+ADBM-401,4016-002,4016,Eligibility criteria not met,Yes,28-JUN-2025
+ADBM-401,4016-002,4016,Eligibility criteria not met,Yes,29-MAY-2025
+ADBM-401,4010-002,4010,Informed consent process,Yes,07-MAY-2025
+ADBM-401,4007-003,4007,Visit out of window,No,07-NOV-2025
+ADBM-401,4013-002,4013,Visit out of window,No,06-SEP-2025
+ADBM-401,4013-002,4013,Missed assessment,No,07-AUG-2025
+ADBM-401,4005-005,4005,Missed assessment,No,15-DEC-2025
+ADBM-401,4005-005,4005,Missed assessment,No,04-FEB-2026
+ADBM-401,4001-003,4001,Eligibility criteria not met,Yes,04-DEC-2025
+ADBM-401,4017-001,4017,Missed assessment,No,12-SEP-2025
+ADBM-401,4002-003,4002,Visit out of window,No,12-JUN-2025
+ADBM-401,4002-003,4002,Visit out of window,No,08-JUN-2025
+ADBM-401,4010-005,4010,Visit out of window,No,18-MAY-2025
+ADBM-401,4003-001,4003,Missed assessment,No,11-OCT-2025
+ADBM-401,4004-002,4004,Eligibility criteria not met,Yes,29-JUN-2025
+ADBM-401,4019-001,4019,Missed assessment,No,30-AUG-2025
+ADBM-401,4008-005,4008,Visit out of window,No,11-DEC-2025
+ADBM-401,4018-003,4018,Dosing error,Yes,25-NOV-2025
+ADBM-401,4008-006,4008,Dosing error,Yes,13-DEC-2025
+ADBM-401,4002-005,4002,Informed consent process,Yes,23-FEB-2026
+ADBM-401,4002-006,4002,Visit out of window,No,30-SEP-2025
+ADBM-401,4018-004,4018,Missed assessment,No,14-JAN-2026
+ADBM-401,4001-010,4001,Missed assessment,No,22-AUG-2025
+ADBM-401,4011-002,4011,Missed assessment,No,20-JUL-2025
+ADBM-401,4002-008,4002,Dosing error,Yes,29-JAN-2026
+ADBM-401,4002-008,4002,Visit out of window,No,17-JUL-2025
+ADBM-401,4016-006,4016,Missed assessment,No,04-NOV-2025
+ADBM-401,4016-006,4016,Visit out of window,No,15-APR-2026
+ADBM-401,4016-007,4016,Visit out of window,No,28-DEC-2025
+ADBM-401,4010-011,4010,Visit out of window,No,10-DEC-2025
+ADBM-401,4003-004,4003,Eligibility criteria not met,Yes,10-MAR-2026
+ADBM-401,4012-004,4012,Informed consent process,Yes,19-MAR-2026
+ADBM-401,4012-004,4012,Missed assessment,No,09-JAN-2026
+ADBM-401,4015-002,4015,Visit out of window,No,22-NOV-2025
+ADBM-401,4006-004,4006,Dosing error,Yes,27-OCT-2025
+ADBM-401,4005-011,4005,Eligibility criteria not met,Yes,22-MAR-2026
+ADBM-401,4015-004,4015,Dosing error,Yes,14-JAN-2026
+ADBM-401,4004-005,4004,Missed assessment,No,25-APR-2026
+ADBM-401,4020-002,4020,Dosing error,Yes,21-SEP-2025
+ADBM-401,4004-006,4004,Missed assessment,No,27-NOV-2025
+ADBM-401,4018-009,4018,Visit out of window,No,22-JAN-2026
+ADBM-401,4006-005,4006,Missed assessment,No,15-JAN-2026
+ADBM-401,4016-009,4016,Visit out of window,No,26-MAR-2026
+ADBM-401,4002-012,4002,Visit out of window,No,26-FEB-2026
+ADBM-401,4016-010,4016,Missed assessment,No,03-JAN-2026
+ADBM-401,4003-007,4003,Visit out of window,No,15-MAY-2026
+ADBM-401,4002-015,4002,Missed assessment,No,18-FEB-2026
+ADBM-401,4008-010,4008,Visit out of window,No,15-NOV-2025
+ADBM-401,4002-016,4002,Eligibility criteria not met,Yes,25-SEP-2025
+ADBM-401,4014-009,4014,Missed assessment,No,22-JAN-2026
+ADBM-401,4019-004,4019,Dosing error,Yes,05-MAR-2026
+ADBM-401,4001-022,4001,Eligibility criteria not met,Yes,14-DEC-2025
+ADBM-401,4005-013,4005,Visit out of window,No,11-DEC-2025
+ADBM-401,4015-006,4015,Missed assessment,No,25-JAN-2026
+ADBM-401,4018-011,4018,Visit out of window,No,03-SEP-2026
+ADBM-401,4004-009,4004,Visit out of window,No,09-MAY-2026
+ADBM-401,4009-006,4009,Informed consent process,Yes,22-JUN-2026
+ADBM-401,4012-010,4012,Missed assessment,No,29-JUN-2026
+ADBM-401,4012-010,4012,Visit out of window,No,05-MAY-2026
+ADBM-401,4010-020,4010,Visit out of window,No,26-AUG-2026
+ADBM-401,4010-020,4010,Informed consent process,Yes,01-JAN-2026
+ADBM-401,4002-021,4002,Missed assessment,No,16-JAN-2026
+ADBM-401,4003-011,4003,Visit out of window,No,22-FEB-2026
+ADBM-401,4009-008,4009,Missed assessment,No,03-OCT-2026
+ADBM-401,4008-015,4008,Missed assessment,No,06-MAY-2026
+ADBM-401,4008-015,4008,Visit out of window,No,12-OCT-2026
+ADBM-401,4002-030,4002,Dosing error,Yes,17-AUG-2026
+ADBM-401,4013-006,4013,Informed consent process,Yes,09-FEB-2026
+ADBM-401,4018-018,4018,Visit out of window,No,05-MAR-2026
+ADBM-401,4002-031,4002,Visit out of window,No,12-OCT-2026
+ADBM-401,4010-023,4010,Informed consent process,Yes,05-FEB-2026
+ADBM-401,4005-019,4005,Missed assessment,No,05-FEB-2026
+ADBM-401,4001-026,4001,Dosing error,Yes,02-JUN-2026
+ADBM-401,4014-017,4014,Dosing error,Yes,21-MAR-2026
+ADBM-401,4004-016,4004,Visit out of window,No,03-JAN-2027
+ADBM-401,4014-018,4014,Visit out of window,No,25-NOV-2026
