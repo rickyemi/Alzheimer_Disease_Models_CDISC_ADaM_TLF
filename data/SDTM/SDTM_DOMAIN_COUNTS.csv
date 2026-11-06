@@ -1,0 +1,18 @@
+DOMAIN,RECORDS,SUBJECTS,CLASS
+TS,56,NA,Trial Design
+TV,26,NA,Trial Design
+DM,1128,1128,Special Purpose
+SUPPDM,2256,1128,Relationship
+SV,6695,1128,Special Purpose
+EX,15983,1126,Interventions
+AE,2559,981,Events
+CM,2348,1032,Interventions
+DS,3384,1128,Events
+DV,373,297,Events
+VS,34603,1128,Findings
+LB,77175,1128,Findings
+QS,60255,1128,Findings
+GF,1128,1128,Findings
+NV,7575,1128,Findings
+SUPPNV,2525,1128,Relationship
+PC,475,48,Findings
